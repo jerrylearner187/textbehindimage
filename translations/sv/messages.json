@@ -1,0 +1,2861 @@
+{
+  "/HNf1t": {
+    "translation": "\"Upptäck magin med att expandera dina foton med AI\"",
+    "message": "\"Discover the Magic of Expanding Your Photos with AI\"",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/blogs-page-client.tsx",
+        37
+      ]
+    ]
+  },
+  "J/hVSQ": {
+    "translation": "{0}",
+    "message": "{0}",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        34
+      ],
+      [
+        "components/wegic/pricing.tsx",
+        35
+      ],
+      [
+        "components/wegic/pricing.tsx",
+        36
+      ]
+    ]
+  },
+  "32fNxX": {
+    "translation": "#0# förbehåller sig rätten att efter eget gottfinnande när som helst ändra eller ersätta dessa villkor. Vi kommer att meddela användarna om eventuella ändringar via e-post. Fortsatt användning av webbplatsen efter en sådan ändring av dessa villkor kommer att anses som ett godkännande av sådana ändringar.",
+    "message": "#0# reserves the right, at our sole discretion, to modify or replace these Terms at any time. We will notify users of any changes by email. Your continued use of the Website after any change in these Terms will constitute your acceptance of such changes.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        25
+      ]
+    ]
+  },
+  "GkCoYT": {
+    "translation": "<< Returna blogglistan",
+    "message": "<< Return Blogs List",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/[slug]/page.tsx",
+        47
+      ]
+    ]
+  },
+  "heWVMD": {
+    "translation": "1 Credit/use, {0} left",
+    "message": "1 Credit/use, {0} left",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        827
+      ]
+    ]
+  },
+  "qVv47w": {
+    "translation": "1. Informationsinsamling och användning",
+    "message": "1. Information Collection and Use",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        16
+      ]
+    ]
+  },
+  "dnEZiE": {
+    "translation": "1. Användarlicens",
+    "message": "1. Use License",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        16
+      ]
+    ]
+  },
+  "RUEwir": {
+    "translation": "2. Loggdata",
+    "message": "2. Log Data",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        18
+      ]
+    ]
+  },
+  "AV4xaK": {
+    "translation": "2. Äganderätt",
+    "message": "2. Ownership",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        18
+      ]
+    ]
+  },
+  "hczIS1": {
+    "translation": "3. Cookies",
+    "message": "3. Cookies",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        20
+      ]
+    ]
+  },
+  "69EiaO": {
+    "translation": "3. Insamling av användardata",
+    "message": "3. User Data Collection",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        20
+      ]
+    ]
+  },
+  "pik+Gj": {
+    "translation": "4. Tillämplig lag",
+    "message": "4. Governing Law",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        22
+      ]
+    ]
+  },
+  "gSmscK": {
+    "translation": "4. Tjänsteleverantörer",
+    "message": "4. Service Providers",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        22
+      ]
+    ]
+  },
+  "HT0gtE": {
+    "translation": "5. Ändringar i villkoren",
+    "message": "5. Changes to Terms",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        24
+      ]
+    ]
+  },
+  "0jvfq0": {
+    "translation": "5. Säkerhet",
+    "message": "5. Security",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        31
+      ]
+    ]
+  },
+  "UA5K4X": {
+    "translation": "6. Kontaktinformation",
+    "message": "6. Contact Information",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        26
+      ]
+    ]
+  },
+  "c72RA6": {
+    "translation": "6. Länkar till andra webbplatser",
+    "message": "6. Links to Other Sites",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        33
+      ]
+    ]
+  },
+  "FhdZtA": {
+    "translation": "7. Ändringar i denna integritetspolicy",
+    "message": "7. Changes to This Privacy Policy",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        35
+      ]
+    ]
+  },
+  "Ukjyf+": {
+    "translation": "Absolut! AI Bildverlängerung wurde speziell entwickelt, um den ursprünglichen Bildstil während des Erweiterungsprozesses beizubehalten. Unsere AI-Bildverlängerungsalgorithmen sind darauf trainiert, einzigartige Bildmerkmale zu verstehen und zu replizieren, um eine visuelle Konsistenz zwischen dem ursprünglichen und erweiterten Inhalt sicherzustellen.",
+    "message": "Absolutely! AI Photo Extender is specifically designed to preserve the original image style throughout the expansion process. Our AI photo extender's algorithms are trained to understand and replicate unique image characteristics, ensuring visual consistency between the original and expanded content.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        34
+      ]
+    ]
+  },
+  "8O/T2d": {
+    "translation": "Absolut! Golf Orbit är utformad med enkla mål och lättförståliga regler, vilket gör den tillgänglig för spelare på alla färdighetsnivåer.",
+    "message": "Absolutely! Golf Orbit is designed with simple goals and easy-to-understand rules, making it accessible for players of all skill levels.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        139
+      ]
+    ]
+  },
+  "Gc4eSt": {
+    "translation": "Absolut! Neben der Erweiterung des Bildinhaltes bietet AI Bildverlängerung auch die Möglichkeit, die Bildauflösung der hochgeladenen Bilder zu erhöhen. Dies ermöglicht es den Nutzern, die Gesamtauflösung und die Qualität ihrer Bilder zu verbessern.",
+    "message": "Absolutely! In addition to expanding the content of the image, AI Image Extender also provides the option to increase the pixel dimensions of the uploaded images. This allows users to enhance the overall resolution and quality of their images.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        48
+      ]
+    ]
+  },
+  "zLNTkq": {
+    "translation": "Absolut! Unser generatives Auffüllen AI ist speziell entwickelt, um den ursprünglichen Bildstil während des Erweiterungsprozesses zu erhalten. Die Algorithmen, die die Technologie dieses generativen Auffüllens antreiben, sind darauf trainiert, einzigartige Bildmerkmale zu verstehen und zu replizieren, um eine visuelle Konsistenz zwischen dem ursprünglichen und erweiterten Inhalt sicherzustellen.",
+    "message": "Absolutely! Our generative fill AI is specifically designed to preserve the original image style throughout the expansion process. The algorithms powering this generative fill AI technology are trained to understand and replicate unique image characteristics, ensuring visual consistency between the original and expanded content.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        34
+      ]
+    ]
+  },
+  "A+Al01": {
+    "translation": "Nach dem Bildverlängerer",
+    "message": "After Image Extender",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/hero.tsx",
+        88
+      ]
+    ]
+  },
+  "uFZsqH": {
+    "translation": "Efter inloggning kan du ha tre två prov utöka din bild med AI",
+    "message": "After logging in, you can have three two trials expand your image with AI",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/index-uploader.tsx",
+        33
+      ]
+    ]
+  },
+  "JFnLY9": {
+    "translation": "Efter Outpainting",
+    "message": "After Outpainting",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        219
+      ]
+    ]
+  },
+  "6EmTc/": {
+    "translation": "Nach dem Bildverlängerer",
+    "message": "After Photo Extender",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/hero.tsx",
+        88
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/hero.tsx",
+        88
+      ]
+    ]
+  },
+  "HOlava": {
+    "translation": "AI Bildverlängerung ermöglicht es Nutzern, bis zu vier Bilder gleichzeitig zu erweitern. Diese Multi-Bild-Erweiterungsfunktion ermöglicht es den Nutzern, mehrere Bilder gleichzeitig effizient zu verbessern.",
+    "message": "AI Image Extender allows users to simultaneously expand up to four images. This multi-image expansion feature enables users to conveniently enhance multiple images in a time-efficient manner.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        56
+      ]
+    ]
+  },
+  "WN+5uZ": {
+    "translation": "AI Bildverlängerung verwendet fortschrittliche KI-Algorithmen, um die hochgeladenen Bilder zu analysieren und zusätzlichen Inhalt basierend auf den vorhandenen Bilddaten zu generieren. Durch den Einsatz eines Deep-Learning-Modells ist die KI-Technologie in der Lage, den Bildinhalt nahtlos zu erweitern, wobei der ursprüngliche Bildstil beibehalten wird.",
+    "message": "AI Image Extender employs cutting-edge AI algorithms to analyze the uploaded images and generate additional content based on the existing image data. By utilizing a deep learning model, the AI technology is able to seamlessly expand the image content in a way that remains consistent with the original style.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        34
+      ]
+    ]
+  },
+  "C/klTT": {
+    "translation": "AI Bildverlängerungsgalerie",
+    "message": "AI Image Extender Gallery",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/gallery.tsx",
+        40
+      ]
+    ]
+  },
+  "7KKVnB": {
+    "translation": "AI Bildverlängerung ist eine Website, die fortschrittliche KI-Technologie verwendet, um die von Benutzern hochgeladenen Bilder zu erweitern und zu verbessern. Sie kann den Inhalt der Bilder in vier Richtungen (oben, unten, links und rechts) erweitern, wobei der ursprüngliche Bildstil beibehalten wird. Sie hat auch die Möglichkeit, die Bildauflösung der Bilder zu erhöhen und gleichzeitig bis zu vier Bilder zu erweitern.",
+    "message": "AI Image Extender is a website that utilizes advanced AI technology to expand and enhance images uploaded by users. It can extend the content of images in four directions (up, down, left, and right), while maintaining the original style of the image. It also has the capability to increase the pixel dimensions of the images and simultaneously expand up to four images.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        28
+      ]
+    ]
+  },
+  "/vcx2e": {
+    "translation": "AI Bildverlängerung: Erweitern Sie Ihre Horizonte mit kreativen Bildverlängerungen",
+    "message": "AI Image Extender: Expand Your Horizons with Creative Image Extensions",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/hero.tsx",
+        35
+      ]
+    ]
+  },
+  "jaB///": {
+    "translation": "AI Outpainting Galleri",
+    "message": "AI Outpainting Gallery",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/gallery.tsx",
+        40
+      ]
+    ]
+  },
+  "ZyBhxg": {
+    "translation": "AI Outpainting Bild",
+    "message": "AI Outpainting Image",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        166
+      ]
+    ]
+  },
+  "+dagcs": {
+    "translation": "AI Outpainting Bildblogg Inlägg",
+    "message": "AI Outpainting Image Blogs Post",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/blogs-page-client.tsx",
+        34
+      ]
+    ]
+  },
+  "xxs+vI": {
+    "translation": "AI Malen nach Zahlen Spielplatz",
+    "message": "AI Outpainting Playground",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/page.tsx",
+        15
+      ]
+    ]
+  },
+  "n8ms0F": {
+    "translation": "AI utmålning resultat",
+    "message": "AI Outpainting Result",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/page.tsx",
+        19
+      ]
+    ]
+  },
+  "NFpS5a": {
+    "translation": "AI Bildverlängerungsgalerie",
+    "message": "AI Photo Extender Gallery",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/gallery.tsx",
+        40
+      ]
+    ]
+  },
+  "CHNN5v": {
+    "translation": "AI Bildverlängerung ist ein innovatives Online-Tool, das fortschrittliche KI-Technologie verwendet, um die von Benutzern hochgeladenen Bilder zu erweitern und zu verbessern. Diese AI-Bildverlängerung kann den Bildinhalt nahtlos in alle vier Richtungen erweitern, wobei der ursprüngliche Stil beibehalten wird. Darüber hinaus kann unsere AI-Bildverlängerung die Bildauflösung erhöhen und bis zu vier Bilder gleichzeitig verarbeiten.",
+    "message": "AI Photo Extender is an innovative online tool that uses advanced AI technology to expand and enhance user-uploaded images. This AI photo extender can seamlessly extend image content in all four directions while maintaining the original style. Additionally, our AI photo extender can increase image resolution and process up to four images simultaneously.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        26
+      ]
+    ]
+  },
+  "bK/TAt": {
+    "translation": "AI Bildverlängerung ist in der Lage, bis zu vier Bilder gleichzeitig zu verarbeiten. Diese Multi-Bild-Funktion unserer AI-Bildverlängerung ermöglicht es den Nutzern, mehrere Bilder gleichzeitig effizient zu verbessern.",
+    "message": "AI Photo Extender is capable of processing up to four images simultaneously. This multi-image feature of our AI photo extender enables users to efficiently enhance multiple images in a single session, saving time and effort.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        42
+      ]
+    ]
+  },
+  "MeL6D4": {
+    "translation": "AI Bildverlängerung verwendet fortschrittliche KI-Algorithmen, um die hochgeladenen Bilder zu analysieren und zusätzlichen Inhalt zu generieren. Unser KI-Bildverlängerungsmodell sorgt dafür, dass die erweiterten Bereiche nahtlos mit dem ursprünglichen Bild verschmelzen, wobei der Stil und die Qualität konsistent bleiben.",
+    "message": "AI Photo Extender utilizes state-of-the-art AI algorithms to analyze uploaded images and generate additional content. Our AI photo extender's deep learning model ensures that the expanded areas blend seamlessly with the original image, maintaining consistency in style and quality.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        30
+      ]
+    ]
+  },
+  "bJOlPb": {
+    "translation": "AI Bildverlängerung: Erweitern Sie Ihre Horizonte mit kreativen Bildverlängerungen",
+    "message": "AI Photo Extender: Expand Your Horizons with Creative Image Extensions",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/hero.tsx",
+        35
+      ]
+    ]
+  },
+  "ucCUQ3": {
+    "translation": "Sikta på det gröna området",
+    "message": "Aim for the Green Area",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        49
+      ]
+    ]
+  },
+  "lxentK": {
+    "translation": "Ett oväntat fel uppstod",
+    "message": "An unexpected error occurred",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        468
+      ]
+    ]
+  },
+  "HKMi54": {
+    "translation": "Finns det några utmaningar i Golf Orbit?",
+    "message": "Are there any challenges in Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        134
+      ]
+    ]
+  },
+  "4WPYPJ": {
+    "translation": "Bist du sicher, dass du den aktuellen Leerraum löschen möchtest? Dadurch werden alle generierten Bilder und der aktuelle Bearbeitungsstatus gelöscht.",
+    "message": "Are you sure you want to clear the current canvas? This will delete all generated images and the current editing state.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        895
+      ]
+    ]
+  },
+  "iH8pgl": {
+    "translation": "Zurück",
+    "message": "Back",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        605
+      ]
+    ]
+  },
+  "8Cg4ES": {
+    "translation": "Bildvorverlängerung",
+    "message": "Before Image Extender",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/hero.tsx",
+        75
+      ]
+    ]
+  },
+  "IBtiOe": {
+    "translation": "Innan Outpainting",
+    "message": "Before Outpainting",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        181
+      ]
+    ]
+  },
+  "FU+lge": {
+    "translation": "Bildvorverlängerung",
+    "message": "Before Photo Extender",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/hero.tsx",
+        75
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/hero.tsx",
+        75
+      ]
+    ]
+  },
+  "ExFMj8": {
+    "translation": "Bloggar",
+    "message": "Blogs",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/page.tsx",
+        16
+      ],
+      [
+        "components/wegic/blogs.tsx",
+        20
+      ],
+      [
+        "components/wegic/footer.tsx",
+        14
+      ]
+    ]
+  },
+  "zsiX7I": {
+    "translation": "Unten",
+    "message": "Bottom",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        586
+      ]
+    ]
+  },
+  "xzHB2Z": {
+    "translation": "Durchstöbern Sie beeindruckende Beispiele für die AI-Bildverlängerung und entdecken Sie die grenzenlosen Möglichkeiten, um Kunstwerke zu erweitern.",
+    "message": "Browse\nthrough stunning examples of AI image extender, showcasing the limitless possibilities of extending\nartworks.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/gallery.tsx",
+        45
+      ]
+    ]
+  },
+  "QgF6mS": {
+    "translation": "Bläddra\ngenom fantastiska exempel på AI outpainting, som visar de oändliga möjligheterna att förlänga\nkonstverk.",
+    "message": "Browse\nthrough stunning examples of AI outpainting, showcasing the limitless possibilities of extending\nartworks.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/gallery.tsx",
+        45
+      ]
+    ]
+  },
+  "A056gq": {
+    "translation": "Durchstöbern Sie beeindruckende Beispiele für die AI-Fotoerweiterung und entdecken Sie die grenzenlosen Möglichkeiten, um Kunstwerke zu erweitern.",
+    "message": "Browse\nthrough stunning examples of AI photo extender, showcasing the limitless possibilities of extending\nartworks.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/gallery.tsx",
+        45
+      ]
+    ]
+  },
+  "eBimti": {
+    "translation": "Durchstöbern Sie beeindruckende Beispiele für generatives Auffüllen AI und entdecken Sie die grenzenlosen Möglichkeiten, um Kunstwerke zu erweitern.",
+    "message": "Browse\nthrough stunning examples of generative fill ai, showcasing the limitless possibilities of extending\nartworks.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/gallery.tsx",
+        45
+      ]
+    ]
+  },
+  "yZ2PlW": {
+    "translation": "Genom att använda #0# bekräftar du att du accepterar dessa användarvillkor.",
+    "message": "By using #0#, you signify your acceptance of these Terms of Service.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        28
+      ]
+    ]
+  },
+  "EWY1qg": {
+    "translation": "Kann AI Bildverlängerung die Bildauflösung eines Bildes erhöhen?",
+    "message": "Can AI Image Extender increase the pixel dimensions of an image?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        46
+      ]
+    ]
+  },
+  "WWl4gu": {
+    "translation": "Kann AI Bildverlängerung den Stil des ursprünglichen Bildes beibehalten, während es erweitert wird?",
+    "message": "Can AI Image Extender maintain the style of the original image while expanding it?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        39
+      ]
+    ]
+  },
+  "6+I5pv": {
+    "translation": "Kann AI Fotoerweiterung den ursprünglichen Bildstil beibehalten?",
+    "message": "Can AI Photo Extender maintain the original image style?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        33
+      ]
+    ]
+  },
+  "2VuDjI": {
+    "translation": "Kan vem som helst spela Golf Orbit?",
+    "message": "Can anyone play Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        138
+      ]
+    ]
+  },
+  "o7jL3/": {
+    "translation": "Kann das generative Auffüllen AI den ursprünglichen Bildstil beibehalten?",
+    "message": "Can Generative Fill AI maintain the original image style?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        33
+      ]
+    ]
+  },
+  "dEgA5A": {
+    "translation": "Abbrechen",
+    "message": "Cancel",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        899
+      ]
+    ]
+  },
+  "z65MvS": {
+    "translation": "Leeren Sie den Leerraum",
+    "message": "Clear Canvas",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        796
+      ]
+    ]
+  },
+  "yz7wBu": {
+    "translation": "Stäng",
+    "message": "Close",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        926
+      ],
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        56
+      ]
+    ]
+  },
+  "QECVrh": {
+    "translation": "Samla mynt och belöningar",
+    "message": "Collect Coins and Rewards",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        61
+      ]
+    ]
+  },
+  "QTBZC3": {
+    "translation": "Bestätigen Sie die Leerraumlöschung",
+    "message": "Confirm Clear",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        902
+      ]
+    ]
+  },
+  "1KApxq": {
+    "translation": "Bestätigen Sie die Leerraumlöschung",
+    "message": "Confirm Clear Canvas",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        893
+      ]
+    ]
+  },
+  "BWF0ai": {
+    "translation": "Kontextmedveten AI",
+    "message": "Context-aware AI",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/features.tsx",
+        23
+      ],
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/features.tsx",
+        23
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/features.tsx",
+        23
+      ]
+    ]
+  },
+  "qTrELo": {
+    "translation": "Weiter generieren",
+    "message": "Continue Generating",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        822
+      ]
+    ]
+  },
+  "ZFKnW0": {
+    "translation": "Kontrollera bollen",
+    "message": "Control the Ball",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        43
+      ]
+    ]
+  },
+  "akF51D": {
+    "translation": "Cookies är filer med en liten mängd data som vanligtvis används som anonyma unika identifierare. Dessa skickas till din webbläsare från de webbplatser du besöker och lagras i din enhets internminne. Denna tjänst använder inte dessa cookies explicit. Appen kan dock använda tredjepartskod och bibliotek som använder cookies för att samla in information och förbättra sina tjänster. Du har möjlighet att antingen acceptera eller vägra dessa cookies och veta när en cookie skickas till din enhet. Om du väljer att vägra våra cookies kanske du inte kan använda vissa delar av denna tjänst.",
+    "message": "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these cookies explicitly. However, the app may use third party code and libraries that use cookies to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        21
+      ]
+    ]
+  },
+  "TXxF+/": {
+    "translation": "kredit",
+    "message": "credit",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        93
+      ]
+    ]
+  },
+  "mehNeY": {
+    "translation": "Kredit:{0}",
+    "message": "Credit:{0}",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        660
+      ],
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        677
+      ],
+      [
+        "components/wegic/navbar.tsx",
+        174
+      ],
+      [
+        "components/wegic/navbar.tsx",
+        190
+      ]
+    ]
+  },
+  "38nphA": {
+    "translation": "Erhöht AI Fotoerweiterung die Bildauflösung?",
+    "message": "Does AI Photo Extender increase image resolution?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        37
+      ]
+    ]
+  },
+  "8gRz33": {
+    "translation": "Erhöht das generative Auffüllen AI die Bildauflösung?",
+    "message": "Does Generative Fill AI increase image resolution?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        37
+      ]
+    ]
+  },
+  "mzI/c+": {
+    "translation": "Ladda ner",
+    "message": "Download",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        836
+      ]
+    ]
+  },
+  "0yQo/k": {
+    "translation": "Ladda ner bild",
+    "message": "Download Image",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        264
+      ]
+    ]
+  },
+  "DNhRz0": {
+    "translation": "Under din flygresa, samla mynt för att låsa upp uppgraderingar. Ju längre avstånd du uppnår, desto fler poäng får du, vilket kan användas för att förbättra din spelupplevelse.",
+    "message": "During your flight, collect coins to unlock upgrades. The longer the distance you achieve, the more points you earn, which can be used to enhance your gameplay.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        62
+      ]
+    ]
+  },
+  "fBjOS6": {
+    "translation": "Varje\nstycke i vårt galleri visar kraften av AI i att omvandla och förstärka kreativa projekt.",
+    "message": "Each\npiece in our gallery demonstrates the power of AI in transforming and enhancing creative projects.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/gallery.tsx",
+        50
+      ],
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/gallery.tsx",
+        50
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/gallery.tsx",
+        50
+      ],
+      [
+        "components/wegic/gallery.tsx",
+        50
+      ]
+    ]
+  },
+  "wRoPp9": {
+    "translation": "Varje slag kommer att registrera den tillryggalagda distansen. Håll koll på din utveckling för att förbättra dina färdigheter och sikta på längre avstånd med varje slag.",
+    "message": "Each shot will record the distance traveled. Keep track of your progress to improve your skills and aim for longer distances with each swing.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        56
+      ]
+    ]
+  },
+  "RuqoXe": {
+    "translation": "Delta i endagstävlingar",
+    "message": "Engage in One-Shot Battles",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        105
+      ]
+    ]
+  },
+  "rtNKwJ": {
+    "translation": "Njut av de unika karaktärs- och bollmöjligheterna. Att spela som olika karaktärer kan ge en rolig twist till din spelupplevelse.",
+    "message": "Enjoy the unique character and ball customization options. Playing as different characters can add a fun twist to your gameplay.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        111
+      ]
+    ]
+  },
+  "qBX4sV": {
+    "translation": "Fel uppstod vid bearbetning av bilden",
+    "message": "Error occurred while processing the image",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        460
+      ]
+    ]
+  },
+  "7xE6LV": {
+    "translation": "Byt ut poäng på klubbhuset för att ändra din golfspelare, bollens färg eller till och med den värld du spelar i. Välj bland en mängd roliga karaktärer och färgstarka platser.",
+    "message": "Exchange points at the clubhouse to change your golfer, ball color, or even the world you play in. Choose from a variety of fun characters and vibrant locations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        74
+      ]
+    ]
+  },
+  "Q+x/E4": {
+    "translation": "Erweiterung",
+    "message": "Expanding",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        820
+      ]
+    ]
+  },
+  "jU4owd": {
+    "translation": "Richtung der Erweiterung",
+    "message": "Expansion Direction",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        709
+      ]
+    ]
+  },
+  "kNSTBA": {
+    "translation": "Richtung der Erweiterung:",
+    "message": "Expansion Direction:",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        611
+      ]
+    ]
+  },
+  "dzop7f": {
+    "translation": "Experimentera med uppgraderingar",
+    "message": "Experiment with Upgrades",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        95
+      ]
+    ]
+  },
+  "nkhTSO": {
+    "translation": "Erweitern Sie Ihren Rahmen mit AI-Bildverlängerung: Erweitern Sie Ihre Fotos online nahtlos mit fortschrittlicher generativer KI und stellen Sie sicher, dass die visuelle Qualität bei allen Bildformaten beibehalten wird.",
+    "message": "Explore Beyond the Frame with AI Image Extender: Seamlessly expand your photos online using advanced generative AI, ensuring high-quality visuals are maintained across all image ratios.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/hero.tsx",
+        38
+      ]
+    ]
+  },
+  "UTesON": {
+    "translation": "Erweitern Sie Ihren Rahmen mit AI Fotoerweiterung: Erweitern Sie Ihre Fotos online nahtlos mit fortschrittlicher generativer KI und stellen Sie sicher, dass die visuelle Qualität bei allen Bildformaten beibehalten wird.",
+    "message": "Explore Beyond the Frame with AI Photo Extender: Seamlessly expand your photos online using advanced generative AI, ensuring high-quality visuals are maintained across all image ratios.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/hero.tsx",
+        38
+      ]
+    ]
+  },
+  "HO2QAu": {
+    "translation": "Erweitern Sie Ihren Rahmen mit generativem Auffüllen AI: Erweitern Sie Ihre Fotos online nahtlos mit fortschrittlicher generativer KI und stellen Sie sicher, dass die visuelle Qualität bei allen Bildformaten beibehalten wird.",
+    "message": "Explore Beyond the Frame with Generative Fill AI: Seamlessly expand your photos online using advanced generative AI, ensuring high-quality visuals are maintained across all image ratios.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/hero.tsx",
+        38
+      ]
+    ]
+  },
+  "JqzZ/3": {
+    "translation": "Utforska den nyckfulla världen av Golf Orbit, där traditionell golf möter intergalaktiska äventyr. Skjut golfbollar till otroliga höjder, anpassa unika karaktärer och uppgradera din utrustning för en oförglömlig kosmisk golfupplevelse. Tillgänglig på Android, iOS och webbläsare.",
+    "message": "Explore the whimsical world of Golf Orbit, where traditional golf meets intergalactic adventure. Launch golf balls to incredible heights, customize unique characters, and upgrade your gear for an unforgettable cosmic golfing experience. Available on Android, iOS, and web browsers.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        17
+      ]
+    ]
+  },
+  "ke8MAp": {
+    "translation": "Förbättra igen",
+    "message": "Extend Again",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/features.tsx",
+        32
+      ],
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/features.tsx",
+        32
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/features.tsx",
+        32
+      ]
+    ]
+  },
+  "p5l4iX": {
+    "translation": "Resultaten kan expanderas upprepade gånger, vilket möjliggör kontinuerliga förbättringar",
+    "message": "Extended results can be expanded repeatedly,allowing for continuous enhancements",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/features.tsx",
+        34
+      ],
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/features.tsx",
+        34
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/features.tsx",
+        34
+      ]
+    ]
+  },
+  "lIFSzb": {
+    "translation": "Misslyckades att ladda upp fil: {0}",
+    "message": "Failed to upload file: {0}",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/useS34R2.ts",
+        23
+      ]
+    ]
+  },
+  "cDhYY/": {
+    "translation": "Snabb generering",
+    "message": "Fast generation",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        28
+      ]
+    ]
+  },
+  "TVSR9M": {
+    "translation": "Filstorleken överskrider 10MB. Välj en mindre fil.",
+    "message": "File size exceeds 10MB. Please select a smaller file.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        193
+      ],
+      [
+        "components/wegic/painting-uploader.tsx",
+        40
+      ]
+    ]
+  },
+  "uXDmWz": {
+    "translation": "Fokusera på tajming",
+    "message": "Focus on Timing",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        90
+      ]
+    ]
+  },
+  "st6ZC4": {
+    "translation": "För en bättre upplevelse kan jag behöva att du tillhandahåller vissa personligen identifierbara uppgifter medan du använder vår tjänst. Den information jag begär kommer att lagras på din enhet och samlas inte in av mig på något sätt. Appen använder dock tredjepartstjänster som kan samla in information som används för att identifiera dig.",
+    "message": "For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. The app does use third-party services that may collect information used to identify you.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        17
+      ]
+    ]
+  },
+  "ofu/39": {
+    "translation": "Kostenlose AI-Bildverlängerung",
+    "message": "Free AI Image Extender",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/features.tsx",
+        12
+      ]
+    ]
+  },
+  "0BCXgy": {
+    "translation": "Kostenlose AI Fotoerweiterung",
+    "message": "Free AI Photo Extender",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/features.tsx",
+        12
+      ]
+    ]
+  },
+  "ViaB2F": {
+    "translation": "Kostenlose generative Füllung AI",
+    "message": "Free Generative Fill AI",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/features.tsx",
+        12
+      ]
+    ]
+  },
+  "F7G/TS": {
+    "translation": "Vanliga frågor",
+    "message": "Frequently Asked Questions",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        67
+      ],
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        53
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        52
+      ],
+      [
+        "components/wegic/faqs.tsx",
+        34
+      ]
+    ]
+  },
+  "oJZ41z": {
+    "translation": "Generatives Auffüllen AI verwendet fortschrittliche Algorithmen, um die hochgeladenen Bilder zu analysieren und zusätzlichen Inhalt zu generieren. Das Deep-Learning-Modell hinter unserem generativen Auffüllen AI sorgt dafür, dass die erweiterten Bereiche nahtlos mit dem ursprünglichen Bild verschmelzen, wobei der Stil und die Qualität konsistent bleiben.",
+    "message": "Generative Fill AI employs state-of-the-art algorithms to analyze uploaded images and generate additional content. The deep learning model behind our generative fill AI ensures that the expanded areas blend seamlessly with the original image, maintaining consistency in style and quality throughout the process.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        30
+      ]
+    ]
+  },
+  "+XZy/0": {
+    "translation": "Generative Auffüllungsgalerie",
+    "message": "Generative Fill AI Gallery",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/gallery.tsx",
+        40
+      ]
+    ]
+  },
+  "9Q0Mk1": {
+    "translation": "Generatives Auffüllen AI ist ein innovatives Online-Tool, das fortschrittliche KI-Technologie verwendet, um die von Benutzern hochgeladenen Bilder zu erweitern und zu verbessern. Diese AI-Bildverlängerungstechnologie kann den Bildinhalt nahtlos in alle vier Richtungen erweitern, wobei der ursprüngliche Stil beibehalten wird. Unser generatives Auffüllen AI-Tool bietet außerdem die Möglichkeit, die Bildauflösung zu erhöhen und mehrere Bilder gleichzeitig zu verarbeiten.",
+    "message": "Generative Fill AI is an innovative online tool that leverages advanced artificial intelligence to expand and enhance images. This cutting-edge generative fill AI technology can seamlessly extend image content in all directions while maintaining the original style. Our generative fill AI tool also offers image resolution enhancement and can process multiple images simultaneously.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        26
+      ]
+    ]
+  },
+  "SH0knd": {
+    "translation": "Generatives Auffüllen AI: Erweitern Sie Ihren Rahmen mit kreativen Bildverlängerungen",
+    "message": "Generative Fill AI: Expand Your Horizons with Creative Image Extensions",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/hero.tsx",
+        35
+      ]
+    ]
+  },
+  "c3b0B0": {
+    "translation": "Kom igång",
+    "message": "Get Started",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/hero.tsx",
+        49
+      ],
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/hero.tsx",
+        49
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/hero.tsx",
+        49
+      ],
+      [
+        "components/wegic/index-uploader.tsx",
+        44
+      ],
+      [
+        "components/wegic/pricing.tsx",
+        140
+      ]
+    ]
+  },
+  "sAH4M6": {
+    "translation": "Gå till Betalning",
+    "message": "Go to Payment",
+    "comments": [],
+    "origin": [
+      [
+        "components/payment/stripe.tsx",
+        35
+      ]
+    ]
+  },
+  "xY6h9F": {
+    "translation": "Golf Orbit",
+    "message": "Golf Orbit",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        5
+      ]
+    ]
+  },
+  "fAKcR3": {
+    "translation": "Golf Orbit är ett spännande golfsimulatörspel där spelarna strävar efter att skjuta golfbollar till otroliga höjder, till och med till Mars. Det har endagstävlingar i golf, utmanande nivåer och möjlighet att bemästra det perfekta slaget.",
+    "message": "Golf Orbit is an exciting golf simulator game where players aim to launch golf balls to incredible heights, even reaching Mars. It features one-shot golf battles, challenging levels, and the opportunity to master the perfect shot.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        119
+      ]
+    ]
+  },
+  "F7x/HY": {
+    "translation": "Golf Orbit: Skjut iväg ditt golfeventyr bortom stjärnorna",
+    "message": "Golf Orbit: Launch Your Golf Adventure Beyond the Stars",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        16
+      ]
+    ]
+  },
+  "0RKAvR": {
+    "translation": "Har loggat in",
+    "message": "Has logged in",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        128
+      ]
+    ]
+  },
+  "i/folP": {
+    "translation": "Ha roligt med anpassning",
+    "message": "Have Fun with Customization",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        110
+      ]
+    ]
+  },
+  "Ghlr93": {
+    "translation": "Högkvalitativa bilder",
+    "message": "High quality images",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        29
+      ]
+    ]
+  },
+  "i0qMbr": {
+    "translation": "Hem",
+    "message": "Home",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        12
+      ],
+      [
+        "components/wegic/header.tsx",
+        8
+      ]
+    ]
+  },
+  "pzu7v4": {
+    "translation": "Horisontell",
+    "message": "Horizontal",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        613
+      ],
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        711
+      ]
+    ]
+  },
+  "k4BMq5": {
+    "translation": "Horisontell expansion",
+    "message": "Horizontal Expansion",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        255
+      ]
+    ]
+  },
+  "LWjutm": {
+    "translation": "Hur kan jag förbättra mitt resultat i Golf Orbit?",
+    "message": "How can I improve my score in Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        130
+      ]
+    ]
+  },
+  "PkzK4L": {
+    "translation": "Hur spelar jag Golf Orbit?",
+    "message": "How do I play Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        122
+      ]
+    ]
+  },
+  "/o/u7t": {
+    "translation": "Wie funktioniert AI-Bildverlängerung?",
+    "message": "How does AI Image Extender work?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        32
+      ]
+    ]
+  },
+  "i1x708": {
+    "translation": "Hur fungerar AI-fotokrydda?",
+    "message": "How does AI Photo Extender work?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        29
+      ]
+    ]
+  },
+  "VVkhXx": {
+    "translation": "Hur fungerar generativ fylld AI?",
+    "message": "How does Generative Fill AI work?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        29
+      ]
+    ]
+  },
+  "EJYtRo": {
+    "translation": "Hur många bilder kan AI-fotokrydda bearbeta samtidigt?",
+    "message": "How many images can AI Photo Extender process at once?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        41
+      ]
+    ]
+  },
+  "T2jWIX": {
+    "translation": "Hur många bilder kan AI-fotokrydda bearbeta samtidigt?",
+    "message": "How many images can Generative Fill AI process at once?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        41
+      ]
+    ]
+  },
+  "wVrOLV": {
+    "translation": "Hur många bilder kan jag på en gång utöka med hjälp av AI-fotokrydda?",
+    "message": "How many images can I expand at once using AI Image Extender?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        54
+      ]
+    ]
+  },
+  "VXLg1Q": {
+    "translation": "Hur man spelar Golf Orbit?",
+    "message": "How To Play Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        26
+      ]
+    ]
+  },
+  "dQt+7J": {
+    "translation": "Jag kan anlita tredjepartsföretag och individer av följande skäl:",
+    "message": "I may employ third-party companies and individuals due to the following reasons:",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        23
+      ]
+    ]
+  },
+  "EUZXzT": {
+    "translation": "Jag kan uppdatera vår integritetspolicy från tid till annan. Därför rekommenderas du att granska den här sidan regelbundet för eventuella ändringar. Jag kommer att meddela dig om eventuella ändringar genom att publicera den nya integritetspolicyn på den här sidan. Dessa ändringar träder i kraft omedelbart efter att de har publicerats på den här sidan.",
+    "message": "I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        36
+      ]
+    ]
+  },
+  "5dDG4E": {
+    "translation": "Jag värderar din tillit genom att tillhandahålla oss dina personliga uppgifter, därför strävar vi efter att använda kommersiellt acceptabla metoder för att skydda dem. Men kom ihåg att ingen överföringsmetod över internet eller lagringsmetod är 100% säker och pålitlig, och jag kan inte garantera dess absoluta säkerhet.",
+    "message": "I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        32
+      ]
+    ]
+  },
+  "gFP4HL": {
+    "translation": "Jag vill informera användare av denna tjänst om att dessa tredje parter har tillgång till din personliga information. Anledningen är att utföra de uppgifter som tilldelats dem för vår räkning. De är dock skyldiga att inte lämna ut eller använda informationen för något annat syfte.",
+    "message": "I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        30
+      ]
+    ]
+  },
+  "xeCjro": {
+    "translation": "Jag vill informera dig om att när du använder min tjänst, i händelse av ett fel i appen, samlar jag in data och information (via tredjepartsprodukter) på din telefon som kallas loggdata. Denna loggdata kan innehålla information som din enhets IP-adress, enhetsnamn, operativsystemversion, konfigurationen av appen när du använder min tjänst, tiden och datumet för din användning av tjänsten och andra statistik.",
+    "message": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ('IP') address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        19
+      ]
+    ]
+  },
+  "d1ALrF": {
+    "translation": "Om du har några frågor om dessa villkor, vänligen kontakta oss på #0#.",
+    "message": "If you have any questions about these Terms, please contact us at #0#.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        27
+      ]
+    ]
+  },
+  "E1UQnk": {
+    "translation": "Bilder Outpainting",
+    "message": "Images Outpainting",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/hero.tsx",
+        61
+      ],
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/hero.tsx",
+        61
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/hero.tsx",
+        61
+      ]
+    ]
+  },
+  "oTSrSS": {
+    "translation": "Inicialisering av PayPal-tjänster stötte på ett fel.",
+    "message": "Initialization of PayPal services encountered an error.",
+    "comments": [],
+    "origin": [
+      [
+        "components/payment/paypal.tsx",
+        60
+      ]
+    ]
+  },
+  "XU5AOg": {
+    "translation": "Ingång",
+    "message": "Input",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        179
+      ]
+    ]
+  },
+  "jE8On7": {
+    "translation": "Gå med i Golf Orbit och upplev spänningen i att skjuta golfbollar till otroliga höjder. Tävla i endagstävlingar, erövra utmanande nivåer och bemästra det perfekta slaget för att bli den ultimata golfkungen!",
+    "message": "Join Golf Orbit and experience the thrill of hitting golf balls to incredible heights. Compete in one-shot battles, conquer challenging levels, and master the perfect shot to become the ultimate golf king!",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        22
+      ]
+    ]
+  },
+  "mFEgHO": {
+    "translation": "Fortsätt att spela Golf Orbit för att behärska utmaningarna och lära dig hur du effektivt kan övervinna hinder. Ju mer du spelar, desto bättre blir du!",
+    "message": "Keep playing Golf Orbit to master the challenges and learn how to overcome obstacles effectively. The more you play, the better you'll become!",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        80
+      ]
+    ]
+  },
+  "nlizoj": {
+    "translation": "Starta spelet",
+    "message": "Launch the Game",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        31
+      ]
+    ]
+  },
+  "hU6JDJ": {
+    "translation": "Lär känna utformningen av hinder i varje nivå. Att förstå deras positioner kan hjälpa dig att strategiskt planera dina slag bättre.",
+    "message": "Learn the layout of obstacles in each level. Understanding their positions can help you strategize your shots better.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        101
+      ]
+    ]
+  },
+  "UlKSMd": {
+    "translation": "Vänster",
+    "message": "Left",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        581
+      ]
+    ]
+  },
+  "F/9EGj": {
+    "translation": "Laddar bild...",
+    "message": "Loading image...",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        755
+      ]
+    ]
+  },
+  "Z3FXyt": {
+    "translation": "Laddar...",
+    "message": "Loading...",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/loading.tsx",
+        8
+      ],
+      [
+        "components/payment/paypal.tsx",
+        54
+      ]
+    ]
+  },
+  "paehRh": {
+    "translation": "Logga ut",
+    "message": "Log Out",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        667
+      ],
+      [
+        "components/wegic/navbar.tsx",
+        180
+      ]
+    ]
+  },
+  "S1g3Ds": {
+    "translation": "Mellan",
+    "message": "Middle",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        579
+      ]
+    ]
+  },
+  "4Fwtsw": {
+    "translation": "Övervaka dina slag",
+    "message": "Monitor Your Shots",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        55
+      ]
+    ]
+  },
+  "bHt2FX": {
+    "translation": "Nätverksfel eller CORS-problem.",
+    "message": "Network error or CORS issue.",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/useS34R2.ts",
+        27
+      ]
+    ]
+  },
+  "ko93eb": {
+    "translation": "Nya användare som loggar in kommer att få 2 krediter",
+    "message": "New users who log in will receive 2 credits",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        39
+      ]
+    ]
+  },
+  "cvwg/A": {
+    "translation": "Nya användare som loggar in kommer att få 5 krediter",
+    "message": "New users who log in will receive 5 credits",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        120
+      ]
+    ]
+  },
+  "uO0GB/": {
+    "translation": "Ingen giltig resursinformation hittades.",
+    "message": "No valid resource information was found.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        334
+      ]
+    ]
+  },
+  "+n1T9k": {
+    "translation": "Observera hinder",
+    "message": "Observe Obstacles",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        100
+      ]
+    ]
+  },
+  "8HI10O": {
+    "translation": "Originalbild",
+    "message": "Original Image",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        915
+      ]
+    ]
+  },
+  "shdsCc": {
+    "translation": "Originalbildens position",
+    "message": "Original Image Position",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        717
+      ]
+    ]
+  },
+  "3gz7Y7": {
+    "translation": "Originalbildens position:",
+    "message": "Original Image Position:",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        620
+      ]
+    ]
+  },
+  "56MoT/": {
+    "translation": "Vårt generativa fylla AI verktyg kan bearbeta upp till fyra bilder samtidigt. Den här multifoton-funktionen möjliggör att användare effektivt förbättrar flera bilder i en enda session, vilket visar på mångsidigheten och effektiviteten i generativ fyll AI-teknologi.",
+    "message": "Our generative fill AI tool is capable of processing up to four images simultaneously. This multi-image feature enables users to efficiently enhance multiple images in a single session, showcasing the versatility and efficiency of generative fill AI technology.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        42
+      ]
+    ]
+  },
+  "gh06VD": {
+    "translation": "Utmatning",
+    "message": "Output",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        217
+      ]
+    ]
+  },
+  "3F1hbx": {
+    "translation": "Ägd av Användare",
+    "message": "Own By User",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        315
+      ]
+    ]
+  },
+  "3TONwo": {
+    "translation": "Delta i engångsmatcher för att utmana dig själv och förbättra dina färdigheter i en konkurrensutsatt miljö.",
+    "message": "Participate in one-shot battles to challenge yourself and improve your skills in a competitive environment.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        106
+      ]
+    ]
+  },
+  "YztchP": {
+    "translation": "Få perfekt tajming när du klickar för att slå bollen. Rätt tajming kan avsevärt öka skottsträckan.",
+    "message": "Perfect your timing when clicking to hit the ball. The right timing can significantly increase your shot distance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        91
+      ]
+    ]
+  },
+  "2bVshK": {
+    "translation": "Permanently valid",
+    "message": "Permanently valid",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        27
+      ]
+    ]
+  },
+  "W3mmGV": {
+    "translation": "Vänligen klicka eller dra bilden för att ladda upp den.",
+    "message": "Please click or drag the image to upload it.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        774
+      ],
+      [
+        "components/wegic/painting-uploader.tsx",
+        105
+      ]
+    ]
+  },
+  "+Y65s1": {
+    "translation": "Vänligen logga in för att fortsätta",
+    "message": "Please Sign In To Continue",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        391
+      ],
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        38
+      ]
+    ]
+  },
+  "PZCqeW": {
+    "translation": "Försök igen senare.",
+    "message": "Please try again later.",
+    "comments": [],
+    "origin": [
+      [
+        "components/payment/paypal.tsx",
+        58
+      ]
+    ]
+  },
+  "jAzLA+": {
+    "translation": "Öva och experimentera",
+    "message": "Practice and Experiment",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        79
+      ]
+    ]
+  },
+  "aHCEmh": {
+    "translation": "Prissättning",
+    "message": "Pricing",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(pricing)/pricing/page.tsx",
+        17
+      ],
+      [
+        "components/wegic/footer.tsx",
+        13
+      ]
+    ]
+  },
+  "tdGO5K": {
+    "translation": "Prissättning | {0}",
+    "message": "Pricing | {0}",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(details)/details/[...slug]/page.tsx",
+        10
+      ]
+    ]
+  },
+  "rQBXl9": {
+    "translation": "Prissättningsplaner",
+    "message": "Pricing Plans",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        66
+      ]
+    ]
+  },
+  "ScJ9fj": {
+    "translation": "Integritetspolicy",
+    "message": "Privacy policy",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        21
+      ],
+      [
+        "components/wegic/footer.tsx",
+        87
+      ]
+    ]
+  },
+  "woRfhL": {
+    "translation": "Integritets- och integritetspolicy för #0#",
+    "message": "Privacy Policy for #0#",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        14
+      ]
+    ]
+  },
+  "k1ifdL": {
+    "translation": "Bearbetning...",
+    "message": "Processing...",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        592
+      ]
+    ]
+  },
+  "x50rMS": {
+    "translation": "Publiceringsdatum:",
+    "message": "Publish Date:",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/blogs.tsx",
+        33
+      ]
+    ]
+  },
+  "zZk9Yz": {
+    "translation": "Köp",
+    "message": "Purchase",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        697
+      ]
+    ]
+  },
+  "A20mxR": {
+    "translation": "Köp vid efterfrågan, ingen prenumerationavgift, livstidsgiltighet",
+    "message": "Purchase on demand, no subscription fee, lifetime validity",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        70
+      ]
+    ]
+  },
+  "WEYdDv": {
+    "translation": "Rekommenderad",
+    "message": "Recommended",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        82
+      ]
+    ]
+  },
+  "6exX+8": {
+    "translation": "Regenerera",
+    "message": "Regenerate",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        807
+      ],
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        208
+      ]
+    ]
+  },
+  "xSxPvs": {
+    "translation": "Begäran tog för lång tid. Försök igen senare.",
+    "message": "Request timed out. Please try again later.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        431
+      ]
+    ]
+  },
+  "6gRgw8": {
+    "translation": "Försök igen",
+    "message": "Retry",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        281
+      ]
+    ]
+  },
+  "nOPbWJ": {
+    "translation": "Höger",
+    "message": "Right",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        583
+      ]
+    ]
+  },
+  "n1ekoW": {
+    "translation": "Logga In",
+    "message": "Sign In",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        646
+      ],
+      [
+        "components/wegic/navbar.tsx",
+        162
+      ]
+    ]
+  },
+  "ZqvdDl": {
+    "translation": "Logga In Med Google",
+    "message": "Sign In With Google",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        638
+      ],
+      [
+        "components/wegic/navbar.tsx",
+        154
+      ],
+      [
+        "components/wegic/pricing.tsx",
+        128
+      ],
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        50
+      ]
+    ]
+  },
+  "1DA6ap": {
+    "translation": "Ratt",
+    "message": "Square",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        615
+      ],
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        713
+      ]
+    ]
+  },
+  "DnT2Fb": {
+    "translation": "Börja med att gå in i Golf Orbit, där du kommer att ge dig ut på ett spännande golfäventyr. Bekanta dig med spelets användargränssnitt och kontroller.",
+    "message": "Start by entering Golf Orbit, where you will embark on an exciting golfing adventure. Familiarize yourself with the game interface and controls.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        32
+      ]
+    ]
+  },
+  "FKsmFn": {
+    "translation": "Starta utökningen",
+    "message": "Start Expanding",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        823
+      ]
+    ]
+  },
+  "SowH7o": {
+    "translation": "Börja gratis med AI-förlängaren. Förstora dina tre första bilder utan kostnad.",
+    "message": "Start for free with the AI extender. Expand your first 3 images at no charge.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/features.tsx",
+        14
+      ],
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/features.tsx",
+        14
+      ]
+    ]
+  },
+  "fYBlNd": {
+    "translation": "Starta gratis med generativt fylla AI. Expandera dina första 3 bilder utan kostnad.",
+    "message": "Start for free with the generative fill ai. Expand your first 3 images at no charge.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/features.tsx",
+        14
+      ]
+    ]
+  },
+  "y2IKvf": {
+    "translation": "Stoppa navigeringsfältet i det intervall som ligger närmast det gröna området för att säkerställa bästa skjutriktning för maximal distans.",
+    "message": "Stop the navigation bar in the range closest to the green area to ensure the best hitting direction for maximum distance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        50
+      ]
+    ]
+  },
+  "1gi2aF": {
+    "translation": "Systemfel. Försök igen eller kontakta webbplatsadministratören",
+    "message": "System Error, Please retry or contact website admin",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        421
+      ],
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        448
+      ]
+    ]
+  },
+  "ywdZxq": {
+    "translation": "Systemfel, Var god försök igen eller kontakta webbplatsadministratören",
+    "message": "System Error,Please retry or contract website admin",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/painting-uploader.tsx",
+        78
+      ]
+    ]
+  },
+  "UCLeG0": {
+    "translation": "Användarvillkor",
+    "message": "Terms of service",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        88
+      ]
+    ]
+  },
+  "X+aiz8": {
+    "translation": "Användarvillkor för #0#",
+    "message": "Terms of Service for #0#",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        14
+      ]
+    ]
+  },
+  "I3FBWw": {
+    "translation": "AI analyserar din bilds sammanhang och förlänger den för konsekvent realistiska resultat.",
+    "message": "The AI analyzes your image's context and extends it for consistently realistic outcomes.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/features.tsx",
+        25
+      ],
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/features.tsx",
+        25
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/features.tsx",
+        25
+      ]
+    ]
+  },
+  "DVLi/m": {
+    "translation": "De huvudsakliga målen är att slå bollen så långt som möjligt, poängsätta genom att landa bollen i hål med flaggor och använda power-ups strategiskt för att förbättra din prestation.",
+    "message": "The main objectives include hitting the ball as far as you can, scoring by landing the ball in holes with flags, and strategically using power-ups to enhance your performance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        127
+      ]
+    ]
+  },
+  "YHuztc": {
+    "translation": "Äganderätten till bilder som skapats från text på webbplatsen tillhör den person som skapat bilden. #0# gör inga anspråk på äganderätten över bilder som skapats av användare.",
+    "message": "The ownership of images generated from text on the Website belongs to the person who created the image. #0# claims no ownership over images created by users.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        19
+      ]
+    ]
+  },
+  "fWtzVj": {
+    "translation": "Det uppstod ett fel vid bearbetning av bilden. Försök igen senare.",
+    "message": "There was an error processing the image. Please try again later.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        273
+      ]
+    ]
+  },
+  "GYzcuY": {
+    "translation": "Dessa villkor ska styras och tolkas i enlighet med lagstiftningen i USA, utan hänsyn till eventuella lagkonflikter.",
+    "message": "These Terms shall be governed and construed in accordance with the laws of the United States of America, without regard to its conflict of law provisions.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        23
+      ]
+    ]
+  },
+  "Xwg1Sn": {
+    "translation": "Denna sida används för att informera besökare om mina riktlinjer för insamling, användning och delning av personlig information om någon bestämmer sig för att använda min tjänst. Om du väljer att använda min tjänst, då samtycker du till insamling och användning av information i enlighet med denna policy. Den personliga information jag samlar in används för att tillhandahålla och förbättra tjänsten. Jag kommer inte att använda eller dela din information med någon annan än vad som beskrivs i denna integritetspolicy. De termer som används i denna integritetspolicy har samma betydelse som i våra användarvillkor.",
+    "message": "This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        15
+      ]
+    ]
+  },
+  "S1ia36": {
+    "translation": "Denna tjänst kan innehålla länkar till andra webbplatser. Om du klickar på en länk till en tredje part kommer du att skickas vidare till den sidan. Observera att dessa externa webbplatser inte drivs av mig. Därför rekommenderar jag starkt att du granskar integritetspolicyn för dessa webbplatser. Jag har inte kontroll över eller ansvar för innehåll, integritetspolicyer eller praxis hos tredje parts webbplatser eller tjänster.",
+    "message": "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        34
+      ]
+    ]
+  },
+  "4fyLMn": {
+    "translation": "Tips för att spela Golf Orbit",
+    "message": "Tips Of Playing Golf Orbit",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        86
+      ]
+    ]
+  },
+  "+yrJEm": {
+    "translation": "För att hjälpa oss att analysera hur vår tjänst används;",
+    "message": "To assist us in analyzing how our Service is used;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        28
+      ]
+    ]
+  },
+  "gN00PD": {
+    "translation": "För att underlätta vår tjänst;",
+    "message": "To facilitate our Service;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        25
+      ]
+    ]
+  },
+  "TIkU8p": {
+    "translation": "För att utföra tjänsterelaterade tjänster;",
+    "message": "To perform Service-related services;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        27
+      ]
+    ]
+  },
+  "eQzifh": {
+    "translation": "För att spela Golf Orbit måste du slå bollen så långt som möjligt samtidigt som du navigerar genom kuperade fält fyllda med hinder. Förståelse för bollriktning och effektiv användning av uppgraderingar är nyckeln till att uppnå höga poäng.",
+    "message": "To play Golf Orbit, you need to hit the ball as far as possible while navigating through hilly fields filled with obstacles. Understanding ball direction and utilizing upgrades effectively are key to achieving high scores.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        123
+      ]
+    ]
+  },
+  "jiYr9i": {
+    "translation": "För att tillhandahålla tjänsten på våra vägnar;",
+    "message": "To provide the Service on our behalf;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        26
+      ]
+    ]
+  },
+  "WWy8TN": {
+    "translation": "Topp",
+    "message": "Top",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        585
+      ]
+    ]
+  },
+  "kCd+q+": {
+    "translation": "Total Betalning",
+    "message": "Total Payment",
+    "comments": [],
+    "origin": [
+      [
+        "components/payment/payment-modal.tsx",
+        90
+      ]
+    ]
+  },
+  "rnNvFZ": {
+    "translation": "Prova olika uppgraderingar för att se vilka kombinationer som ger bästa resultat för din spelstil.",
+    "message": "Try different upgrades to see which combinations yield the best results for your play style.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        96
+      ]
+    ]
+  },
+  "Rd1BcW": {
+    "translation": "Prova det gratis",
+    "message": "Try It Free",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/index-uploader.tsx",
+        29
+      ]
+    ]
+  },
+  "MxB2DA": {
+    "translation": "Prova det",
+    "message": "Try it out",
+    "comments": [],
+    "origin": [
+      [
+        "components/payment/paypal.tsx",
+        63
+      ]
+    ]
+  },
+  "9Re0wu": {
+    "translation": "Förstå målet",
+    "message": "Understand the Objective",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        37
+      ]
+    ]
+  },
+  "ONWvwQ": {
+    "translation": "Ladda upp",
+    "message": "Upload",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/button.tsx",
+        44
+      ]
+    ]
+  },
+  "Pdq4/9": {
+    "translation": "Ladda upp ny bild",
+    "message": "Upload New Image",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        158
+      ],
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        170
+      ]
+    ]
+  },
+  "+/4Lnu": {
+    "translation": "Uppladdning lyckades",
+    "message": "Upload successfully",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/painting-uploader.tsx",
+        49
+      ]
+    ]
+  },
+  "h3BBNG": {
+    "translation": "Ladda upp din foto",
+    "message": "Upload your photo",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        26
+      ]
+    ]
+  },
+  "/eguJc": {
+    "translation": "Laddar upp",
+    "message": "Uploading",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/picture.tsx",
+        59
+      ]
+    ]
+  },
+  "GxkJXS": {
+    "translation": "Laddar...",
+    "message": "Uploading...",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        755
+      ],
+      [
+        "components/wegic/painting-uploader.tsx",
+        88
+      ]
+    ]
+  },
+  "FfVwIt": {
+    "translation": "Använd en enkel klick-och-håll-mekanism för att ställa in skottets kraft. Tryck och håll ned vänster musknapp för att justera styrkan, släpp sedan för att starta bollen.",
+    "message": "Use a simple click-and-hold mechanism to set your shot's power. Tap and hold the left mouse button to adjust the strength, then release to launch the ball.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        44
+      ]
+    ]
+  },
+  "HQiM02": {
+    "translation": "Använd dina ackumulerade poäng för att förstärka skottets styrka, hastighet och studsfaktor. Experimentera med olika kombinationer för optimal prestanda.",
+    "message": "Use your accumulated points to boost your shot's strength, speed, and bounce. Experiment with different combinations for optimal performance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        68
+      ]
+    ]
+  },
+  "Sxm8rQ": {
+    "translation": "Användare",
+    "message": "Users",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/hero.tsx",
+        56
+      ],
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/hero.tsx",
+        56
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/hero.tsx",
+        56
+      ]
+    ]
+  },
+  "9DvIxX": {
+    "translation": "Använd uppgraderingar strategiskt",
+    "message": "Utilize Upgrades Strategically",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        67
+      ]
+    ]
+  },
+  "mX/isJ": {
+    "translation": "Vertikal",
+    "message": "Vertical",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        614
+      ],
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        712
+      ]
+    ]
+  },
+  "M1f5yq": {
+    "translation": "Vertikal expansion",
+    "message": "Vertical Expansion",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        246
+      ]
+    ]
+  },
+  "5I58IA": {
+    "translation": "Besök Golf Orbit Clubhouse",
+    "message": "Visit the Golf Orbit Clubhouse",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        73
+      ]
+    ]
+  },
+  "DFOg6P": {
+    "translation": "Vi samlar in personuppgifter (namn, e-post och betalningsinformation) och icke-personliga data (webbkakor) för att förbättra våra tjänster. Användningen av dessa data styrs av vår integritetspolicy, som du kan hitta på",
+    "message": "We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        21
+      ]
+    ]
+  },
+  "X+XmuC": {
+    "translation": "Välkommen till #0#! Vår webbplats, belägen på #1# (Webbplats), är dedikerad till att ge dig möjlighet att skapa anpassade bilder. Genom att få åtkomst till eller använda vår webbplats samtycker du till att vara bunden av dessa användarvillkor (Villkor). Om du inte godkänner någon del av villkoren är du förbjuden att använda webbplatsen.",
+    "message": "Welcome to #0#! Our website, located at #1# (Website), is dedicated to providing you with the ability to create custom images. By accessing or using our Website, you agree to be bound by these Terms of Service (Terms). If you do not agree with any part of the terms, then you are prohibited from using the Website.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        15
+      ]
+    ]
+  },
+  "BZb0Et": {
+    "translation": "Välkommen till Golf Orbit: Ditt intergalaktiska golfeventyr",
+    "message": "Welcome to Golf Orbit: Your Intergalactic Golf Adventure",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        21
+      ]
+    ]
+  },
+  "2aQVIc": {
+    "translation": "Vad är de huvudsakliga målen i Golf Orbit?",
+    "message": "What are the main objectives in Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        126
+      ]
+    ]
+  },
+  "ernaiK": {
+    "translation": "Vad är AI-fotokrydda?",
+    "message": "What is AI Image Extender?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        26
+      ]
+    ]
+  },
+  "e40dkT": {
+    "translation": "Vad är AI-fotokrydda?",
+    "message": "What is AI Photo Extender?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        25
+      ]
+    ]
+  },
+  "tNQRV8": {
+    "translation": "Vad är generativt fylla AI?",
+    "message": "What is Generative Fill AI?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        25
+      ]
+    ]
+  },
+  "JVkaLa": {
+    "translation": "Vad är Golf Orbit?",
+    "message": "What is Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        118
+      ]
+    ]
+  },
+  "xVURvs": {
+    "translation": "Ja, AI-fotokrydda är utformad för att bevara stilbilden för det ursprungliga innehållet under utökningsprocessen. AI-algoritmerna utbildas för att förstå och efterlikna bildens unika egenskaper, vilket innebär att utökade innehållet fortfarande ser visuellt överensstämmande ut med det ursprungliga innehållet.",
+    "message": "Yes, AI Image Extender is designed to preserve the style of the original image throughout the expansion process. The AI algorithms are trained to understand and replicate the unique characteristics of the image, ensuring that the expanded content remains visually consistent with the original.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        41
+      ]
+    ]
+  },
+  "HiX60c": {
+    "translation": "Ja, AI-fotokrydda utökar inte bara bildinnehållet utan erbjuder också möjligheten att öka bildpunktdimensionerna. Den här funktionen i vår AI-fotokrydda tillåter användarna att förbättra både storleken och kvaliteten på bilderna, vilket resulterar i högre upplösningsutgångar.",
+    "message": "Yes, AI Photo Extender not only expands image content but also offers the option to increase pixel dimensions. This feature of our AI photo extender allows users to enhance both the size and quality of their images, resulting in higher resolution outputs.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        38
+      ]
+    ]
+  },
+  "/0yMu9": {
+    "translation": "Ja, Golf Orbit presenterar oförutsägbara situationer och hinder som kräver teknik och uthållighet. Spelarna måste anpassa sina strategier för att övervinna dessa utmaningar.",
+    "message": "Yes, Golf Orbit presents unpredictable situations and obstacles that require technique and perseverance. Players must adapt their strategies to overcome these challenges.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        135
+      ]
+    ]
+  },
+  "FrTOHj": {
+    "translation": "Ja, vår generativa fylla AI utökar inte bara innehållet i bilden utan erbjuder också möjligheten att öka bildpunktdimensionerna. Den här funktionen möjliggör att användarna kan förbättra både storleken och kvalitet på bilderna, vilket leder till högre upplösningsutgångar genom kraften av generativ fyll AI-teknologi.",
+    "message": "Yes, our generative fill AI not only expands image content but also offers the option to increase pixel dimensions. This feature allows users to enhance both the size and quality of their images, resulting in higher resolution outputs through the power of generative fill AI technology.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        38
+      ]
+    ]
+  },
+  "oTbbJ/": {
+    "translation": "Du beviljas en begränsad, icke-exklusiv, icke-överförbar licens att använda webbplatsen och dess tjänster för personliga, icke-kommersiella ändamål. Denna licens innefattar inte några rättigheter att kopiera, modifiera eller distribuera webbplatsens innehåll eller använda det för kommersiella ändamål utan vårt föregående skriftliga samtycke.",
+    "message": "You are granted a limited, non-exclusive, non-transferable license to use the Website and its services for personal, non-commercial purposes. This license does not include any rights to copy, modify, or distribute the Website's content or use it for commercial purposes without our prior written consent.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        17
+      ]
+    ]
+  },
+  "t/I9i5": {
+    "translation": "Du kan förbättra din poäng genom att öva konsekvent, lära dig av varje skott och använda ackumulerade poäng för att köpa uppgraderingar som förbättrar dina kast.",
+    "message": "You can improve your score by practicing consistently, learning from each shot, and using accumulated scores to purchase power-ups that enhance your throws.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        131
+      ]
+    ]
+  },
+  "WCkkI4": {
+    "translation": "Dina kreditpoäng räcker inte ut, vänligen ladda först om.",
+    "message": "Your credit points are insufficient, please recharge first.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        394
+      ]
+    ]
+  },
+  "2mR+O1": {
+    "translation": "Ditt huvudmål i Golf Orbit är att slå golfbollen så långt som möjligt samtidigt som du navigerar genom olika hinder som stenar och sandgropar.",
+    "message": "Your main goal in Golf Orbit is to hit the golf ball as far as possible while navigating through various obstacles like rocks and sand pits.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        38
+      ]
+    ]
+  },
+  "lX4VC4": {
+    "translation": "Blogglista",
+    "message": "博客列表",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/layout..tsx",
+        7
+      ]
+    ]
+  },
+  "uk086D": {
+    "translation": "Utforska ljudavskiljning",
+    "message": "探索人声分离",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(explore)/explore/views.tsx",
+        40
+      ]
+    ]
+  },
+  "Xqre6v": {
+    "translation": "Lär dig enkelt vår AI-ljudavskiljningsteknik för att öka effektiviteten i ditt liv och arbete.",
+    "message": "轻松掌握我们的AI人声分离技术，助您在生活和工作中提高效率。",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(explore)/explore/views.tsx",
+        43
+      ]
+    ]
+  }
+}

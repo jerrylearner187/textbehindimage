@@ -1,0 +1,2228 @@
+{
+  "/HNf1t": {
+    "translation": "「AIによる写真の拡張の魔法を発見」",
+    "message": "\"Discover the Magic of Expanding Your Photos with AI\"",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/blogs-page-client.tsx",
+        37
+      ]
+    ]
+  },
+  "J/hVSQ": {
+    "translation": "{0}",
+    "message": "{0}",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        34
+      ],
+      [
+        "components/wegic/pricing.tsx",
+        35
+      ],
+      [
+        "components/wegic/pricing.tsx",
+        36
+      ]
+    ]
+  },
+  "32fNxX": {
+    "translation": "#0#は、独自の裁量により、いつでもこれらの利用規約を変更または置き換える権利を有します。ユーザーには電子メールで変更点を通知します。これらの利用規約の変更後も、ウェブサイトを継続して使用することは、そのような変更への承諾とみなされます。",
+    "message": "#0# reserves the right, at our sole discretion, to modify or replace these Terms at any time. We will notify users of any changes by email. Your continued use of the Website after any change in these Terms will constitute your acceptance of such changes.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        27
+      ]
+    ]
+  },
+  "qVv47w": {
+    "translation": "1. 情報の収集と利用",
+    "message": "1. Information Collection and Use",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        18
+      ]
+    ]
+  },
+  "dnEZiE": {
+    "translation": "1. 使用ライセンス",
+    "message": "1. Use License",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        18
+      ]
+    ]
+  },
+  "RUEwir": {
+    "translation": "2. ログデータ",
+    "message": "2. Log Data",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        20
+      ]
+    ]
+  },
+  "AV4xaK": {
+    "translation": "2. 所有権",
+    "message": "2. Ownership",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        20
+      ]
+    ]
+  },
+  "hczIS1": {
+    "translation": "3. クッキー",
+    "message": "3. Cookies",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        22
+      ]
+    ]
+  },
+  "69EiaO": {
+    "translation": "3. ユーザーデータの収集",
+    "message": "3. User Data Collection",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        22
+      ]
+    ]
+  },
+  "pik+Gj": {
+    "translation": "4. 準拠法",
+    "message": "4. Governing Law",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        24
+      ]
+    ]
+  },
+  "gSmscK": {
+    "translation": "4. サービス提供者",
+    "message": "4. Service Providers",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        24
+      ]
+    ]
+  },
+  "HT0gtE": {
+    "translation": "5. 利用規約の変更",
+    "message": "5. Changes to Terms",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        26
+      ]
+    ]
+  },
+  "0jvfq0": {
+    "translation": "5. セキュリティ",
+    "message": "5. Security",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        33
+      ]
+    ]
+  },
+  "UA5K4X": {
+    "translation": "6. 連絡先情報",
+    "message": "6. Contact Information",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        28
+      ]
+    ]
+  },
+  "c72RA6": {
+    "translation": "6. 他のサイトへのリンク",
+    "message": "6. Links to Other Sites",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        35
+      ]
+    ]
+  },
+  "FhdZtA": {
+    "translation": "7. このプライバシーポリシーの変更",
+    "message": "7. Changes to This Privacy Policy",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        37
+      ]
+    ]
+  },
+  "8O/T2d": {
+    "translation": "はい、ゴルフオービットは、簡単な目標と理解しやすいルールで設計されており、あらゆるスキルレベルのプレイヤーが楽しめるようになっています。",
+    "message": "Absolutely! Golf Orbit is designed with simple goals and easy-to-understand rules, making it accessible for players of all skill levels.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        139
+      ]
+    ]
+  },
+  "1FstmD": {
+    "translation": "はい、確実にテキスト レイヤーは高品質でレンダリングされるため、デジタル ディスプレイとプリント素材の両方に適しています。テキストの特性を調整して、ご利用のメディアで最適な視認性を確保できます。",
+    "message": "Absolutely! The text layers are rendered at high quality, making them suitable for both digital display and print materials. You can adjust text properties to ensure optimal visibility in your intended medium.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        25
+      ]
+    ]
+  },
+  "+TjOMk": {
+    "translation": "画像の背後にカスタマイズ可能なテキスト レイヤーを追加する",
+    "message": "Add Customizable Text Layer Behind Your Images",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/hero.tsx",
+        23
+      ]
+    ]
+  },
+  "6sBhOg": {
+    "translation": "画像の下にカスタマイズ可能なテキスト レイヤーを追加してください。テキストと画像の組み合わせでユニークな視覚的な構成を作成したいデザイナー向けです。",
+    "message": "Add customizable text layers beneath your images. Perfect for designers who want to create unique visual compositions with text and image combinations.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/use-cases.tsx",
+        10
+      ]
+    ]
+  },
+  "aDgIDu": {
+    "translation": "複数のテキスト レイヤーを追加し、正確な位置とローテーション コントロールで配置できます。",
+    "message": "Add multiple text layers and arrange them with precise positioning and rotation controls.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        43
+      ]
+    ]
+  },
+  "L0HmYp": {
+    "translation": "テキスト レイヤーを追加",
+    "message": "Add Text Layer",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/tips.tsx",
+        15
+      ]
+    ]
+  },
+  "4h3TZ4": {
+    "translation": "元の画質を保持したまま、テキスト レイヤーを追加できます。画像に影響を与えずに、いつでも調整できます。",
+    "message": "Add text layers while preserving your original image quality. Make adjustments anytime without affecting the image.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/features.tsx",
+        21
+      ]
+    ]
+  },
+  "I415gB": {
+    "translation": "フォント、サイズ、色、位置、回転を調整して、ご希望のスタイルに変更できます。",
+    "message": "Adjust font, size, color, position, and rotation to achieve your desired look.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/tips.tsx",
+        21
+      ]
+    ]
+  },
+  "GGSGaP": {
+    "translation": "高度なスタイリング",
+    "message": "Advanced Styling",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        47
+      ]
+    ]
+  },
+  "uFZsqH": {
+    "translation": "ログイン後、3回の無料トライアルでAIを使って画像を拡張できます",
+    "message": "After logging in, you can have three two trials expand your image with AI",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/index-uploader.tsx",
+        33
+      ]
+    ]
+  },
+  "+dagcs": {
+    "translation": "AIアウトぺインティングイメージブログ投稿",
+    "message": "AI Outpainting Image Blogs Post",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/blogs-page-client.tsx",
+        34
+      ]
+    ]
+  },
+  "ucCUQ3": {
+    "translation": "グリーンエリアを狙うこと",
+    "message": "Aim for the Green Area",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        49
+      ]
+    ]
+  },
+  "zubZiv": {
+    "translation": "色、影、効果を適用して、テキスト レイヤーを完璧に際立たせましょう。",
+    "message": "Apply colors, shadows, and effects to make your text layers stand out perfectly.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        48
+      ]
+    ]
+  },
+  "HKMi54": {
+    "translation": "ゴルフオービットには課題はありますか?",
+    "message": "Are there any challenges in Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        134
+      ]
+    ]
+  },
+  "4zYfYC": {
+    "translation": "アーティスティックなタイポグラフィ",
+    "message": "Artistic Typography",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/use-cases.tsx",
+        24
+      ]
+    ]
+  },
+  "ExFMj8": {
+    "translation": "ブログ",
+    "message": "Blogs",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/page.tsx",
+        23
+      ],
+      [
+        "components/wegic/blogs.tsx",
+        24
+      ],
+      [
+        "components/wegic/footer.tsx",
+        15
+      ]
+    ]
+  },
+  "mRjO9S": {
+    "translation": "ブログのリスト",
+    "message": "Blogs List",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/[slug]/page.tsx",
+        62
+      ]
+    ]
+  },
+  "yZ2PlW": {
+    "translation": "#0#を使用することで、これらの利用規約に同意したことになります。",
+    "message": "By using #0#, you signify your acceptance of these Terms of Service.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        30
+      ]
+    ]
+  },
+  "2VuDjI": {
+    "translation": "誰でもゴルフオービットで遊べますか?",
+    "message": "Can anyone play Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        138
+      ]
+    ]
+  },
+  "osw+wU": {
+    "translation": "テキストを追加した後で、テキストの特性を調整できますか?",
+    "message": "Can I adjust the text properties after adding them?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        64
+      ]
+    ]
+  },
+  "3O/N3t": {
+    "translation": "保存後にテキスト レイヤーを編集できますか?",
+    "message": "Can I edit the text layer after saving?",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        20
+      ]
+    ]
+  },
+  "Lx4Di7": {
+    "translation": "洞窟ゴルフ",
+    "message": "Cave Golf",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        152
+      ]
+    ]
+  },
+  "yz7wBu": {
+    "translation": "閉じる",
+    "message": "Close",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        56
+      ]
+    ]
+  },
+  "QECVrh": {
+    "translation": "コインと報酬を集める",
+    "message": "Collect Coins and Rewards",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        61
+      ]
+    ]
+  },
+  "ZFKnW0": {
+    "translation": "ボールをコントロールする",
+    "message": "Control the Ball",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        43
+      ]
+    ]
+  },
+  "akF51D": {
+    "translation": "Cookieは、一般的に匿名の固有の識別子として使用される少量のデータを含むファイルです。これらはウェブサイトからブラウザに送信され、デバイスの内部メモリに保存されます。このサービスでは、これらのCookieを明示的に使用していません。ただし、アプリが使用する第三者のコードやライブラリがCookieを使用して情報を収集し、サービスを改善する可能性があります。Cookieを受け入れるか拒否するかを選択し、デバイスにCookieが送信されるタイミングを知ることができます。Cookieを拒否した場合、このサービスの一部を使用できない可能性があります。",
+    "message": "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these cookies explicitly. However, the app may use third party code and libraries that use cookies to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        23
+      ]
+    ]
+  },
+  "ajrhgd": {
+    "translation": "画像の下にテキストを配置することで、魅力的な視覚素材が作成できます。教科書、プレゼンテーション、教育コンテンツに最適です。",
+    "message": "Create engaging visual materials with explanatory text beneath images. Ideal for textbooks, presentations, and educational content.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/use-cases.tsx",
+        20
+      ]
+    ]
+  },
+  "vMhTGU": {
+    "translation": "カスタマイズ可能なテキストレイヤーを使用して、見た目を変える画像を作成しテキストのバックグラウンドの画像を編集するを使います。フォントの調整、サイズ、色、位置、回転。カメラマン、デザイナー、コンテンツ作成者に最適。 ",
+    "message": "Create stunning images with customizable text layers using our Text Behind Image Editor. Adjust font, size, color, position, and rotation. Perfect for photographers, designers, and content creators.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        22
+      ]
+    ]
+  },
+  "jfjT5R": {
+    "translation": "カスタマイズ可能なテキスト レイヤーで素晴らしい画像を作成してください。キャプション、透かし、説明を追加し、フォント、サイズ、色、配置を完全に制御できます。",
+    "message": "Create stunning images with customizable text layers. Add captions, \nwatermarks, and descriptions with complete control over font, size, \ncolor, and positioning.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        91
+      ]
+    ]
+  },
+  "uRCVYn": {
+    "translation": "クリエイティブ デザイン",
+    "message": "Creative Design",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/use-cases.tsx",
+        9
+      ]
+    ]
+  },
+  "TXxF+/": {
+    "translation": "クレジット",
+    "message": "credit",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        93
+      ]
+    ]
+  },
+  "NVCkjr": {
+    "translation": "フォント、サイズ、色、スタイルをカスタマイズできます。テキスト レイヤーの完璧なタイポグラフィ コントロールを実現できます。",
+    "message": "Customize fonts, sizes, colors, and styles. Perfect typography control for your text layers.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        38
+      ]
+    ]
+  },
+  "/eXbbr": {
+    "translation": "テキストの特性をカスタマイズ",
+    "message": "Customize Text Properties",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/tips.tsx",
+        20
+      ]
+    ]
+  },
+  "fGp6n/": {
+    "translation": "さまざまなフォント、サイズ、色、スタイルでテキストをカスタマイズできます。ニーズに合わせて完璧なテキスト - 画像の構図を作成してください。",
+    "message": "Customize your text with various fonts, sizes, colors, and styles. Create perfect text-image compositions for your needs.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/features.tsx",
+        16
+      ]
+    ]
+  },
+  "oCnmUY": {
+    "translation": "「Text Behind Image」ツールを数千人のユーザーが選ぶ理由を発見してください。",
+    "message": "Discover why thousands of users choose our Text Behind Image tool for their creative and security needs.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/features.tsx",
+        39
+      ]
+    ]
+  },
+  "JmvRR0": {
+    "translation": "複数のフォーマットでカスタマイズしたテキスト レイヤーの付いた画像をダウンロードできます。デジタルやプリントでの使用に最適です。",
+    "message": "Download your completed image with text layers in multiple formats. Perfect for digital and print use.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/features.tsx",
+        26
+      ]
+    ]
+  },
+  "biqr4n": {
+    "translation": "カスタマイズしたテキスト レイヤーを含む画像を、ご希望のフォーマットでダウンロードできます。",
+    "message": "Download your image with the customized text layer in your preferred format.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/tips.tsx",
+        26
+      ]
+    ]
+  },
+  "mfp0DR": {
+    "translation": "スライダーを動かして、テキストを追加する前後の効果を確認してください",
+    "message": "Drag the slider to see the effects before and after adding text behind image",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/gallery.tsx",
+        47
+      ]
+    ]
+  },
+  "DNhRz0": {
+    "translation": "フライト中、コインを集めてアップグレードをアンロックします。達成した距離が長いほど、得点が高くなり、ゲームプレイを強化するために使用できます。",
+    "message": "During your flight, collect coins to unlock upgrades. The longer the distance you achieve, the more points you earn, which can be used to enhance your gameplay.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        62
+      ]
+    ]
+  },
+  "wRoPp9": {
+    "translation": "1回のショットでは、移動距離が記録されます。進捗を追跡し、スキルを向上させ、1回のスウィングで長距離を目指しましょう。",
+    "message": "Each shot will record the distance traveled. Keep track of your progress to improve your skills and aim for longer distances with each swing.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        56
+      ]
+    ]
+  },
+  "MztNkz": {
+    "translation": "クレジット、著作権情報、または画像の説明を簡単に追加できます。テキストのスタイル、位置、回転をデザインニーズに合わせてカスタマイズできます。",
+    "message": "Easily add credits, copyright information, or descriptions beneath your images. Customize text style, position, and rotation to match your design needs.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/use-cases.tsx",
+        15
+      ]
+    ]
+  },
+  "md99Ux": {
+    "translation": "簡単にエクスポート",
+    "message": "Easy Export",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        52
+      ],
+      [
+        "components/wegic/features.tsx",
+        25
+      ]
+    ]
+  },
+  "uBAxNB": {
+    "translation": "エディター",
+    "message": "Editor",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/header.tsx",
+        8
+      ]
+    ]
+  },
+  "C4oSHI": {
+    "translation": "教材",
+    "message": "Educational Materials",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/use-cases.tsx",
+        19
+      ]
+    ]
+  },
+  "RuqoXe": {
+    "translation": "ワンショットバトルに参加する",
+    "message": "Engage in One-Shot Battles",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        105
+      ]
+    ]
+  },
+  "yw6YJK": {
+    "translation": "画像にテキスト レイヤーを追加することで、画像を強化できます。フォント、サイズ、色、位置、回転をカスタマイズして、完璧な画像 - テキストの構成を作成してください。",
+    "message": "Enhance your images with underlying text layers. Customize font, size, color, position, and rotation to create perfect image-text compositions.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/hero.tsx",
+        26
+      ]
+    ]
+  },
+  "rtNKwJ": {
+    "translation": "ユニークなキャラクターやボールのカスタマイズオプションを楽しみましょう。異なるキャラクターでプレイすることで、ゲームプレイに面白い違いが加わります。",
+    "message": "Enjoy the unique character and ball customization options. Playing as different characters can add a fun twist to your gameplay.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        111
+      ]
+    ]
+  },
+  "7xE6LV": {
+    "translation": "クラブハウスでポイントを交換して、ゴルファー、ボールの色、プレイする世界を変更できます。さまざまな楽しいキャラクターや鮮やかな場所から選んでください。",
+    "message": "Exchange points at the clubhouse to change your golfer, ball color, or even the world you play in. Choose from a variety of fun characters and vibrant locations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        74
+      ]
+    ]
+  },
+  "zk59eJ": {
+    "translation": "画像の下にテキストの配置とスタイリングを試験し、ユニークなアーティスティックな構成を作成してください。フォント、サイズ、色、位置を制御して、完璧な結果を得られます。",
+    "message": "Experiment with text placement and styling beneath images to create unique artistic compositions. Control font, size, color, and positioning for perfect results.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/use-cases.tsx",
+        25
+      ]
+    ]
+  },
+  "dzop7f": {
+    "translation": "アップグレードを試す",
+    "message": "Experiment with Upgrades",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        95
+      ]
+    ]
+  },
+  "42bZ7A": {
+    "translation": "「Text Behind Image」がカスタマイズ可能なテキスト レイヤーを画像の下に追加することで、視覚コンテンツをどのように強化できるかを探索してください。",
+    "message": "Explore how Text Behind Image can enhance your visual content by adding customizable text layers beneath your images.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/use-cases.tsx",
+        38
+      ]
+    ]
+  },
+  "dpUDBU": {
+    "translation": "作成物をエクスポート",
+    "message": "Export Your Creation",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/tips.tsx",
+        25
+      ]
+    ]
+  },
+  "2Fag/1": {
+    "translation": "高品質の解像度を保ちながら、複数のフォーマットで作品をエクスポートできます。",
+    "message": "Export your work in multiple formats with high-quality resolution preservation.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        53
+      ]
+    ]
+  },
+  "lIFSzb": {
+    "translation": "ファイルのアップロードに失敗しました: {0}",
+    "message": "Failed to upload file: {0}",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/useS34R2.ts",
+        23
+      ]
+    ]
+  },
+  "cDhYY/": {
+    "translation": "高速生成",
+    "message": "Fast generation",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        28
+      ]
+    ]
+  },
+  "TVSR9M": {
+    "translation": "ファイルサイズが10MBを超えています。より小さいファイルを選択してください。",
+    "message": "File size exceeds 10MB. Please select a smaller file.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/painting-uploader.tsx",
+        40
+      ]
+    ]
+  },
+  "m6suST": {
+    "translation": "「Text Behind Image」ツールに関する一般的な質問と、それがどのように役立つかについての回答を見つけてください。",
+    "message": "Find answers to common questions about our Text Behind Image tool and how it can help you.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        40
+      ]
+    ]
+  },
+  "4+PtKC": {
+    "translation": "柔軟なテキストの位置決め",
+    "message": "Flexible Text Positioning",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/features.tsx",
+        10
+      ]
+    ]
+  },
+  "uXDmWz": {
+    "translation": "タイミングに集中する",
+    "message": "Focus on Timing",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        90
+      ]
+    ]
+  },
+  "vkCIV7": {
+    "translation": "以下の簡単な手順に従って、数分で画像にテキストを追加できます。",
+    "message": "Follow these simple steps to add hidden text to your images in just a few minutes.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/tips.tsx",
+        39
+      ]
+    ]
+  },
+  "st6ZC4": {
+    "translation": "サービスを最適に利用するため、個人を特定できる情報の提供をお願いすることがあります。要求した情報はあなたのデバイスに保存され、私が収集することはありません。本アプリは第三者のサービスを使用しており、あなたを特定する情報を収集する可能性があります。",
+    "message": "For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. The app does use third-party services that may collect information used to identify you.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        19
+      ]
+    ]
+  },
+  "F7G/TS": {
+    "translation": "よくある質問",
+    "message": "Frequently Asked Questions",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        131
+      ],
+      [
+        "components/wegic/faqs.tsx",
+        37
+      ]
+    ]
+  },
+  "c3b0B0": {
+    "translation": "始めましょう",
+    "message": "Get Started",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/index-uploader.tsx",
+        44
+      ],
+      [
+        "components/wegic/pricing.tsx",
+        140
+      ]
+    ]
+  },
+  "sAH4M6": {
+    "translation": "支払いに進む",
+    "message": "Go to Payment",
+    "comments": [],
+    "origin": [
+      [
+        "components/payment/stripe.tsx",
+        35
+      ]
+    ]
+  },
+  "igzRYn": {
+    "translation": "ゴルフバトル",
+    "message": "Golf Battle",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        165
+      ]
+    ]
+  },
+  "XjfWlt": {
+    "translation": "ゴルフフィールド",
+    "message": "Golf Field",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        159
+      ]
+    ]
+  },
+  "xY6h9F": {
+    "translation": "ゴルフオービット",
+    "message": "Golf Orbit",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        146
+      ]
+    ]
+  },
+  "fAKcR3": {
+    "translation": "ゴルフオービットは、ゴルフボールを信じられないほどの高さに打ち上げるのが目的の、エキサイティングなゴルフシミュレーターです。ワンショットゴルフバトル、チャレンジングなレベル、そして完璧なショットを目指すことができます。",
+    "message": "Golf Orbit is an exciting golf simulator game where players aim to launch golf balls to incredible heights, even reaching Mars. It features one-shot golf battles, challenging levels, and the opportunity to master the perfect shot.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        119
+      ]
+    ]
+  },
+  "0RKAvR": {
+    "translation": "ログインしました",
+    "message": "Has logged in",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        128
+      ]
+    ]
+  },
+  "i/folP": {
+    "translation": "カスタマイズを楽しむ",
+    "message": "Have Fun with Customization",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        110
+      ]
+    ]
+  },
+  "Ghlr93": {
+    "translation": "高品質な画像",
+    "message": "High quality images",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        29
+      ]
+    ]
+  },
+  "i0qMbr": {
+    "translation": "ホーム",
+    "message": "Home",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        13
+      ],
+      [
+        "components/wegic/header.tsx",
+        7
+      ]
+    ]
+  },
+  "ifBnJX": {
+    "translation": "テキスト レイヤーをどのようにカスタマイズできますか?",
+    "message": "How can I customize the text layer?",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        12
+      ]
+    ]
+  },
+  "LWjutm": {
+    "translation": "ゴルフオービットでスコアを改善するには?",
+    "message": "How can I improve my score in Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        130
+      ]
+    ]
+  },
+  "PkzK4L": {
+    "translation": "ゴルフオービットの遊び方は?",
+    "message": "How do I play Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        122
+      ]
+    ]
+  },
+  "lkLuQv": {
+    "translation": "作品をどのように保存できますか?",
+    "message": "How do I save my work?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        68
+      ]
+    ]
+  },
+  "VXLg1Q": {
+    "translation": "ゴルフオービットの遊び方は?",
+    "message": "How To Play Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        26
+      ]
+    ]
+  },
+  "Ii47+0": {
+    "translation": "Text Behind Imageの使い方",
+    "message": "How to Use Text Behind Image",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/tips.tsx",
+        36
+      ]
+    ]
+  },
+  "dQt+7J": {
+    "translation": "次の理由により、サードパーティの企業や個人を利用する可能性があります:",
+    "message": "I may employ third-party companies and individuals due to the following reasons:",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        25
+      ]
+    ]
+  },
+  "EUZXzT": {
+    "translation": "プライバシーポリシーは随時更新されるため、このページを定期的に確認することをお勧めします。変更がある場合は、このページに新しいプライバシーポリシーを掲載して通知します。これらの変更は、このページに掲載された時点で即座に有効となります。",
+    "message": "I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        38
+      ]
+    ]
+  },
+  "5dDG4E": {
+    "translation": "皆様の個人情報を保護することは重要な課題ですが、インターネット上の送信方法や電子的な保存方法には100%の安全性と信頼性はなく、絶対的な保証はできません。",
+    "message": "I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        34
+      ]
+    ]
+  },
+  "gFP4HL": {
+    "translation": "本サービスの利用者の皆様に、これらサードパーティがお客様の個人情報にアクセスすることをお知らせします。これは、弊社に代わって割り当てられた業務を遂行するためです。ただし、それ以外の目的での開示や使用は禁止されています。",
+    "message": "I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        32
+      ]
+    ]
+  },
+  "xeCjro": {
+    "translation": "本サービスをご利用の際、アプリ上でエラーが発生した場合、お客様の端末から「ログデータ」と呼ばれる情報を収集する可能性があります。このログデータには、お客様のデバイスのIPアドレス、デバイス名、OSバージョン、本サービス利用時の設定、利用日時、その他の統計情報などが含まれる場合があります。",
+    "message": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ('IP') address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        21
+      ]
+    ]
+  },
+  "d1ALrF": {
+    "translation": "これらの利用規約に関するご質問がある場合は、#0#までお問い合わせください。",
+    "message": "If you have any questions about these Terms, please contact us at #0#.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        29
+      ]
+    ]
+  },
+  "ZPz9cU": {
+    "translation": "画像の帰属",
+    "message": "Image Attribution",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/use-cases.tsx",
+        14
+      ]
+    ]
+  },
+  "oTSrSS": {
+    "translation": "PayPalサービスの初期化でエラーが発生しました。",
+    "message": "Initialization of PayPal services encountered an error.",
+    "comments": [],
+    "origin": [
+      [
+        "components/payment/paypal.tsx",
+        60
+      ]
+    ]
+  },
+  "xQ/Fah": {
+    "translation": "デジタルとプリントの両方に適していますか?",
+    "message": "Is this suitable for both digital and print use?",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        24
+      ]
+    ]
+  },
+  "mFEgHO": {
+    "translation": "ゴルフオービットを続けて課題をマスターし、障害物を効果的に克服する方法を学んでいきましょう。プレイを重ねるほど、上手になっていきます!",
+    "message": "Keep playing Golf Orbit to master the challenges and learn how to overcome obstacles effectively. The more you play, the better you'll become!",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        80
+      ]
+    ]
+  },
+  "wzqqS+": {
+    "translation": "主な機能",
+    "message": "Key Features",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/features.tsx",
+        36
+      ]
+    ]
+  },
+  "nlizoj": {
+    "translation": "ゲームを起動",
+    "message": "Launch the Game",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        31
+      ]
+    ]
+  },
+  "bauXon": {
+    "translation": "レイヤーの管理",
+    "message": "Layer Management",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        42
+      ]
+    ]
+  },
+  "hU6JDJ": {
+    "translation": "各レベルの障害物の配置を把握しましょう。その位置を理解すれば、ショットの戦略を立てやすくなります。",
+    "message": "Learn the layout of obstacles in each level. Understanding their positions can help you strategize your shots better.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        101
+      ]
+    ]
+  },
+  "Z3FXyt": {
+    "translation": "読み込み中...",
+    "message": "Loading...",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/loading.tsx",
+        8
+      ],
+      [
+        "components/payment/paypal.tsx",
+        54
+      ]
+    ]
+  },
+  "8vxMBr": {
+    "translation": "ミニゴルフ3Dゲーム",
+    "message": "Mini Golf Game 3D",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        171
+      ]
+    ]
+  },
+  "4Fwtsw": {
+    "translation": "ショットを監視する",
+    "message": "Monitor Your Shots",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        55
+      ]
+    ]
+  },
+  "bHt2FX": {
+    "translation": "ネットワークエラーまたはCORSの問題が発生しました。",
+    "message": "Network error or CORS issue.",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/useS34R2.ts",
+        27
+      ]
+    ]
+  },
+  "ko93eb": {
+    "translation": "新規ログインユーザーには2クレジットが付与されます",
+    "message": "New users who log in will receive 2 credits",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        39
+      ]
+    ]
+  },
+  "cvwg/A": {
+    "translation": "新規ログインユーザーには5クレジットが付与されます",
+    "message": "New users who log in will receive 5 credits",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        120
+      ]
+    ]
+  },
+  "2Gj7it": {
+    "translation": "破壊のない編集",
+    "message": "Non-Destructive Editing",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/features.tsx",
+        20
+      ]
+    ]
+  },
+  "+n1T9k": {
+    "translation": "障害物を観察する",
+    "message": "Observe Obstacles",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        100
+      ]
+    ]
+  },
+  "/1Otku": {
+    "translation": "当社のエディターは、JPG、PNG、WebPを含むすべての主要な画像フォーマットをサポートしています。任意のサイズの画像をアップロードし、カスタマイズ可能なテキスト レイヤーを追加できます。",
+    "message": "Our editor supports all major image formats including JPG, PNG, and WebP. You can upload images of any size and add customizable text layers to them.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        61
+      ]
+    ]
+  },
+  "xjJF7f": {
+    "translation": "当社のツールは、JPG、PNG、WebPなどの主要な画像フォーマットをすべてサポートしています。お好みのフォーマットでテキスト レイヤーの特性を維持したまま、インポートおよびエクスポートできます。",
+    "message": "Our tool supports all major image formats including JPG, PNG, and WebP. You can import and export in your preferred format while maintaining the text layer properties.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        17
+      ]
+    ]
+  },
+  "3TONwo": {
+    "translation": "ワンショットバトルに参加して、競争的な環境でスキルを向上させましょう。",
+    "message": "Participate in one-shot battles to challenge yourself and improve your skills in a competitive environment.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        106
+      ]
+    ]
+  },
+  "YztchP": {
+    "translation": "ボールを打つタイミングを完璧にしましょう。適切なタイミングを取れば、ショット距離を大幅に伸ばすことができます。",
+    "message": "Perfect your timing when clicking to hit the ball. The right timing can significantly increase your shot distance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        91
+      ]
+    ]
+  },
+  "2bVshK": {
+    "translation": "永続的に有効",
+    "message": "Permanently valid",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        27
+      ]
+    ]
+  },
+  "RfTnMp": {
+    "translation": "画像の背後にテキスト レイヤーを正確な位置に配置できます。位置、回転、配置を簡単に調整できます。",
+    "message": "Place text layers precisely where you want them behind your images. Adjust position, rotation, and alignment with ease.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/features.tsx",
+        11
+      ]
+    ]
+  },
+  "W3mmGV": {
+    "translation": "画像をアップロードするにはクリックまたはドラッグしてください。",
+    "message": "Please click or drag the image to upload it.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/painting-uploader.tsx",
+        105
+      ]
+    ]
+  },
+  "+Y65s1": {
+    "translation": "続行するにはサインインしてください",
+    "message": "Please Sign In To Continue",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        38
+      ]
+    ]
+  },
+  "PZCqeW": {
+    "translation": "後ほどお試しください。",
+    "message": "Please try again later.",
+    "comments": [],
+    "origin": [
+      [
+        "components/payment/paypal.tsx",
+        58
+      ]
+    ]
+  },
+  "s6f7Bn": {
+    "translation": "強力な機能",
+    "message": "Powerful Features",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        107
+      ]
+    ]
+  },
+  "jAzLA+": {
+    "translation": "練習と実験",
+    "message": "Practice and Experiment",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        79
+      ]
+    ]
+  },
+  "aHCEmh": {
+    "translation": "価格設定",
+    "message": "Pricing",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        14
+      ]
+    ]
+  },
+  "rQBXl9": {
+    "translation": "価格プラン",
+    "message": "Pricing Plans",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        66
+      ]
+    ]
+  },
+  "ScJ9fj": {
+    "translation": "プライバシーポリシー",
+    "message": "Privacy policy",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        23
+      ],
+      [
+        "components/wegic/footer.tsx",
+        70
+      ]
+    ]
+  },
+  "woRfhL": {
+    "translation": "#0#のプライバシーポリシー",
+    "message": "Privacy Policy for #0#",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        16
+      ]
+    ]
+  },
+  "etAa3/": {
+    "translation": "プロフェッショナルなText Behind Imageエディター",
+    "message": "Professional Text Behind Image Editor",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        88
+      ]
+    ]
+  },
+  "A20mxR": {
+    "translation": "定期購読不要の、オンデマンド購入、永続的に有効",
+    "message": "Purchase on demand, no subscription fee, lifetime validity",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        70
+      ]
+    ]
+  },
+  "xvM/SD": {
+    "translation": "作成を始める準備は万端ですか?",
+    "message": "Ready to Create?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        154
+      ]
+    ]
+  },
+  "WEYdDv": {
+    "translation": "推奨",
+    "message": "Recommended",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        82
+      ]
+    ]
+  },
+  "23e2FI": {
+    "translation": "リッチテキストのカスタマイズ",
+    "message": "Rich Text Customization",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/features.tsx",
+        15
+      ]
+    ]
+  },
+  "+rk4ZX": {
+    "translation": "リッチテキストの編集",
+    "message": "Rich Text Editing",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        37
+      ]
+    ]
+  },
+  "+1awnu": {
+    "translation": "任意の画像ファイルを選択またはドラッグ＆ドロップできます。主要な画像フォーマットをサポートしています。",
+    "message": "Select or drag and drop any image file. We support all major image formats for your convenience.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/tips.tsx",
+        11
+      ]
+    ]
+  },
+  "ZqvdDl": {
+    "translation": "Googleでサインイン",
+    "message": "Sign In With Google",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        128
+      ],
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        50
+      ]
+    ]
+  },
+  "K4kLFy": {
+    "translation": "今すぐ、プロフェッショナルなテキストレイヤーを画像に追加しましょう。\n技術的な知識は不要です。",
+    "message": "Start adding professional text layers to your images today. \nNo technical skills required.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        157
+      ]
+    ]
+  },
+  "DnT2Fb": {
+    "translation": "ゴルフオービットから始めましょう。そこで、ワクワクするゴルフアドベンチャーが始まります。ゲームのインターフェイスと操作に慣れましょう。",
+    "message": "Start by entering Golf Orbit, where you will embark on an exciting golfing adventure. Familiarize yourself with the game interface and controls.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        32
+      ]
+    ]
+  },
+  "DYmLr2": {
+    "translation": "今すぐ作成を開始",
+    "message": "Start Creating Now",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/hero.tsx",
+        35
+      ]
+    ]
+  },
+  "y2IKvf": {
+    "translation": "グリーン付近の範囲でナビゲーションバーを停止して、最大飛距離のための最適な打ち方向を確保してください。",
+    "message": "Stop the navigation bar in the range closest to the green area to ensure the best hitting direction for maximum distance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        50
+      ]
+    ]
+  },
+  "ywdZxq": {
+    "translation": "システムエラーが発生しました。後ほど再試行するか、サイト管理者に連絡してください。",
+    "message": "System Error,Please retry or contract website admin",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/painting-uploader.tsx",
+        78
+      ]
+    ]
+  },
+  "UCLeG0": {
+    "translation": "利用規約",
+    "message": "Terms of service",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        71
+      ]
+    ]
+  },
+  "X+aiz8": {
+    "translation": "#0#の利用規約",
+    "message": "Terms of Service for #0#",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        16
+      ]
+    ]
+  },
+  "B5C6T2": {
+    "translation": "画像の後ろにテキスト",
+    "message": "Text Behind Image",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        5
+      ]
+    ]
+  },
+  "2j3t5L": {
+    "translation": "画像の後ろにテキスト - 画像に隠しテキストを追加する",
+    "message": "Text Behind Image - Add Hidden Text to Your Images",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        16
+      ]
+    ]
+  },
+  "xzD2cy": {
+    "translation": "テキストのバックグラウンドを埋め込むクライアント",
+    "message": "Text Behind Image Editor - Add Custom Text Layers to Images",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        21
+      ]
+    ]
+  },
+  "HRtKyn": {
+    "translation": "画像の後ろにテキストのギャラリー",
+    "message": "Text Behind Image Gallery",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/gallery.tsx",
+        43
+      ]
+    ]
+  },
+  "m+6tQT": {
+    "translation": "「画像の後ろにテキスト」は、画像の後ろにカスタマイズ可能なテキストレイヤーを追加するツールです。テキストのフォント、サイズ、色、位置、回転を調整して、オリジナルの画像品質を維持したままパーフェクトな構図を作成できます。",
+    "message": "Text Behind Image is a tool that allows you to add customizable text layers behind your images. You can adjust the text's font, size, color, position, and rotation to create perfect compositions while maintaining the original image quality.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        9
+      ]
+    ]
+  },
+  "DVLi/m": {
+    "translation": "主な目的は、ボールを可能な限り遠くに打つこと、旗のついたホールにボールを入れることによってスコアリングすること、そしてパフォーマンスを向上させるためにパワーアップを戦略的に使うことです。",
+    "message": "The main objectives include hitting the ball as far as you can, scoring by landing the ball in holes with flags, and strategically using power-ups to enhance your performance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        127
+      ]
+    ]
+  },
+  "YHuztc": {
+    "translation": "Webサイトのテキストから生成された画像の所有権は、その画像を作成した人にあります。 #0#はユーザーが作成した画像の所有権を主張しません。",
+    "message": "The ownership of images generated from text on the Website belongs to the person who created the image. #0# claims no ownership over images created by users.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        21
+      ]
+    ]
+  },
+  "GYzcuY": {
+    "translation": "この利用規約は、米国の法律に準拠して解釈および適用されるものとします。",
+    "message": "These Terms shall be governed and construed in accordance with the laws of the United States of America, without regard to its conflict of law provisions.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        25
+      ]
+    ]
+  },
+  "Xwg1Sn": {
+    "translation": "このページは、私のサービスを使用することを決めた場合の個人情報の収集、使用、および開示に関する方針について訪問者に通知するために使用されます。サービスを使用する場合は、このポリシーに従った情報の収集と使用に同意したことになります。収集する個人情報は、サービスの提供と改善に使用されます。この Privacy Policy に記載された場合を除いて、情報を他の者と共有したり使用したりすることはありません。このプライバシーポリシーで使用される用語は、利用規約と同じ意味を持ちます。",
+    "message": "This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        17
+      ]
+    ]
+  },
+  "S1ia36": {
+    "translation": "このサービスには、他のサイトへのリンクが含まれている可能性があります。サードパーティのリンクをクリックすると、それらのサイトに移動します。これらの外部サイトは、私が運営しているものではないことにご注意ください。したがって、これらのWebサイトのプライバシーポリシーを確認することを強くお勧めします。これらのサードパーティサイトやサービスの内容、プライバシーポリシー、慣行については、一切の責任を負いません。",
+    "message": "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        36
+      ]
+    ]
+  },
+  "4fyLMn": {
+    "translation": "ゴルフオービットのプレイのヒント",
+    "message": "Tips Of Playing Golf Orbit",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        86
+      ]
+    ]
+  },
+  "+yrJEm": {
+    "translation": "サービスの分析を支援するため;",
+    "message": "To assist us in analyzing how our Service is used;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        30
+      ]
+    ]
+  },
+  "gN00PD": {
+    "translation": "サービスを容易にするため;",
+    "message": "To facilitate our Service;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        27
+      ]
+    ]
+  },
+  "TIkU8p": {
+    "translation": "サービス関連のサービスを実行するため;",
+    "message": "To perform Service-related services;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        29
+      ]
+    ]
+  },
+  "eQzifh": {
+    "translation": "ゴルフオービットをプレイするには、障害物に満ちた丘陵地帯を航行しながら、できるだけボールを遠くに打つ必要があります。ボールの方向を理解し、アップグレードを効果的に活用することが、高得点を達成するための鍵となります。",
+    "message": "To play Golf Orbit, you need to hit the ball as far as possible while navigating through hilly fields filled with obstacles. Understanding ball direction and utilizing upgrades effectively are key to achieving high scores.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        123
+      ]
+    ]
+  },
+  "jiYr9i": {
+    "translation": "代理してサービスを提供するため;",
+    "message": "To provide the Service on our behalf;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        28
+      ]
+    ]
+  },
+  "kCd+q+": {
+    "translation": "合計支払額",
+    "message": "Total Payment",
+    "comments": [],
+    "origin": [
+      [
+        "components/payment/payment-modal.tsx",
+        90
+      ]
+    ]
+  },
+  "AL4xwO": {
+    "translation": "「画像の後ろにテキスト」ツールを使って隠しテキストを使って画像を変換しましょう。ウォーターマーキング、ステガノグラフィー、クリエイティブデザインに最適です。今すぐ無料で試してみてください!",
+    "message": "Transform your images with hidden text using our Text Behind Image tool. Perfect for watermarking, steganography, and creative design. Try it free today!",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        17
+      ],
+      [
+        "config/site.ts",
+        22
+      ]
+    ]
+  },
+  "rnNvFZ": {
+    "translation": "さまざまなアップグレードを試して、どの組み合わせがあなたのプレイスタイルに最適な結果をもたらすかを確認してください。",
+    "message": "Try different upgrades to see which combinations yield the best results for your play style.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        96
+      ]
+    ]
+  },
+  "Rd1BcW": {
+    "translation": "無料で試す",
+    "message": "Try It Free",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/index-uploader.tsx",
+        29
+      ]
+    ]
+  },
+  "MxB2DA": {
+    "translation": "試してみる",
+    "message": "Try it out",
+    "comments": [],
+    "origin": [
+      [
+        "components/payment/paypal.tsx",
+        63
+      ]
+    ]
+  },
+  "NJFXN2": {
+    "translation": "「画像の後ろにテキスト」エディターを今すぐ試す",
+    "message": "Try Text Behind Image Editor Now",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        166
+      ]
+    ]
+  },
+  "LT7TYG": {
+    "translation": "テキストを入力し、画像の後ろに配置してください。リアルタイムでプレビューできます。",
+    "message": "Type your text and position it behind the image. Preview how it looks in real-time.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/tips.tsx",
+        16
+      ]
+    ]
+  },
+  "9Re0wu": {
+    "translation": "目的を理解する",
+    "message": "Understand the Objective",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        37
+      ]
+    ]
+  },
+  "sd3m42": {
+    "translation": "隠された物語を解き放つ: 「画像の後ろにテキスト」を手軽に使える",
+    "message": "Unlock Hidden Stories: Text Behind Image Made Effortless",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        21
+      ]
+    ]
+  },
+  "ONWvwQ": {
+    "translation": "アップロード",
+    "message": "Upload",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/button.tsx",
+        44
+      ]
+    ]
+  },
+  "+/4Lnu": {
+    "translation": "アップロード完了しました",
+    "message": "Upload successfully",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/painting-uploader.tsx",
+        49
+      ]
+    ]
+  },
+  "IYbuuf": {
+    "translation": "画像をアップロード",
+    "message": "Upload Your Image",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/tips.tsx",
+        10
+      ]
+    ]
+  },
+  "h3BBNG": {
+    "translation": "写真をアップロードしてください",
+    "message": "Upload your photo",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        26
+      ]
+    ]
+  },
+  "/eguJc": {
+    "translation": "アップロード中",
+    "message": "Uploading",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/picture.tsx",
+        59
+      ]
+    ]
+  },
+  "GxkJXS": {
+    "translation": "アップロード中...",
+    "message": "Uploading...",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/painting-uploader.tsx",
+        88
+      ]
+    ]
+  },
+  "FfVwIt": {
+    "translation": "クリックアンドホールド機能を使ってショットの強さを調整できます。左クリックを押し続けて強さを調整し、リリースしてボールを打ち出します。",
+    "message": "Use a simple click-and-hold mechanism to set your shot's power. Tap and hold the left mouse button to adjust the strength, then release to launch the ball.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        44
+      ]
+    ]
+  },
+  "pIBdY3": {
+    "translation": "使用例",
+    "message": "Use Cases",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/use-cases.tsx",
+        35
+      ]
+    ]
+  },
+  "HQiM02": {
+    "translation": "獲得したポイントを使って、ショットの強さ、スピード、跳ね返りを上げることができます。最適なパフォーマンスが得られるよう、いろいろな組み合わせを試してみてください。",
+    "message": "Use your accumulated points to boost your shot's strength, speed, and bounce. Experiment with different combinations for optimal performance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        68
+      ]
+    ]
+  },
+  "9DvIxX": {
+    "translation": "アップグレードを戦略的に活用する",
+    "message": "Utilize Upgrades Strategically",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        67
+      ]
+    ]
+  },
+  "5I58IA": {
+    "translation": "ゴルフオービットクラブハウスを訪れる",
+    "message": "Visit the Golf Orbit Clubhouse",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        73
+      ]
+    ]
+  },
+  "DFOg6P": {
+    "translation": "私たちは個人情報(名前、メール、支払い情報)と非個人情報(Webクッキー)を収集し、サービスの改善に利用しています。この情報の使用は、プライバシーポリシーに定められています。プライバシーポリシーは#1#(Webサイト)で確認できます。",
+    "message": "We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        23
+      ]
+    ]
+  },
+  "X+XmuC": {
+    "translation": "ようこそ#0#へ! 私たちのWebサイト#1#(Website)では、カスタムイメージの作成が可能です。本Webサイトにアクセスまたは利用することで、これらの利用規約(Terms)に同意したものとみなされます。利用規約のいずれかの部分に同意できない場合、Webサイトの使用は禁止されます。",
+    "message": "Welcome to #0#! Our website, located at #1# (Website), is dedicated to providing you with the ability to create custom images. By accessing or using our Website, you agree to be bound by these Terms of Service (Terms). If you do not agree with any part of the terms, then you are prohibited from using the Website.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        17
+      ]
+    ]
+  },
+  "2aQVIc": {
+    "translation": "ゴルフオービットの主な目的は何ですか?",
+    "message": "What are the main objectives in Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        126
+      ]
+    ]
+  },
+  "1yxwCu": {
+    "translation": "対応している画像フォーマットは何ですか?",
+    "message": "What image formats are supported?",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        16
+      ]
+    ]
+  },
+  "JVkaLa": {
+    "translation": "ゴルフオービットとは何ですか?",
+    "message": "What is Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        118
+      ]
+    ]
+  },
+  "Vg3mBm": {
+    "translation": "「画像の後ろにテキスト」テクノロジーとは何ですか?",
+    "message": "What is Text Behind Image technology?",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        8
+      ]
+    ]
+  },
+  "F2IrpI": {
+    "translation": "どのようなタイプの画像を編集できますか?",
+    "message": "What types of images can I edit?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        60
+      ]
+    ]
+  },
+  "/0yMu9": {
+    "translation": "はい、ゴルフオービットには予期せぬ状況や障害物が登場し、テクニックと精進が必要とされます。プレイヤーは状況に応じて戦略を適応させる必要があります。",
+    "message": "Yes, Golf Orbit presents unpredictable situations and obstacles that require technique and perseverance. Players must adapt their strategies to overcome these challenges.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        135
+      ]
+    ]
+  },
+  "6pDOvU": {
+    "translation": "はい、オリジナルのプロジェクトファイルをアップロードすれば、いつでもテキストレイヤーを再編集できます。これにより、必要に応じてテキストプロパティを調整できます。",
+    "message": "Yes, you can always re-edit your text layers by uploading the original project file. This allows you to make adjustments to text properties whenever needed.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        21
+      ]
+    ]
+  },
+  "thDUPI": {
+    "translation": "はい、フォント、サイズ、色、位置、回転など、テキストプロパティをすべて制御できます。すべての変更はリアルタイムのプレビューで確認できます。",
+    "message": "Yes, you have full control over text properties including font, size, color, position, and rotation. All changes can be made in real-time with instant preview.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        65
+      ]
+    ]
+  },
+  "oTbbJ/": {
+    "translation": "Webサイトとそのサービスを個人的、非商業的な目的で使用する制限付きの非独占的、譲渡不可のライセンスが付与されます。このライセンスには、Webサイトのコンテンツをコピー、変更、配布したり、商用目的で使用したりする権利は含まれません。事前の書面による同意なしにそのようなことを行うことはできません。",
+    "message": "You are granted a limited, non-exclusive, non-transferable license to use the Website and its services for personal, non-commercial purposes. This license does not include any rights to copy, modify, or distribute the Website's content or use it for commercial purposes without our prior written consent.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        19
+      ]
+    ]
+  },
+  "FnwiCc": {
+    "translation": "さまざまなフォーマットで出力できます。また、エディターは進捗状況を自動的に保存するため、後で作業を再開できます。",
+    "message": "You can export your finished work in various formats. The editor also automatically saves your progress, allowing you to return to your project later.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        69
+      ]
+    ]
+  },
+  "t/I9i5": {
+    "translation": "スコアを改善するには、コンスタントに練習し、ショットから学び、獲得したスコアをパワーアップ購入に使うことが重要です。",
+    "message": "You can improve your score by practicing consistently, learning from each shot, and using accumulated scores to purchase power-ups that enhance your throws.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        131
+      ]
+    ]
+  },
+  "yiQqaR": {
+    "translation": "テキストレイヤーを完全に制御できます。フォントファミリー、サイズ、色、位置、回転角度、配置を変更できます。すべての変更はリアルタイムのプレビューで確認できます。",
+    "message": "You have complete control over your text layers. You can change the font family, size, color, position, rotation angle, and alignment. All changes are made in real-time with instant preview.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        13
+      ]
+    ]
+  },
+  "2mR+O1": {
+    "translation": "ゴルフオービットでの主な目的は、岩やサンドピットなどの障害物を通過しながら、できるだけ遠くにゴルフボールを打ち出すことです。",
+    "message": "Your main goal in Golf Orbit is to hit the golf ball as far as possible while navigating through various obstacles like rocks and sand pits.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        38
+      ]
+    ]
+  },
+  "lX4VC4": {
+    "translation": "ブログリスト",
+    "message": "博客列表",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/layout..tsx",
+        7
+      ]
+    ]
+  }
+}

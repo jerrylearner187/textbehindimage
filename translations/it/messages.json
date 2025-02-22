@@ -1,0 +1,2228 @@
+{
+  "/HNf1t": {
+    "translation": "\"Scopri la magia dell'espansione delle tue foto con l'AI\"",
+    "message": "\"Discover the Magic of Expanding Your Photos with AI\"",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/blogs-page-client.tsx",
+        37
+      ]
+    ]
+  },
+  "J/hVSQ": {
+    "translation": "{0}",
+    "message": "{0}",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        34
+      ],
+      [
+        "components/wegic/pricing.tsx",
+        35
+      ],
+      [
+        "components/wegic/pricing.tsx",
+        36
+      ]
+    ]
+  },
+  "32fNxX": {
+    "translation": "#0# si riserva il diritto, a sua sola discrezione, di modificare o sostituire questi Termini in qualsiasi momento. Informeremo gli utenti di eventuali modifiche tramite email. Il tuo continuo utilizzo del Sito Web dopo qualsiasi modifica di questi Termini costituirà la tua accettazione di tali modifiche.",
+    "message": "#0# reserves the right, at our sole discretion, to modify or replace these Terms at any time. We will notify users of any changes by email. Your continued use of the Website after any change in these Terms will constitute your acceptance of such changes.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        27
+      ]
+    ]
+  },
+  "qVv47w": {
+    "translation": "1. Raccolta e utilizzo delle informazioni",
+    "message": "1. Information Collection and Use",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        18
+      ]
+    ]
+  },
+  "dnEZiE": {
+    "translation": "1. Licenza d'uso",
+    "message": "1. Use License",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        18
+      ]
+    ]
+  },
+  "RUEwir": {
+    "translation": "2. Dati di log",
+    "message": "2. Log Data",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        20
+      ]
+    ]
+  },
+  "AV4xaK": {
+    "translation": "2. Proprietà",
+    "message": "2. Ownership",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        20
+      ]
+    ]
+  },
+  "hczIS1": {
+    "translation": "3. Cookie",
+    "message": "3. Cookies",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        22
+      ]
+    ]
+  },
+  "69EiaO": {
+    "translation": "3. Raccolta dei dati degli utenti",
+    "message": "3. User Data Collection",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        22
+      ]
+    ]
+  },
+  "pik+Gj": {
+    "translation": "4. Legge applicabile",
+    "message": "4. Governing Law",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        24
+      ]
+    ]
+  },
+  "gSmscK": {
+    "translation": "4. Fornitori di servizi",
+    "message": "4. Service Providers",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        24
+      ]
+    ]
+  },
+  "HT0gtE": {
+    "translation": "5. Modifiche ai Termini",
+    "message": "5. Changes to Terms",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        26
+      ]
+    ]
+  },
+  "0jvfq0": {
+    "translation": "5. Sicurezza",
+    "message": "5. Security",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        33
+      ]
+    ]
+  },
+  "UA5K4X": {
+    "translation": "6. Informazioni per i contatti",
+    "message": "6. Contact Information",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        28
+      ]
+    ]
+  },
+  "c72RA6": {
+    "translation": "6. Collegamenti ad altri siti",
+    "message": "6. Links to Other Sites",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        35
+      ]
+    ]
+  },
+  "FhdZtA": {
+    "translation": "7. Modifiche all'Informativa sulla privacy",
+    "message": "7. Changes to This Privacy Policy",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        37
+      ]
+    ]
+  },
+  "8O/T2d": {
+    "translation": "Assolutamente! Orbita Golf è progettato con obiettivi semplici e regole facili da comprendere, rendendolo accessibile ai giocatori di tutti i livelli di abilità.",
+    "message": "Absolutely! Golf Orbit is designed with simple goals and easy-to-understand rules, making it accessible for players of all skill levels.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        139
+      ]
+    ]
+  },
+  "1FstmD": {
+    "translation": "Assolutamente! I livelli di testo sono renderizzati ad alta qualità, rendendoli adatti sia per la visualizzazione digitale che per i materiali di stampa. È possibile regolare le proprietà del testo per garantire la massima visibilità nel mezzo desiderato.",
+    "message": "Absolutely! The text layers are rendered at high quality, making them suitable for both digital display and print materials. You can adjust text properties to ensure optimal visibility in your intended medium.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        25
+      ]
+    ]
+  },
+  "+TjOMk": {
+    "translation": "Aggiungi un livello di testo personalizzabile dietro le tue immagini",
+    "message": "Add Customizable Text Layer Behind Your Images",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/hero.tsx",
+        23
+      ]
+    ]
+  },
+  "6sBhOg": {
+    "translation": "Aggiungi livelli di testo personalizzabili sotto le tue immagini. Perfetto per i designer che vogliono creare composizioni visive uniche con combinazioni di testo e immagini.",
+    "message": "Add customizable text layers beneath your images. Perfect for designers who want to create unique visual compositions with text and image combinations.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/use-cases.tsx",
+        10
+      ]
+    ]
+  },
+  "aDgIDu": {
+    "translation": "Aggiungi più livelli di testo e sistemali con controlli di posizionamento e rotazione precisi.",
+    "message": "Add multiple text layers and arrange them with precise positioning and rotation controls.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        43
+      ]
+    ]
+  },
+  "L0HmYp": {
+    "translation": "Aggiungi livello di testo",
+    "message": "Add Text Layer",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/tips.tsx",
+        15
+      ]
+    ]
+  },
+  "4h3TZ4": {
+    "translation": "Aggiungi livelli di testo preservando la qualità originale dell'immagine. Apporta regolazioni in qualsiasi momento senza influire sull'immagine.",
+    "message": "Add text layers while preserving your original image quality. Make adjustments anytime without affecting the image.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/features.tsx",
+        21
+      ]
+    ]
+  },
+  "I415gB": {
+    "translation": "Regola font, dimensione, colore, posizione e rotazione per ottenere l'aspetto desiderato.",
+    "message": "Adjust font, size, color, position, and rotation to achieve your desired look.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/tips.tsx",
+        21
+      ]
+    ]
+  },
+  "GGSGaP": {
+    "translation": "Stile avanzato",
+    "message": "Advanced Styling",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        47
+      ]
+    ]
+  },
+  "uFZsqH": {
+    "translation": "Dopo aver effettuato l'accesso, puoi avere tre prove per espandere la tua immagine con l'AI",
+    "message": "After logging in, you can have three two trials expand your image with AI",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/index-uploader.tsx",
+        33
+      ]
+    ]
+  },
+  "+dagcs": {
+    "translation": "Post del blog sull'immagine di outpainting AI",
+    "message": "AI Outpainting Image Blogs Post",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/blogs-page-client.tsx",
+        34
+      ]
+    ]
+  },
+  "ucCUQ3": {
+    "translation": "Mirare all'area verde",
+    "message": "Aim for the Green Area",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        49
+      ]
+    ]
+  },
+  "zubZiv": {
+    "translation": "Applica colori, ombre ed effetti per far risaltare perfettamente i tuoi livelli di testo.",
+    "message": "Apply colors, shadows, and effects to make your text layers stand out perfectly.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        48
+      ]
+    ]
+  },
+  "HKMi54": {
+    "translation": "Ci sono sfide in Orbita Golf?",
+    "message": "Are there any challenges in Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        134
+      ]
+    ]
+  },
+  "4zYfYC": {
+    "translation": "Tipografia artistica",
+    "message": "Artistic Typography",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/use-cases.tsx",
+        24
+      ]
+    ]
+  },
+  "ExFMj8": {
+    "translation": "Blog",
+    "message": "Blogs",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/page.tsx",
+        23
+      ],
+      [
+        "components/wegic/blogs.tsx",
+        24
+      ],
+      [
+        "components/wegic/footer.tsx",
+        15
+      ]
+    ]
+  },
+  "mRjO9S": {
+    "translation": "Lista di blog",
+    "message": "Blogs List",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/[slug]/page.tsx",
+        62
+      ]
+    ]
+  },
+  "yZ2PlW": {
+    "translation": "Utilizzando #0#, si accettano i presenti Termini di Servizio.",
+    "message": "By using #0#, you signify your acceptance of these Terms of Service.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        30
+      ]
+    ]
+  },
+  "2VuDjI": {
+    "translation": "Chiunque può giocare a Orbita Golf?",
+    "message": "Can anyone play Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        138
+      ]
+    ]
+  },
+  "osw+wU": {
+    "translation": "Posso regolare le proprietà del testo dopo averle aggiunte?",
+    "message": "Can I adjust the text properties after adding them?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        64
+      ]
+    ]
+  },
+  "3O/N3t": {
+    "translation": "Posso modificare il livello di testo dopo averlo salvato?",
+    "message": "Can I edit the text layer after saving?",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        20
+      ]
+    ]
+  },
+  "Lx4Di7": {
+    "translation": "Golf da grotta",
+    "message": "Cave Golf",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        152
+      ]
+    ]
+  },
+  "yz7wBu": {
+    "translation": "Chiudi",
+    "message": "Close",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        56
+      ]
+    ]
+  },
+  "QECVrh": {
+    "translation": "Raccogli monete e ricompense",
+    "message": "Collect Coins and Rewards",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        61
+      ]
+    ]
+  },
+  "ZFKnW0": {
+    "translation": "Controlla la palla",
+    "message": "Control the Ball",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        43
+      ]
+    ]
+  },
+  "akF51D": {
+    "translation": "I cookie sono file con una piccola quantità di dati comunemente utilizzati come identificatori anonimi univoci. Questi vengono inviati al tuo browser dai siti web che visiti e vengono memorizzati nella memoria interna del tuo dispositivo. Questo servizio non utilizza esplicitamente questi cookie. Tuttavia, l'app potrebbe utilizzare codice e librerie di terze parti che utilizzano i cookie per raccogliere informazioni e migliorare i loro servizi. Hai la possibilità di accettare o rifiutare questi cookie e di sapere quando un cookie viene inviato al tuo dispositivo. Se scegli di rifiutare i nostri cookie, potresti non essere in grado di utilizzare alcune parti di questo servizio.",
+    "message": "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these cookies explicitly. However, the app may use third party code and libraries that use cookies to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        23
+      ]
+    ]
+  },
+  "ajrhgd": {
+    "translation": "Crea materiali visivi coinvolgenti con testo esplicativo sotto le immagini. Ideale per libri di testo, presentazioni e contenuti educativi.",
+    "message": "Create engaging visual materials with explanatory text beneath images. Ideal for textbooks, presentations, and educational content.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/use-cases.tsx",
+        20
+      ]
+    ]
+  },
+  "vMhTGU": {
+    "translation": "Crea immagini impressionanti con strati di testo personalizzabili utilizzando il nostro editor Text Behind Image. Regola il font, la dimensione, il colore, la posizione e la rotazione. Perfetto per fotografi, designer e creatori di contenuti.",
+    "message": "Create stunning images with customizable text layers using our Text Behind Image Editor. Adjust font, size, color, position, and rotation. Perfect for photographers, designers, and content creators.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        22
+      ]
+    ]
+  },
+  "jfjT5R": {
+    "translation": "Crea immagini straordinarie con livelli di testo personalizzabili. Aggiungi didascalie, filigrane e descrizioni con il pieno controllo su font, dimensione, colore e posizionamento.",
+    "message": "Create stunning images with customizable text layers. Add captions, \nwatermarks, and descriptions with complete control over font, size, \ncolor, and positioning.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        91
+      ]
+    ]
+  },
+  "uRCVYn": {
+    "translation": "Disegno creativo",
+    "message": "Creative Design",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/use-cases.tsx",
+        9
+      ]
+    ]
+  },
+  "TXxF+/": {
+    "translation": "credito",
+    "message": "credit",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        93
+      ]
+    ]
+  },
+  "NVCkjr": {
+    "translation": "Personalizza font, dimensioni, colori e stili. Controllo tipografico perfetto per i tuoi livelli di testo.",
+    "message": "Customize fonts, sizes, colors, and styles. Perfect typography control for your text layers.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        38
+      ]
+    ]
+  },
+  "/eXbbr": {
+    "translation": "Personalizza le proprietà del testo",
+    "message": "Customize Text Properties",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/tips.tsx",
+        20
+      ]
+    ]
+  },
+  "fGp6n/": {
+    "translation": "Personalizza il tuo testo con vari font, dimensioni, colori e stili. Crea composizioni testo-immagine perfette per le tue esigenze.",
+    "message": "Customize your text with various fonts, sizes, colors, and styles. Create perfect text-image compositions for your needs.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/features.tsx",
+        16
+      ]
+    ]
+  },
+  "oCnmUY": {
+    "translation": "Scopri perché migliaia di utenti scelgono il nostro strumento Testo dietro l'immagine per le loro esigenze creative e di sicurezza.",
+    "message": "Discover why thousands of users choose our Text Behind Image tool for their creative and security needs.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/features.tsx",
+        39
+      ]
+    ]
+  },
+  "JmvRR0": {
+    "translation": "Scarica la tua immagine completata con i livelli di testo in formati multipli. Perfetto per l'uso digitale e la stampa.",
+    "message": "Download your completed image with text layers in multiple formats. Perfect for digital and print use.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/features.tsx",
+        26
+      ]
+    ]
+  },
+  "biqr4n": {
+    "translation": "Scarica la tua immagine con il livello di testo personalizzato nel formato preferito.",
+    "message": "Download your image with the customized text layer in your preferred format.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/tips.tsx",
+        26
+      ]
+    ]
+  },
+  "mfp0DR": {
+    "translation": "Trascina lo slider per vedere gli effetti prima e dopo aver aggiunto il testo dietro l'immagine",
+    "message": "Drag the slider to see the effects before and after adding text behind image",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/gallery.tsx",
+        47
+      ]
+    ]
+  },
+  "DNhRz0": {
+    "translation": "Durante il volo, raccogli monete per sbloccare gli aggiornamenti. Più lunga è la distanza che riesci a raggiungere, più punti guadagni, che possono essere utilizzati per migliorare il tuo gameplay.",
+    "message": "During your flight, collect coins to unlock upgrades. The longer the distance you achieve, the more points you earn, which can be used to enhance your gameplay.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        62
+      ]
+    ]
+  },
+  "wRoPp9": {
+    "translation": "Ogni tiro registrerà la distanza percorsa. Tieni traccia dei tuoi progressi per migliorare le tue abilità e mirare a distanze sempre maggiori ad ogni colpo.",
+    "message": "Each shot will record the distance traveled. Keep track of your progress to improve your skills and aim for longer distances with each swing.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        56
+      ]
+    ]
+  },
+  "MztNkz": {
+    "translation": "Aggiungi facilmente crediti, informazioni sul copyright o descrizioni sotto le tue immagini. Personalizza lo stile del testo, la posizione e la rotazione per adattarli alle tue esigenze di progettazione.",
+    "message": "Easily add credits, copyright information, or descriptions beneath your images. Customize text style, position, and rotation to match your design needs.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/use-cases.tsx",
+        15
+      ]
+    ]
+  },
+  "md99Ux": {
+    "translation": "Esportazione facile",
+    "message": "Easy Export",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        52
+      ],
+      [
+        "components/wegic/features.tsx",
+        25
+      ]
+    ]
+  },
+  "uBAxNB": {
+    "translation": "Editor",
+    "message": "Editor",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/header.tsx",
+        8
+      ]
+    ]
+  },
+  "C4oSHI": {
+    "translation": "Materiali didattici",
+    "message": "Educational Materials",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/use-cases.tsx",
+        19
+      ]
+    ]
+  },
+  "RuqoXe": {
+    "translation": "Partecipa a battaglie di un solo tiro",
+    "message": "Engage in One-Shot Battles",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        105
+      ]
+    ]
+  },
+  "yw6YJK": {
+    "translation": "Migliora le tue immagini con livelli di testo sottostanti. Personalizza font, dimensione, colore, posizione e rotazione per creare composizioni immagine-testo perfette.",
+    "message": "Enhance your images with underlying text layers. Customize font, size, color, position, and rotation to create perfect image-text compositions.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/hero.tsx",
+        26
+      ]
+    ]
+  },
+  "rtNKwJ": {
+    "translation": "Goditi le opzioni uniche di personalizzazione del personaggio e della palla. Giocare con diversi personaggi può aggiungere un tocco di divertimento al tuo gameplay.",
+    "message": "Enjoy the unique character and ball customization options. Playing as different characters can add a fun twist to your gameplay.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        111
+      ]
+    ]
+  },
+  "7xE6LV": {
+    "translation": "Scambia i punti nel clubhouse per cambiare il tuo golfista, il colore della palla o persino il mondo in cui giochi. Scegli tra una varietà di personaggi divertenti e posizioni vibranti.",
+    "message": "Exchange points at the clubhouse to change your golfer, ball color, or even the world you play in. Choose from a variety of fun characters and vibrant locations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        74
+      ]
+    ]
+  },
+  "zk59eJ": {
+    "translation": "Sperimenta il posizionamento e lo stile del testo sotto le immagini per creare composizioni artistiche uniche. Controlla font, dimensione, colore e posizionamento per ottenere risultati perfetti.",
+    "message": "Experiment with text placement and styling beneath images to create unique artistic compositions. Control font, size, color, and positioning for perfect results.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/use-cases.tsx",
+        25
+      ]
+    ]
+  },
+  "dzop7f": {
+    "translation": "Sperimenta gli aggiornamenti",
+    "message": "Experiment with Upgrades",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        95
+      ]
+    ]
+  },
+  "42bZ7A": {
+    "translation": "Esplora come Text Behind Image può migliorare il tuo contenuto visivo aggiungendo livelli di testo personalizzabili sotto le tue immagini.",
+    "message": "Explore how Text Behind Image can enhance your visual content by adding customizable text layers beneath your images.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/use-cases.tsx",
+        38
+      ]
+    ]
+  },
+  "dpUDBU": {
+    "translation": "Esporta la tua creazione",
+    "message": "Export Your Creation",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/tips.tsx",
+        25
+      ]
+    ]
+  },
+  "2Fag/1": {
+    "translation": "Esporta il tuo lavoro in più formati mantenendo un'alta qualità della risoluzione.",
+    "message": "Export your work in multiple formats with high-quality resolution preservation.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        53
+      ]
+    ]
+  },
+  "lIFSzb": {
+    "translation": "Impossibile caricare il file: {0}",
+    "message": "Failed to upload file: {0}",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/useS34R2.ts",
+        23
+      ]
+    ]
+  },
+  "cDhYY/": {
+    "translation": "Generazione veloce",
+    "message": "Fast generation",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        28
+      ]
+    ]
+  },
+  "TVSR9M": {
+    "translation": "Le dimensioni del file superano i 10 MB. Si prega di selezionare un file più piccolo.",
+    "message": "File size exceeds 10MB. Please select a smaller file.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/painting-uploader.tsx",
+        40
+      ]
+    ]
+  },
+  "m6suST": {
+    "translation": "Trova risposte alle domande più comuni sul nostro strumento Text Behind Image e su come può aiutarti.",
+    "message": "Find answers to common questions about our Text Behind Image tool and how it can help you.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        40
+      ]
+    ]
+  },
+  "4+PtKC": {
+    "translation": "Posizionamento flessibile del testo",
+    "message": "Flexible Text Positioning",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/features.tsx",
+        10
+      ]
+    ]
+  },
+  "uXDmWz": {
+    "translation": "Concentrarsi sul tempismo",
+    "message": "Focus on Timing",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        90
+      ]
+    ]
+  },
+  "vkCIV7": {
+    "translation": "Segui questi semplici passaggi per aggiungere testo nascosto alle tue immagini in soli pochi minuti.",
+    "message": "Follow these simple steps to add hidden text to your images in just a few minutes.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/tips.tsx",
+        39
+      ]
+    ]
+  },
+  "st6ZC4": {
+    "translation": "Per una migliore esperienza, durante l'utilizzo del nostro Servizio, potrei richiedere di fornirmi alcune informazioni personali identificabili. Le informazioni richieste saranno conservate sul tuo dispositivo e non verranno raccolte in alcun modo. L'app utilizza servizi di terze parti che potrebbero raccogliere informazioni utilizzate per identificarti.",
+    "message": "For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. The app does use third-party services that may collect information used to identify you.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        19
+      ]
+    ]
+  },
+  "F7G/TS": {
+    "translation": "Domande frequenti",
+    "message": "Frequently Asked Questions",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        131
+      ],
+      [
+        "components/wegic/faqs.tsx",
+        37
+      ]
+    ]
+  },
+  "c3b0B0": {
+    "translation": "Inizia",
+    "message": "Get Started",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/index-uploader.tsx",
+        44
+      ],
+      [
+        "components/wegic/pricing.tsx",
+        140
+      ]
+    ]
+  },
+  "sAH4M6": {
+    "translation": "Vai al pagamento",
+    "message": "Go to Payment",
+    "comments": [],
+    "origin": [
+      [
+        "components/payment/stripe.tsx",
+        35
+      ]
+    ]
+  },
+  "igzRYn": {
+    "translation": "Golf Battle",
+    "message": "Golf Battle",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        165
+      ]
+    ]
+  },
+  "XjfWlt": {
+    "translation": "Golf Field",
+    "message": "Golf Field",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        159
+      ]
+    ]
+  },
+  "xY6h9F": {
+    "translation": "Orbita Golf",
+    "message": "Golf Orbit",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        146
+      ]
+    ]
+  },
+  "fAKcR3": {
+    "translation": "Orbita Golf è un emozionante gioco di simulazione di golf in cui i giocatori mirano a lanciare palline da golf ad altezze incredibili, raggiungendo persino Marte. Presenta battaglie di golf a tiro singolo, livelli impegnativi e l'opportunità di padroneggiare il tiro perfetto.",
+    "message": "Golf Orbit is an exciting golf simulator game where players aim to launch golf balls to incredible heights, even reaching Mars. It features one-shot golf battles, challenging levels, and the opportunity to master the perfect shot.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        119
+      ]
+    ]
+  },
+  "0RKAvR": {
+    "translation": "Si è connesso",
+    "message": "Has logged in",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        128
+      ]
+    ]
+  },
+  "i/folP": {
+    "translation": "Divertiti con la personalizzazione",
+    "message": "Have Fun with Customization",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        110
+      ]
+    ]
+  },
+  "Ghlr93": {
+    "translation": "Immagini di alta qualità",
+    "message": "High quality images",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        29
+      ]
+    ]
+  },
+  "i0qMbr": {
+    "translation": "Home",
+    "message": "Home",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        13
+      ],
+      [
+        "components/wegic/header.tsx",
+        7
+      ]
+    ]
+  },
+  "ifBnJX": {
+    "translation": "Come posso personalizzare il livello di testo?",
+    "message": "How can I customize the text layer?",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        12
+      ]
+    ]
+  },
+  "LWjutm": {
+    "translation": "Come posso migliorare il mio punteggio in Orbita Golf?",
+    "message": "How can I improve my score in Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        130
+      ]
+    ]
+  },
+  "PkzK4L": {
+    "translation": "Come si gioca a Orbita Golf?",
+    "message": "How do I play Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        122
+      ]
+    ]
+  },
+  "lkLuQv": {
+    "translation": "Come salvo il mio lavoro?",
+    "message": "How do I save my work?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        68
+      ]
+    ]
+  },
+  "VXLg1Q": {
+    "translation": "Come si gioca a Orbita Golf?",
+    "message": "How To Play Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        26
+      ]
+    ]
+  },
+  "Ii47+0": {
+    "translation": "Come utilizzare Text Behind Image",
+    "message": "How to Use Text Behind Image",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/tips.tsx",
+        36
+      ]
+    ]
+  },
+  "dQt+7J": {
+    "translation": "Potrei avvalermi di aziende e individui terzi per i seguenti motivi:",
+    "message": "I may employ third-party companies and individuals due to the following reasons:",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        25
+      ]
+    ]
+  },
+  "EUZXzT": {
+    "translation": "Potrei aggiornare la nostra Informativa sulla privacy di tanto in tanto. Pertanto, si consiglia di consultare periodicamente questa pagina per eventuali modifiche. Vi informerò di eventuali cambiamenti pubblicando la nuova Informativa sulla privacy su questa pagina. Tali modifiche hanno effetto immediato dopo essere state pubblicate su questa pagina.",
+    "message": "I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        38
+      ]
+    ]
+  },
+  "5dDG4E": {
+    "translation": "Valorizzo la vostra fiducia nel fornirci le vostre informazioni personali, pertanto stiamo cercando di utilizzare mezzi commercialmente accettabili per proteggerle. Ma ricordate che nessun metodo di trasmissione su Internet o metodo di archiviazione elettronica è 100% sicuro e affidabile e non posso garantirne l'assoluta sicurezza.",
+    "message": "I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        34
+      ]
+    ]
+  },
+  "gFP4HL": {
+    "translation": "Voglio informare gli utenti di questo Servizio che questi terzi hanno accesso alle vostre Informazioni Personali. Il motivo è quello di svolgere i compiti loro assegnati per nostro conto. Tuttavia, sono obbligati a non divulgare o utilizzare le informazioni per qualsiasi altro scopo.",
+    "message": "I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        32
+      ]
+    ]
+  },
+  "xeCjro": {
+    "translation": "Voglio informarti che ogni volta che utilizzi il mio Servizio, in caso di errore nell'app, raccolgo dati e informazioni (attraverso prodotti di terze parti) sul tuo telefono chiamati Log Data. Questi Log Data possono includere informazioni come il tuo indirizzo IP del dispositivo, il nome del dispositivo, la versione del sistema operativo, la configurazione dell'app durante l'utilizzo del mio Servizio, l'orario e la data del tuo utilizzo del Servizio e altre statistiche.",
+    "message": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ('IP') address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        21
+      ]
+    ]
+  },
+  "d1ALrF": {
+    "translation": "Se hai domande su questi Termini, ti preghiamo di contattarci all'indirizzo #0#.",
+    "message": "If you have any questions about these Terms, please contact us at #0#.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        29
+      ]
+    ]
+  },
+  "ZPz9cU": {
+    "translation": "Attribuzione dell'immagine",
+    "message": "Image Attribution",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/use-cases.tsx",
+        14
+      ]
+    ]
+  },
+  "oTSrSS": {
+    "translation": "L'inizializzazione dei servizi PayPal ha riscontrato un errore.",
+    "message": "Initialization of PayPal services encountered an error.",
+    "comments": [],
+    "origin": [
+      [
+        "components/payment/paypal.tsx",
+        60
+      ]
+    ]
+  },
+  "xQ/Fah": {
+    "translation": "È adatto sia per l'uso digitale che per la stampa?",
+    "message": "Is this suitable for both digital and print use?",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        24
+      ]
+    ]
+  },
+  "mFEgHO": {
+    "translation": "Continua a giocare a Orbita Golf per padroneggiare le sfide e imparare come superare efficacemente gli ostacoli. Più giochi, meglio diventerai!",
+    "message": "Keep playing Golf Orbit to master the challenges and learn how to overcome obstacles effectively. The more you play, the better you'll become!",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        80
+      ]
+    ]
+  },
+  "wzqqS+": {
+    "translation": "Funzionalità Principali",
+    "message": "Key Features",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/features.tsx",
+        36
+      ]
+    ]
+  },
+  "nlizoj": {
+    "translation": "Avvia il gioco",
+    "message": "Launch the Game",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        31
+      ]
+    ]
+  },
+  "bauXon": {
+    "translation": "Gestione dei livelli",
+    "message": "Layer Management",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        42
+      ]
+    ]
+  },
+  "hU6JDJ": {
+    "translation": "Impara la disposizione degli ostacoli in ogni livello. Comprendere le loro posizioni può aiutarti a pianificare meglio i tuoi colpi.",
+    "message": "Learn the layout of obstacles in each level. Understanding their positions can help you strategize your shots better.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        101
+      ]
+    ]
+  },
+  "Z3FXyt": {
+    "translation": "Caricamento...",
+    "message": "Loading...",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/loading.tsx",
+        8
+      ],
+      [
+        "components/payment/paypal.tsx",
+        54
+      ]
+    ]
+  },
+  "8vxMBr": {
+    "translation": "Mini Golf Game 3D",
+    "message": "Mini Golf Game 3D",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        171
+      ]
+    ]
+  },
+  "4Fwtsw": {
+    "translation": "Monitora i tuoi colpi",
+    "message": "Monitor Your Shots",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        55
+      ]
+    ]
+  },
+  "bHt2FX": {
+    "translation": "Errore di rete o problema CORS.",
+    "message": "Network error or CORS issue.",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/useS34R2.ts",
+        27
+      ]
+    ]
+  },
+  "ko93eb": {
+    "translation": "I nuovi utenti che effettuano l'accesso riceveranno 2 crediti",
+    "message": "New users who log in will receive 2 credits",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        39
+      ]
+    ]
+  },
+  "cvwg/A": {
+    "translation": "I nuovi utenti che effettuano l'accesso riceveranno 5 crediti",
+    "message": "New users who log in will receive 5 credits",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        120
+      ]
+    ]
+  },
+  "2Gj7it": {
+    "translation": "Modifica non distruttiva",
+    "message": "Non-Destructive Editing",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/features.tsx",
+        20
+      ]
+    ]
+  },
+  "+n1T9k": {
+    "translation": "Osserva gli ostacoli",
+    "message": "Observe Obstacles",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        100
+      ]
+    ]
+  },
+  "/1Otku": {
+    "translation": "Il nostro editor supporta tutti i principali formati di immagine, inclusi JPG, PNG e WebP. Puoi caricare immagini di qualsiasi dimensione e aggiungere livelli di testo personalizzabili.",
+    "message": "Our editor supports all major image formats including JPG, PNG, and WebP. You can upload images of any size and add customizable text layers to them.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        61
+      ]
+    ]
+  },
+  "xjJF7f": {
+    "translation": "Il nostro strumento supporta tutti i principali formati di immagine, inclusi JPG, PNG e WebP. Puoi importare ed esportare nel formato preferito mantenendo le proprietà del livello di testo.",
+    "message": "Our tool supports all major image formats including JPG, PNG, and WebP. You can import and export in your preferred format while maintaining the text layer properties.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        17
+      ]
+    ]
+  },
+  "3TONwo": {
+    "translation": "Partecipa a battaglie one-shot per metterti alla prova e migliorare le tue abilità in un ambiente competitivo.",
+    "message": "Participate in one-shot battles to challenge yourself and improve your skills in a competitive environment.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        106
+      ]
+    ]
+  },
+  "YztchP": {
+    "translation": "Perfeziona il tempismo quando fai clic per colpire la palla. Il giusto tempismo può aumentare notevolmente la distanza del tiro.",
+    "message": "Perfect your timing when clicking to hit the ball. The right timing can significantly increase your shot distance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        91
+      ]
+    ]
+  },
+  "2bVshK": {
+    "translation": "Permanentemente valido",
+    "message": "Permanently valid",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        27
+      ]
+    ]
+  },
+  "RfTnMp": {
+    "translation": "Posiziona i livelli di testo esattamente dove li vuoi dietro le tue immagini. Regola facilmente posizione, rotazione e allineamento.",
+    "message": "Place text layers precisely where you want them behind your images. Adjust position, rotation, and alignment with ease.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/features.tsx",
+        11
+      ]
+    ]
+  },
+  "W3mmGV": {
+    "translation": "Clicca o trascina l'immagine per caricarla.",
+    "message": "Please click or drag the image to upload it.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/painting-uploader.tsx",
+        105
+      ]
+    ]
+  },
+  "+Y65s1": {
+    "translation": "Accedi per continuare",
+    "message": "Please Sign In To Continue",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        38
+      ]
+    ]
+  },
+  "PZCqeW": {
+    "translation": "Per favore riprova più tardi.",
+    "message": "Please try again later.",
+    "comments": [],
+    "origin": [
+      [
+        "components/payment/paypal.tsx",
+        58
+      ]
+    ]
+  },
+  "s6f7Bn": {
+    "translation": "Potenti funzionalità",
+    "message": "Powerful Features",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        107
+      ]
+    ]
+  },
+  "jAzLA+": {
+    "translation": "Pratica ed esperimenta",
+    "message": "Practice and Experiment",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        79
+      ]
+    ]
+  },
+  "aHCEmh": {
+    "translation": "Prezzi",
+    "message": "Pricing",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        14
+      ]
+    ]
+  },
+  "rQBXl9": {
+    "translation": "Piani tariffari",
+    "message": "Pricing Plans",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        66
+      ]
+    ]
+  },
+  "ScJ9fj": {
+    "translation": "Politica sulla privacy",
+    "message": "Privacy policy",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        23
+      ],
+      [
+        "components/wegic/footer.tsx",
+        70
+      ]
+    ]
+  },
+  "woRfhL": {
+    "translation": "Politica sulla privacy per #0#",
+    "message": "Privacy Policy for #0#",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        16
+      ]
+    ]
+  },
+  "etAa3/": {
+    "translation": "Editor professionale per Testo dietro l'immagine",
+    "message": "Professional Text Behind Image Editor",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        88
+      ]
+    ]
+  },
+  "A20mxR": {
+    "translation": "Acquista a richiesta, nessun canone di abbonamento, validità a vita",
+    "message": "Purchase on demand, no subscription fee, lifetime validity",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        70
+      ]
+    ]
+  },
+  "xvM/SD": {
+    "translation": "Pronti a creare?",
+    "message": "Ready to Create?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        154
+      ]
+    ]
+  },
+  "WEYdDv": {
+    "translation": "Consigliato",
+    "message": "Recommended",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        82
+      ]
+    ]
+  },
+  "23e2FI": {
+    "translation": "Personalizzazione del testo formattato",
+    "message": "Rich Text Customization",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/features.tsx",
+        15
+      ]
+    ]
+  },
+  "+rk4ZX": {
+    "translation": "Modifica del testo formattato",
+    "message": "Rich Text Editing",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        37
+      ]
+    ]
+  },
+  "+1awnu": {
+    "translation": "Seleziona o trascina e rilascia qualsiasi file di immagine. Supportiamo tutti i principali formati di immagine per tua comodità.",
+    "message": "Select or drag and drop any image file. We support all major image formats for your convenience.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/tips.tsx",
+        11
+      ]
+    ]
+  },
+  "ZqvdDl": {
+    "translation": "Accedi con Google",
+    "message": "Sign In With Google",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        128
+      ],
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        50
+      ]
+    ]
+  },
+  "K4kLFy": {
+    "translation": "Inizia ad aggiungere livelli di testo professionale alle tue immagini oggi.\nNessuna competenza tecnica richiesta.",
+    "message": "Start adding professional text layers to your images today. \nNo technical skills required.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        157
+      ]
+    ]
+  },
+  "DnT2Fb": {
+    "translation": "Inizia inserendo l'Orbita Golf, dove intraprenderai un'emozionante avventura golfistica. Familiarizzare con l'interfaccia e i comandi del gioco.",
+    "message": "Start by entering Golf Orbit, where you will embark on an exciting golfing adventure. Familiarize yourself with the game interface and controls.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        32
+      ]
+    ]
+  },
+  "DYmLr2": {
+    "translation": "Inizia a creare ora",
+    "message": "Start Creating Now",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/hero.tsx",
+        35
+      ]
+    ]
+  },
+  "y2IKvf": {
+    "translation": "Ferma la barra di navigazione nell'intervallo più vicino all'area verde per assicurare la migliore direzione di tiro per la massima distanza.",
+    "message": "Stop the navigation bar in the range closest to the green area to ensure the best hitting direction for maximum distance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        50
+      ]
+    ]
+  },
+  "ywdZxq": {
+    "translation": "Errore di sistema, riprova o contatta l'amministratore del sito web",
+    "message": "System Error,Please retry or contract website admin",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/painting-uploader.tsx",
+        78
+      ]
+    ]
+  },
+  "UCLeG0": {
+    "translation": "Termini di servizio",
+    "message": "Terms of service",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        71
+      ]
+    ]
+  },
+  "X+aiz8": {
+    "translation": "Termini di Servizio per #0#",
+    "message": "Terms of Service for #0#",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        16
+      ]
+    ]
+  },
+  "B5C6T2": {
+    "translation": "Testo dietro l'immagine",
+    "message": "Text Behind Image",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        5
+      ]
+    ]
+  },
+  "2j3t5L": {
+    "translation": "Testo dietro l'immagine - Aggiungi testo nascosto alle tue immagini",
+    "message": "Text Behind Image - Add Hidden Text to Your Images",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        16
+      ]
+    ]
+  },
+  "xzD2cy": {
+    "translation": "Text Behind Image Editor - Aggiungi strati di testo personalizzati alle immagini",
+    "message": "Text Behind Image Editor - Add Custom Text Layers to Images",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        21
+      ]
+    ]
+  },
+  "HRtKyn": {
+    "translation": "Galleria Testo dietro l'immagine",
+    "message": "Text Behind Image Gallery",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/gallery.tsx",
+        43
+      ]
+    ]
+  },
+  "m+6tQT": {
+    "translation": "Testo dietro l'immagine è uno strumento che ti consente di aggiungere livelli di testo personalizzabili dietro le tue immagini. Puoi regolare il carattere, la dimensione, il colore, la posizione e la rotazione del testo per creare composizioni perfette mantenendo la qualità originale dell'immagine.",
+    "message": "Text Behind Image is a tool that allows you to add customizable text layers behind your images. You can adjust the text's font, size, color, position, and rotation to create perfect compositions while maintaining the original image quality.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        9
+      ]
+    ]
+  },
+  "DVLi/m": {
+    "translation": "Gli obiettivi principali includono colpire la palla il più lontano possibile, segnare atterrando la palla nelle buche con bandiere e utilizzare strategicamente i potenziamenti per migliorare le prestazioni.",
+    "message": "The main objectives include hitting the ball as far as you can, scoring by landing the ball in holes with flags, and strategically using power-ups to enhance your performance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        127
+      ]
+    ]
+  },
+  "YHuztc": {
+    "translation": "La proprietà delle immagini generate dal testo sul Sito appartiene alla persona che ha creato l'immagine. #0# non rivendica alcuna proprietà sulle immagini create dagli utenti.",
+    "message": "The ownership of images generated from text on the Website belongs to the person who created the image. #0# claims no ownership over images created by users.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        21
+      ]
+    ]
+  },
+  "GYzcuY": {
+    "translation": "Questi Termini saranno regolati e interpretati in conformità con le leggi degli Stati Uniti d'America, senza tener conto delle sue disposizioni sui conflitti di legge.",
+    "message": "These Terms shall be governed and construed in accordance with the laws of the United States of America, without regard to its conflict of law provisions.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        25
+      ]
+    ]
+  },
+  "Xwg1Sn": {
+    "translation": "Questa pagina serve per informare i visitatori sulle mie politiche relative alla raccolta, all'uso e alla divulgazione di informazioni personali se qualcuno decide di utilizzare il mio Servizio. Se scegli di utilizzare il mio Servizio, accetti la raccolta e l'uso delle informazioni in relazione a questa politica. Le informazioni personali che raccolgo vengono utilizzate per fornire e migliorare il Servizio. Non utilizzerò né condividerò le tue informazioni con nessuno, eccetto come descritto in questa Informativa sulla privacy. I termini utilizzati in questa Informativa sulla privacy hanno gli stessi significati come nei nostri Termini e Condizioni.",
+    "message": "This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        17
+      ]
+    ]
+  },
+  "S1ia36": {
+    "translation": "Questo Servizio può contenere collegamenti ad altri siti. Se fai clic su un collegamento di terze parti, verrai indirizzato a quel sito. Tieni presente che questi siti esterni non sono gestiti da me. Pertanto, ti consiglio vivamente di rivedere l'Informativa sulla privacy di questi siti web. Non ho alcun controllo né mi assumo alcuna responsabilità per i contenuti, le politiche sulla privacy o le pratiche di qualsiasi sito o servizio di terze parti.",
+    "message": "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        36
+      ]
+    ]
+  },
+  "4fyLMn": {
+    "translation": "Suggerimenti per giocare a Golf Orbit",
+    "message": "Tips Of Playing Golf Orbit",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        86
+      ]
+    ]
+  },
+  "+yrJEm": {
+    "translation": "Per assistere nell'analizzare come viene utilizzato il nostro Servizio;",
+    "message": "To assist us in analyzing how our Service is used;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        30
+      ]
+    ]
+  },
+  "gN00PD": {
+    "translation": "Per facilitare il nostro Servizio;",
+    "message": "To facilitate our Service;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        27
+      ]
+    ]
+  },
+  "TIkU8p": {
+    "translation": "Per fornire servizi relativi al Servizio;",
+    "message": "To perform Service-related services;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        29
+      ]
+    ]
+  },
+  "eQzifh": {
+    "translation": "Per giocare a Golf Orbit, devi colpire la palla il più lontano possibile navigando attraverso campi collinosi pieni di ostacoli. Comprendere la direzione della palla e utilizzare efficacemente gli aggiornamenti sono fondamentali per ottenere punteggi elevati.",
+    "message": "To play Golf Orbit, you need to hit the ball as far as possible while navigating through hilly fields filled with obstacles. Understanding ball direction and utilizing upgrades effectively are key to achieving high scores.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        123
+      ]
+    ]
+  },
+  "jiYr9i": {
+    "translation": "Per fornire il Servizio per conto nostro;",
+    "message": "To provide the Service on our behalf;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        28
+      ]
+    ]
+  },
+  "kCd+q+": {
+    "translation": "Pagamento Totale",
+    "message": "Total Payment",
+    "comments": [],
+    "origin": [
+      [
+        "components/payment/payment-modal.tsx",
+        90
+      ]
+    ]
+  },
+  "AL4xwO": {
+    "translation": "Trasforma le tue immagini con testo nascosto utilizzando il nostro strumento Testo dietro l'immagine. Perfetto per filigrane, steganografia e design creativo. Provalo gratuitamente oggi!",
+    "message": "Transform your images with hidden text using our Text Behind Image tool. Perfect for watermarking, steganography, and creative design. Try it free today!",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        17
+      ],
+      [
+        "config/site.ts",
+        22
+      ]
+    ]
+  },
+  "rnNvFZ": {
+    "translation": "Prova diversi aggiornamenti per vedere quali combinazioni danno i migliori risultati per il tuo stile di gioco.",
+    "message": "Try different upgrades to see which combinations yield the best results for your play style.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        96
+      ]
+    ]
+  },
+  "Rd1BcW": {
+    "translation": "Prova Gratis",
+    "message": "Try It Free",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/index-uploader.tsx",
+        29
+      ]
+    ]
+  },
+  "MxB2DA": {
+    "translation": "Provalo",
+    "message": "Try it out",
+    "comments": [],
+    "origin": [
+      [
+        "components/payment/paypal.tsx",
+        63
+      ]
+    ]
+  },
+  "NJFXN2": {
+    "translation": "Prova ora l'editor Testo dietro l'immagine",
+    "message": "Try Text Behind Image Editor Now",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        166
+      ]
+    ]
+  },
+  "LT7TYG": {
+    "translation": "Digita il tuo testo e posizionalo dietro l'immagine. Anteprima di come apparirà in tempo reale.",
+    "message": "Type your text and position it behind the image. Preview how it looks in real-time.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/tips.tsx",
+        16
+      ]
+    ]
+  },
+  "9Re0wu": {
+    "translation": "Comprendi l'Obiettivo",
+    "message": "Understand the Objective",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        37
+      ]
+    ]
+  },
+  "sd3m42": {
+    "translation": "Sblocca storie nascoste: Testo dietro l'immagine realizzato senza sforzo",
+    "message": "Unlock Hidden Stories: Text Behind Image Made Effortless",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        21
+      ]
+    ]
+  },
+  "ONWvwQ": {
+    "translation": "Carica",
+    "message": "Upload",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/button.tsx",
+        44
+      ]
+    ]
+  },
+  "+/4Lnu": {
+    "translation": "Caricamento riuscito",
+    "message": "Upload successfully",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/painting-uploader.tsx",
+        49
+      ]
+    ]
+  },
+  "IYbuuf": {
+    "translation": "Carica la tua immagine",
+    "message": "Upload Your Image",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/tips.tsx",
+        10
+      ]
+    ]
+  },
+  "h3BBNG": {
+    "translation": "Carica la tua foto",
+    "message": "Upload your photo",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        26
+      ]
+    ]
+  },
+  "/eguJc": {
+    "translation": "Caricamento in corso",
+    "message": "Uploading",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/picture.tsx",
+        59
+      ]
+    ]
+  },
+  "GxkJXS": {
+    "translation": "Caricamento in corso...",
+    "message": "Uploading...",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/painting-uploader.tsx",
+        88
+      ]
+    ]
+  },
+  "FfVwIt": {
+    "translation": "Utilizza un semplice meccanismo di click-and-hold per impostare la potenza del tuo colpo. Premi e tieni premuto il tasto sinistro del mouse per regolare la forza, quindi rilascia per lanciare la palla.",
+    "message": "Use a simple click-and-hold mechanism to set your shot's power. Tap and hold the left mouse button to adjust the strength, then release to launch the ball.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        44
+      ]
+    ]
+  },
+  "pIBdY3": {
+    "translation": "Casi d'uso",
+    "message": "Use Cases",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/use-cases.tsx",
+        35
+      ]
+    ]
+  },
+  "HQiM02": {
+    "translation": "Utilizza i tuoi punti accumulati per potenziare la forza, la velocità e il rimbalzo del tuo colpo. Sperimenta diverse combinazioni per ottenere prestazioni ottimali.",
+    "message": "Use your accumulated points to boost your shot's strength, speed, and bounce. Experiment with different combinations for optimal performance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        68
+      ]
+    ]
+  },
+  "9DvIxX": {
+    "translation": "Utilizza gli aggiornamenti in modo strategico",
+    "message": "Utilize Upgrades Strategically",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        67
+      ]
+    ]
+  },
+  "5I58IA": {
+    "translation": "Visita il Clubhouse di Golf Orbit",
+    "message": "Visit the Golf Orbit Clubhouse",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        73
+      ]
+    ]
+  },
+  "DFOg6P": {
+    "translation": "Raccogliamo dati personali (nome, email e informazioni di pagamento) e dati non personali (cookie web) per migliorare i nostri servizi. L'uso di questi dati è disciplinato dalla nostra Informativa sulla privacy, che può essere consultata all'indirizzo",
+    "message": "We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        23
+      ]
+    ]
+  },
+  "X+XmuC": {
+    "translation": "Benvenuto in #0#! Il nostro sito web, situato all'indirizzo #1# (Sito web), è dedicato a offrirti la possibilità di creare immagini personalizzate. Accedendo o utilizzando il nostro Sito web, accetti di essere vincolato da questi Termini di servizio (Termini). Se non sei d'accordo con una qualsiasi parte dei termini, ti è vietato utilizzare il Sito web.",
+    "message": "Welcome to #0#! Our website, located at #1# (Website), is dedicated to providing you with the ability to create custom images. By accessing or using our Website, you agree to be bound by these Terms of Service (Terms). If you do not agree with any part of the terms, then you are prohibited from using the Website.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        17
+      ]
+    ]
+  },
+  "2aQVIc": {
+    "translation": "Quali sono gli obiettivi principali in Golf Orbit?",
+    "message": "What are the main objectives in Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        126
+      ]
+    ]
+  },
+  "1yxwCu": {
+    "translation": "Quali formati di immagine sono supportati?",
+    "message": "What image formats are supported?",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        16
+      ]
+    ]
+  },
+  "JVkaLa": {
+    "translation": "Cos'è Golf Orbit?",
+    "message": "What is Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        118
+      ]
+    ]
+  },
+  "Vg3mBm": {
+    "translation": "Cos'è la tecnologia Testo dietro l'immagine?",
+    "message": "What is Text Behind Image technology?",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        8
+      ]
+    ]
+  },
+  "F2IrpI": {
+    "translation": "Quali tipi di immagini posso modificare?",
+    "message": "What types of images can I edit?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        60
+      ]
+    ]
+  },
+  "/0yMu9": {
+    "translation": "Sì, Golf Orbit presenta situazioni e ostacoli imprevedibili che richiedono tecnica e perseveranza. I giocatori devono adattare le loro strategie per superare queste sfide.",
+    "message": "Yes, Golf Orbit presents unpredictable situations and obstacles that require technique and perseverance. Players must adapt their strategies to overcome these challenges.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        135
+      ]
+    ]
+  },
+  "6pDOvU": {
+    "translation": "Sì, puoi sempre rieditare i tuoi livelli di testo caricando il file di progetto originale. Ciò ti consente di apportare modifiche alle proprietà del testo ogni volta che ne hai bisogno.",
+    "message": "Yes, you can always re-edit your text layers by uploading the original project file. This allows you to make adjustments to text properties whenever needed.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        21
+      ]
+    ]
+  },
+  "thDUPI": {
+    "translation": "Sì, hai il pieno controllo sulle proprietà del testo, inclusi carattere, dimensione, colore, posizione e rotazione. Tutti i cambiamenti possono essere effettuati in tempo reale con anteprima istantanea.",
+    "message": "Yes, you have full control over text properties including font, size, color, position, and rotation. All changes can be made in real-time with instant preview.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        65
+      ]
+    ]
+  },
+  "oTbbJ/": {
+    "translation": "Ti viene concessa una licenza limitata, non esclusiva e non trasferibile per utilizzare il Sito web e i suoi servizi per scopi personali e non commerciali. Questa licenza non include alcun diritto di copia, modifica o distribuzione dei contenuti del Sito web o di utilizzo a fini commerciali senza il nostro previo consenso scritto.",
+    "message": "You are granted a limited, non-exclusive, non-transferable license to use the Website and its services for personal, non-commercial purposes. This license does not include any rights to copy, modify, or distribute the Website's content or use it for commercial purposes without our prior written consent.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        19
+      ]
+    ]
+  },
+  "FnwiCc": {
+    "translation": "Puoi esportare il tuo lavoro finito in vari formati. L'editor salva automaticamente i tuoi progressi, consentendoti di tornare al tuo progetto in un secondo momento.",
+    "message": "You can export your finished work in various formats. The editor also automatically saves your progress, allowing you to return to your project later.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/editor/page.tsx",
+        69
+      ]
+    ]
+  },
+  "t/I9i5": {
+    "translation": "Puoi migliorare il tuo punteggio praticando costantemente, imparando da ogni colpo e utilizzando i punteggi accumulati per acquistare power-up che migliorano i tuoi lanci.",
+    "message": "You can improve your score by practicing consistently, learning from each shot, and using accumulated scores to purchase power-ups that enhance your throws.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        131
+      ]
+    ]
+  },
+  "yiQqaR": {
+    "translation": "Hai il pieno controllo sui tuoi livelli di testo. Puoi cambiare la famiglia di caratteri, la dimensione, il colore, la posizione, l'angolo di rotazione e l'allineamento. Tutti i cambiamenti vengono effettuati in tempo reale con anteprima istantanea.",
+    "message": "You have complete control over your text layers. You can change the font family, size, color, position, rotation angle, and alignment. All changes are made in real-time with instant preview.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        13
+      ]
+    ]
+  },
+  "2mR+O1": {
+    "translation": "Il tuo obiettivo principale in Golf Orbit è colpire la palla da golf il più lontano possibile navigando attraverso vari ostacoli come rocce e bunker di sabbia.",
+    "message": "Your main goal in Golf Orbit is to hit the golf ball as far as possible while navigating through various obstacles like rocks and sand pits.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        38
+      ]
+    ]
+  },
+  "lX4VC4": {
+    "translation": "Elenco dei blog",
+    "message": "博客列表",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/layout..tsx",
+        7
+      ]
+    ]
+  }
+}

@@ -1,0 +1,2861 @@
+{
+  "/HNf1t": {
+    "translation": "এআইতে ফটোগুলি প্রসারণের জাদু আবিষ্কার করুন",
+    "message": "\"Discover the Magic of Expanding Your Photos with AI\"",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/blogs-page-client.tsx",
+        37
+      ]
+    ]
+  },
+  "J/hVSQ": {
+    "translation": "{0}",
+    "message": "{0}",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        34
+      ],
+      [
+        "components/wegic/pricing.tsx",
+        35
+      ],
+      [
+        "components/wegic/pricing.tsx",
+        36
+      ]
+    ]
+  },
+  "32fNxX": {
+    "translation": "#0# সংরক্ষণ করে যে, তাদের একক বিবেচনাক্রমে, এই শর্তাবলী যেকোনো সময় সংশোধন বা প্রতিস্থাপন করার অধিকার রয়েছে। আমরা ব্যবহারকারীদের ই-মেইলের মাধ্যমে যেকোনো পরিবর্তনের সম্পর্কে জানিয়ে দেব। এই শর্তাবলীতে যেকোনো পরিবর্তনের পর আপনার ওয়েবসাইটটি ব্যবহার চালিয়ে যাওয়া আপনার সমর্থনের প্রতীক হবে।",
+    "message": "#0# reserves the right, at our sole discretion, to modify or replace these Terms at any time. We will notify users of any changes by email. Your continued use of the Website after any change in these Terms will constitute your acceptance of such changes.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        25
+      ]
+    ]
+  },
+  "GkCoYT": {
+    "translation": "পুনঃ ব্লগ তালিকা দেখুন",
+    "message": "<< Return Blogs List",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/[slug]/page.tsx",
+        47
+      ]
+    ]
+  },
+  "heWVMD": {
+    "translation": "1 ক্রেডিট/ব্যবহার, {0} বাকি আছে",
+    "message": "1 Credit/use, {0} left",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        827
+      ]
+    ]
+  },
+  "qVv47w": {
+    "translation": "1. তথ্য সংগ্রহ এবং ব্যবহার",
+    "message": "1. Information Collection and Use",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        16
+      ]
+    ]
+  },
+  "dnEZiE": {
+    "translation": "1. ব্যবহারের অনুমতি",
+    "message": "1. Use License",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        16
+      ]
+    ]
+  },
+  "RUEwir": {
+    "translation": "2. লগ ডাটা",
+    "message": "2. Log Data",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        18
+      ]
+    ]
+  },
+  "AV4xaK": {
+    "translation": "2. মালিকানা",
+    "message": "2. Ownership",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        18
+      ]
+    ]
+  },
+  "hczIS1": {
+    "translation": "3. কুকি",
+    "message": "3. Cookies",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        20
+      ]
+    ]
+  },
+  "69EiaO": {
+    "translation": "3. ব্যবহারকারী ডাটা সংগ্রহ",
+    "message": "3. User Data Collection",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        20
+      ]
+    ]
+  },
+  "pik+Gj": {
+    "translation": "4. প্রয়োজনীয় আইন",
+    "message": "4. Governing Law",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        22
+      ]
+    ]
+  },
+  "gSmscK": {
+    "translation": "4. সার্ভিস প্রদানকারী",
+    "message": "4. Service Providers",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        22
+      ]
+    ]
+  },
+  "HT0gtE": {
+    "translation": "5. শর্তাবলীতে পরিবর্তন",
+    "message": "5. Changes to Terms",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        24
+      ]
+    ]
+  },
+  "0jvfq0": {
+    "translation": "5. নিরাপত্তা",
+    "message": "5. Security",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        31
+      ]
+    ]
+  },
+  "UA5K4X": {
+    "translation": "6. যোগাযোগের তথ্য",
+    "message": "6. Contact Information",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        26
+      ]
+    ]
+  },
+  "c72RA6": {
+    "translation": "6. অন্যান্য সাইটগুলির লিঙ্ক",
+    "message": "6. Links to Other Sites",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        33
+      ]
+    ]
+  },
+  "FhdZtA": {
+    "translation": "7. এই গোপনীয়তা নীতিতে পরিবর্তন",
+    "message": "7. Changes to This Privacy Policy",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        35
+      ]
+    ]
+  },
+  "Ukjyf+": {
+    "translation": "অবশ্যই! এআই ফটো এক্সটেন্ডার বিশেষভাবে প্রসারণ প্রক্রিয়া জুড়ে মূল ছবির স্টাইল সংরক্ষণ করার জন্য ডিজাইন করা হয়েছে। আমাদের এআই ফটো এক্সটেন্ডারের অ্যালগরিদমগুলি অনন্য ছবির বৈশিষ্ট্যগুলি বোঝার এবং পুনরুত্পাদন করার জন্য প্রশিক্ষিত, যা মূল এবং প্রসারিত সামগ্রীর মধ্যে দৃশ্যমান সামঞ্জস্য নিশ্চিত করে।",
+    "message": "Absolutely! AI Photo Extender is specifically designed to preserve the original image style throughout the expansion process. Our AI photo extender's algorithms are trained to understand and replicate unique image characteristics, ensuring visual consistency between the original and expanded content.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        34
+      ]
+    ]
+  },
+  "8O/T2d": {
+    "translation": "অবশ্যই! গোল্ফ ওর্বিট সাধারণ লক্ষ্য এবং সহজ বোধগম্য নিয়মের সাথে তৈরি করা হয়েছে, যা সকল কৌশলের খেলোয়াড়দের জন্য সহজলভ্য করে তুলেছে।",
+    "message": "Absolutely! Golf Orbit is designed with simple goals and easy-to-understand rules, making it accessible for players of all skill levels.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        139
+      ]
+    ]
+  },
+  "Gc4eSt": {
+    "translation": "অবশ্যই! ছবির বিষয়বস্তু প্রসারিত করার পাশাপাশি, এআই ইমেজ এক্সটেন্ডার আপলোড করা ছবিগুলির পিক্সেল মাত্রা বাড়ানোর বিকল্পও প্রদান করে। এটি ব্যবহারকারীদের তাদের ছবিগুলির সামগ্রিক রেজোলিউশন এবং মান উন্নত করতে দেয়।",
+    "message": "Absolutely! In addition to expanding the content of the image, AI Image Extender also provides the option to increase the pixel dimensions of the uploaded images. This allows users to enhance the overall resolution and quality of their images.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        48
+      ]
+    ]
+  },
+  "zLNTkq": {
+    "translation": "অবশ্যই! আমাদের জেনারেটিভ ফিল এআই বিশেষভাবে প্রসারণ প্রক্রিয়া জুড়ে মূল ছবির স্টাইল সংরক্ষণ করার জন্য ডিজাইন করা হয়েছে। এই জেনারেটিভ ফিল এআই প্রযুক্তিকে চালিত করা অ্যালগরিদমগুলি অনন্য ছবির বৈশিষ্ট্যগুলি বোঝার এবং পুনরুত্পাদন করার জন্য প্রশিক্ষিত, যা মূল এবং প্রসারিত সামগ্রীর মধ্যে দৃশ্যমান সামঞ্জস্য নিশ্চিত করে।",
+    "message": "Absolutely! Our generative fill AI is specifically designed to preserve the original image style throughout the expansion process. The algorithms powering this generative fill AI technology are trained to understand and replicate unique image characteristics, ensuring visual consistency between the original and expanded content.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        34
+      ]
+    ]
+  },
+  "A+Al01": {
+    "translation": "ইমেজ এক্সটেন্ডারের পরে",
+    "message": "After Image Extender",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/hero.tsx",
+        88
+      ]
+    ]
+  },
+  "uFZsqH": {
+    "translation": "লগইন করার পরে, আপনি এইআই দিয়ে ছবিটি প্রসারিত করার উপায় পাচ্ছেন",
+    "message": "After logging in, you can have three two trials expand your image with AI",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/index-uploader.tsx",
+        33
+      ]
+    ]
+  },
+  "JFnLY9": {
+    "translation": "আউটপেইন্টিং পরে",
+    "message": "After Outpainting",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        219
+      ]
+    ]
+  },
+  "6EmTc/": {
+    "translation": "ফটো এক্সটেন্ডারের পরে",
+    "message": "After Photo Extender",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/hero.tsx",
+        88
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/hero.tsx",
+        88
+      ]
+    ]
+  },
+  "HOlava": {
+    "translation": "এআই ইমেজ এক্সটেন্ডার ব্যবহারকারীদের একই সাথে চারটি ছবি প্রসারিত করার সুবিধা দেয়। এই বহু-ছবি প্রসারণ বৈশিষ্ট্য ব্যবহারকারীদের একসাথে একাধিক ছবি সহজভাবে সুধুই সময়কার্যক্ষম ভাবে উন্নত করতে সাহায্য করে।",
+    "message": "AI Image Extender allows users to simultaneously expand up to four images. This multi-image expansion feature enables users to conveniently enhance multiple images in a time-efficient manner.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        56
+      ]
+    ]
+  },
+  "WN+5uZ": {
+    "translation": "এআই ইমেজ এক্সটেন্ডার অ্যাডভান্সড এআই অ্যালগরিদম ব্যবহার করে আপলোড করা ছবিগুলি বিশ্লেষণ করতে এবং বিদ্যমান ছবির ডেটার উপর ভিত্তি করে অতিরিক্ত বিষয়বস্তু উৎপন্ন করতে। গভীর শিক্ষা মডেল ব্যবহার করে, এআই প্রযুক্তি মূল স্টাইলের সাথে সুস্থিরভাবে ছবির বিষয়বস্তুকে প্রসারিত করতে সক্ষম।",
+    "message": "AI Image Extender employs cutting-edge AI algorithms to analyze the uploaded images and generate additional content based on the existing image data. By utilizing a deep learning model, the AI technology is able to seamlessly expand the image content in a way that remains consistent with the original style.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        34
+      ]
+    ]
+  },
+  "C/klTT": {
+    "translation": "এআই ইমেজ এক্সটেন্ডার গ্যালারি",
+    "message": "AI Image Extender Gallery",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/gallery.tsx",
+        40
+      ]
+    ]
+  },
+  "7KKVnB": {
+    "translation": "এআই ইমেজ এক্সটেন্ডার হল একটি ওয়েবসাইট যা ব্যবহারকারীদ্বারা আপলোড করা ছবিগুলির প্রসারণ এবং উন্নত করার জন্য উন্নত এআই প্রযুক্তি ব্যবহার করে। এটি ছবির বিষয়বস্তুকে চারটি দিকে (উপর, নীচে, বাম এবং ডান) প্রসারিত করতে পারে, যাতে ছবির মূল স্টাইল বজায় থাকে। এটি ছবিদের পিক্সেল মাত্রা বৃদ্ধি করার সক্ষমতা রয়েছে এবং একই সময়ে চারটি ছবি প্রসারিত করতে পারে।",
+    "message": "AI Image Extender is a website that utilizes advanced AI technology to expand and enhance images uploaded by users. It can extend the content of images in four directions (up, down, left, and right), while maintaining the original style of the image. It also has the capability to increase the pixel dimensions of the images and simultaneously expand up to four images.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        28
+      ]
+    ]
+  },
+  "/vcx2e": {
+    "translation": "এআই ইমেজ এক্সটেন্ডার: সৃজনশীল ছবি প্রসারে আপনার প্রবাহ বৃদ্ধি করুন",
+    "message": "AI Image Extender: Expand Your Horizons with Creative Image Extensions",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/hero.tsx",
+        35
+      ]
+    ]
+  },
+  "jaB///": {
+    "translation": "এআই আউটপেইন্টিং গ্যালারি",
+    "message": "AI Outpainting Gallery",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/gallery.tsx",
+        40
+      ]
+    ]
+  },
+  "ZyBhxg": {
+    "translation": "এআই আউটপেইন্টিং ইমেজ",
+    "message": "AI Outpainting Image",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        166
+      ]
+    ]
+  },
+  "+dagcs": {
+    "translation": "এআই আউটপেইন্টিং ইমেজ ব্লগ পোস্ট",
+    "message": "AI Outpainting Image Blogs Post",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/blogs-page-client.tsx",
+        34
+      ]
+    ]
+  },
+  "xxs+vI": {
+    "translation": "AI Outpainting Playground",
+    "message": "AI Outpainting Playground",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/page.tsx",
+        15
+      ]
+    ]
+  },
+  "n8ms0F": {
+    "translation": "এআই আউটপেন্টিং ফলাফল",
+    "message": "AI Outpainting Result",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/page.tsx",
+        19
+      ]
+    ]
+  },
+  "NFpS5a": {
+    "translation": "AI Photo Extender Gallery",
+    "message": "AI Photo Extender Gallery",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/gallery.tsx",
+        40
+      ]
+    ]
+  },
+  "CHNN5v": {
+    "translation": "AI Photo Extender é uma ferramenta online inovadora que usa tecnologia de inteligência artificial avançada para expandir e aprimorar imagens. Este estendedor de imagem de inteligência artificial pode estender o conteúdo da imagem em todas as direções de maneira contínua, mantendo o estilo original. Além disso, nosso estendedor de imagem de inteligência artificial pode aumentar a resolução da imagem e processar até quatro imagens simultaneamente.",
+    "message": "AI Photo Extender is an innovative online tool that uses advanced AI technology to expand and enhance user-uploaded images. This AI photo extender can seamlessly extend image content in all four directions while maintaining the original style. Additionally, our AI photo extender can increase image resolution and process up to four images simultaneously.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        26
+      ]
+    ]
+  },
+  "bK/TAt": {
+    "translation": "O AI Photo Extender é capaz de processar até quatro imagens simultaneamente. Essa funcionalidade de múltiplas imagens do nosso estendedor de imagem de inteligência artificial permite que os usuários aprimorem efetivamente várias imagens em uma única sessão, economizando tempo e esforço.",
+    "message": "AI Photo Extender is capable of processing up to four images simultaneously. This multi-image feature of our AI photo extender enables users to efficiently enhance multiple images in a single session, saving time and effort.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        42
+      ]
+    ]
+  },
+  "MeL6D4": {
+    "translation": "O AI Photo Extender utiliza algoritmos de inteligência artificial de ponta para analisar as imagens carregadas e gerar conteúdo adicional. O modelo de aprendizado profundo do nosso estendedor de imagem de inteligência artificial garante que as áreas expandidas se integrem perfeitamente à imagem original, mantendo a coerência no estilo e na qualidade.",
+    "message": "AI Photo Extender utilizes state-of-the-art AI algorithms to analyze uploaded images and generate additional content. Our AI photo extender's deep learning model ensures that the expanded areas blend seamlessly with the original image, maintaining consistency in style and quality.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        30
+      ]
+    ]
+  },
+  "bJOlPb": {
+    "translation": "AI Photo Extender: Expanda seus horizontes com extensões criativas de imagens",
+    "message": "AI Photo Extender: Expand Your Horizons with Creative Image Extensions",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/hero.tsx",
+        35
+      ]
+    ]
+  },
+  "ucCUQ3": {
+    "translation": "সবুজ এলাকায় লক্ষ্য করুন",
+    "message": "Aim for the Green Area",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        49
+      ]
+    ]
+  },
+  "lxentK": {
+    "translation": "একটি অপ্রত্যাশিত ত্রুটি ঘটেছে",
+    "message": "An unexpected error occurred",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        468
+      ]
+    ]
+  },
+  "HKMi54": {
+    "translation": "গোল্ফ ওর্বিটের কোনো চ্যালেঞ্জ আছে কি?",
+    "message": "Are there any challenges in Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        134
+      ]
+    ]
+  },
+  "4WPYPJ": {
+    "translation": "Tem certeza de que deseja limpar o canvas atual? Isso excluirá todas as imagens geradas e o estado de edição atual.",
+    "message": "Are you sure you want to clear the current canvas? This will delete all generated images and the current editing state.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        895
+      ]
+    ]
+  },
+  "iH8pgl": {
+    "translation": "Voltar",
+    "message": "Back",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        605
+      ]
+    ]
+  },
+  "8Cg4ES": {
+    "translation": "Antes do Estendedor de Imagem",
+    "message": "Before Image Extender",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/hero.tsx",
+        75
+      ]
+    ]
+  },
+  "IBtiOe": {
+    "translation": "আউটপেইন্টিং হওয়ার আগে",
+    "message": "Before Outpainting",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        181
+      ]
+    ]
+  },
+  "FU+lge": {
+    "translation": "Antes do Estendedor de Foto",
+    "message": "Before Photo Extender",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/hero.tsx",
+        75
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/hero.tsx",
+        75
+      ]
+    ]
+  },
+  "ExFMj8": {
+    "translation": "ব্লগ",
+    "message": "Blogs",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/page.tsx",
+        16
+      ],
+      [
+        "components/wegic/blogs.tsx",
+        20
+      ],
+      [
+        "components/wegic/footer.tsx",
+        14
+      ]
+    ]
+  },
+  "zsiX7I": {
+    "translation": "Inferior",
+    "message": "Bottom",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        586
+      ]
+    ]
+  },
+  "xzHB2Z": {
+    "translation": "Navegue por exemplos impressionantes do estendedor de imagem de IA, mostrando as infinitas possibilidades de estender obras de arte.",
+    "message": "Browse\nthrough stunning examples of AI image extender, showcasing the limitless possibilities of extending\nartworks.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/gallery.tsx",
+        45
+      ]
+    ]
+  },
+  "QgF6mS": {
+    "translation": "মুক্তিমা, ক্রিয়েটিভ প্রকল্পগুলি রূপান্তর এবং উন্নত করতে এআইর ক্ষমতা প্রদর্শন করেন।",
+    "message": "Browse\nthrough stunning examples of AI outpainting, showcasing the limitless possibilities of extending\nartworks.",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/gallery.tsx",
+        45
+      ]
+    ]
+  },
+  "A056gq": {
+    "translation": "Navegue por exemplos impressionantes do estendedor de foto de IA, mostrando as infinitas possibilidades de estender obras de arte.",
+    "message": "Browse\nthrough stunning examples of AI photo extender, showcasing the limitless possibilities of extending\nartworks.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/gallery.tsx",
+        45
+      ]
+    ]
+  },
+  "eBimti": {
+    "translation": "Navegue por exemplos impressionantes do preenchimento gerativo de IA, mostrando as infinitas possibilidades de estender obras de arte.",
+    "message": "Browse\nthrough stunning examples of generative fill ai, showcasing the limitless possibilities of extending\nartworks.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/gallery.tsx",
+        45
+      ]
+    ]
+  },
+  "yZ2PlW": {
+    "translation": "#0# ব্যবহার করার মাধ্যমে আপনি এই সেবা শর্তাবলীর প্রতি আপনার সম্মতি প্রকাশ করছেন।",
+    "message": "By using #0#, you signify your acceptance of these Terms of Service.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        28
+      ]
+    ]
+  },
+  "EWY1qg": {
+    "translation": "O AI Image Extender pode aumentar as dimensões de pixels de uma imagem?",
+    "message": "Can AI Image Extender increase the pixel dimensions of an image?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        46
+      ]
+    ]
+  },
+  "WWl4gu": {
+    "translation": "O AI Image Extender pode manter o estilo da imagem original enquanto a expande?",
+    "message": "Can AI Image Extender maintain the style of the original image while expanding it?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        39
+      ]
+    ]
+  },
+  "6+I5pv": {
+    "translation": "O AI Photo Extender pode manter o estilo da imagem original?",
+    "message": "Can AI Photo Extender maintain the original image style?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        33
+      ]
+    ]
+  },
+  "2VuDjI": {
+    "translation": "কেউ কি গোল্ফ ওর্বিট খেলতে পারেন?",
+    "message": "Can anyone play Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        138
+      ]
+    ]
+  },
+  "o7jL3/": {
+    "translation": "O preenchimento gerativo de IA pode manter o estilo da imagem original?",
+    "message": "Can Generative Fill AI maintain the original image style?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        33
+      ]
+    ]
+  },
+  "dEgA5A": {
+    "translation": "Cancelar",
+    "message": "Cancel",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        899
+      ]
+    ]
+  },
+  "z65MvS": {
+    "translation": "Limpar o Canvas",
+    "message": "Clear Canvas",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        796
+      ]
+    ]
+  },
+  "yz7wBu": {
+    "translation": "বন্ধ",
+    "message": "Close",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        926
+      ],
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        56
+      ]
+    ]
+  },
+  "QECVrh": {
+    "translation": "সিক্কে এবং পুরস্কার সংগ্রহ করুন",
+    "message": "Collect Coins and Rewards",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        61
+      ]
+    ]
+  },
+  "QTBZC3": {
+    "translation": "Confirmar Limpar",
+    "message": "Confirm Clear",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        902
+      ]
+    ]
+  },
+  "1KApxq": {
+    "translation": "Confirmar Limpar o Canvas",
+    "message": "Confirm Clear Canvas",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        893
+      ]
+    ]
+  },
+  "BWF0ai": {
+    "translation": "প্রসঙ্গ-সচেতন এআই",
+    "message": "Context-aware AI",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/features.tsx",
+        23
+      ],
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/features.tsx",
+        23
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/features.tsx",
+        23
+      ]
+    ]
+  },
+  "qTrELo": {
+    "translation": "Continuar Gerando",
+    "message": "Continue Generating",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        822
+      ]
+    ]
+  },
+  "ZFKnW0": {
+    "translation": "বল নিয়ন্ত্রণ করুন",
+    "message": "Control the Ball",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        43
+      ]
+    ]
+  },
+  "akF51D": {
+    "translation": "কুকি হল ছোট পরিমাণের ডাটা যা সাধারণত অজ্ঞাত একক চিহ্নিত করার জন্য ব্যবহৃত হয়। এগুলি আপনার ব্রাউজারে পাঠানো হয় এবং আপনার ডিভাইসের আভ্যন্তরীণ মেমোরিতে সংরক্ষিত হয়। এই পরিষেবাটি এই কুকিগুলি স্পষ্টভাবে ব্যবহার করে না। তবে, অ্যাপটি তৃতীয় পক্ষের কোড এবং লাইব্রেরি ব্যবহার করতে পারে যা তথ্য সংগ্রহ এবং তাদের পরিষেবাগুলি উন্নত করার জন্য কুকি ব্যবহার করে। আপনার পছন্দ অনুযায়ী এই কুকিগুলি গ্রহণ বা প্রত্যাখ্যান করার এবং যখন কোনো কুকি আপনার ডিভাইসে পাঠানো হচ্ছে তা জানার বিকল্প আছে। যদি আপনি আমাদের কুকিগুলি প্রত্যাখ্যান করেন, তাহলে এই পরিষেবার কিছু অংশ ব্যবহার করতে পারবেন না।",
+    "message": "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these cookies explicitly. However, the app may use third party code and libraries that use cookies to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        21
+      ]
+    ]
+  },
+  "TXxF+/": {
+    "translation": "ক্রেডিট",
+    "message": "credit",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        93
+      ]
+    ]
+  },
+  "mehNeY": {
+    "translation": "ক্রেডিট:{0}",
+    "message": "Credit:{0}",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        660
+      ],
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        677
+      ],
+      [
+        "components/wegic/navbar.tsx",
+        174
+      ],
+      [
+        "components/wegic/navbar.tsx",
+        190
+      ]
+    ]
+  },
+  "38nphA": {
+    "translation": "O AI Photo Extender aumenta a resolução da imagem?",
+    "message": "Does AI Photo Extender increase image resolution?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        37
+      ]
+    ]
+  },
+  "8gRz33": {
+    "translation": "O preenchimento gerativo de IA aumenta a resolução da imagem?",
+    "message": "Does Generative Fill AI increase image resolution?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        37
+      ]
+    ]
+  },
+  "mzI/c+": {
+    "translation": "ডাউনলোড করুন",
+    "message": "Download",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        836
+      ]
+    ]
+  },
+  "0yQo/k": {
+    "translation": "চিত্র ডাউনলোড করুন",
+    "message": "Download Image",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        264
+      ]
+    ]
+  },
+  "DNhRz0": {
+    "translation": "আপনার প্রাণপণ চলাকালে মুনাফা অর্জন করতে সিক্কে সংগ্রহ করুন। যত দূর সফর করেন তত বেশি পয়েন্ট অর্জন করবেন, যা আপনার প্রক্রিয়া উন্নত করতে ব্যবহার করা যেতে পারে।",
+    "message": "During your flight, collect coins to unlock upgrades. The longer the distance you achieve, the more points you earn, which can be used to enhance your gameplay.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        62
+      ]
+    ]
+  },
+  "fBjOS6": {
+    "translation": "আমাদের গ্যালারিতে প্রতিটি কার্য এআইতে কী শক্তির আলোকপ্রচার করে এবং সৃষ্টিশীল প্রকল্পগুলি প্রতিষ্ঠিত করার ক্ষমতা প্রদর্শন করে।",
+    "message": "Each\npiece in our gallery demonstrates the power of AI in transforming and enhancing creative projects.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/gallery.tsx",
+        50
+      ],
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/gallery.tsx",
+        50
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/gallery.tsx",
+        50
+      ],
+      [
+        "components/wegic/gallery.tsx",
+        50
+      ]
+    ]
+  },
+  "wRoPp9": {
+    "translation": "প্রতিটি শটে আপনার দূরত্ব নথিভুক্ত হবে। আপনার দক্ষতা উন্নত করতে এবং প্রতিটি শট-এ অধিক দূরত্ব অর্জন করতে আপনার অগ্রগতি খেয়াল করুন।",
+    "message": "Each shot will record the distance traveled. Keep track of your progress to improve your skills and aim for longer distances with each swing.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        56
+      ]
+    ]
+  },
+  "RuqoXe": {
+    "translation": "একক শট বাটল গ্রহণ করুন",
+    "message": "Engage in One-Shot Battles",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        105
+      ]
+    ]
+  },
+  "rtNKwJ": {
+    "translation": "আনন্দ নিন আলাদা চরিত্র এবং বল কাস্টমাইজেশন বিকল্পগুলি দিয়ে। বিভিন্ন চরিত্র হিসাবে খেলা আপনার গেমপ্লেতে একটি আনন্দদায়ক নতুনত্ব যোগ করতে পারে।",
+    "message": "Enjoy the unique character and ball customization options. Playing as different characters can add a fun twist to your gameplay.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        111
+      ]
+    ]
+  },
+  "qBX4sV": {
+    "translation": "মোত্যায় ছবিটি প্রস্তুত করার সময় ত্রুটি হয়েছে",
+    "message": "Error occurred while processing the image",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        460
+      ]
+    ]
+  },
+  "7xE6LV": {
+    "translation": "ক্লাবহাউসে পয়েন্ট বাদল করে আপনার গোল্ফার, বল রঙ বা আপনি যে বিশ্বে খেলছেন তা পরিবর্তন করুন। বিভিন্ন মজার চরিত্র এবং জীবন্ত অবস্থানের মধ্য থেকে চয়ন করুন।",
+    "message": "Exchange points at the clubhouse to change your golfer, ball color, or even the world you play in. Choose from a variety of fun characters and vibrant locations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        74
+      ]
+    ]
+  },
+  "Q+x/E4": {
+    "translation": "Expansão",
+    "message": "Expanding",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        820
+      ]
+    ]
+  },
+  "jU4owd": {
+    "translation": "Direção da Expansão",
+    "message": "Expansion Direction",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        709
+      ]
+    ]
+  },
+  "kNSTBA": {
+    "translation": "Direção da Expansão:",
+    "message": "Expansion Direction:",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        611
+      ]
+    ]
+  },
+  "dzop7f": {
+    "translation": "আপগ্রেডগুলি পরীক্ষা করুন",
+    "message": "Experiment with Upgrades",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        95
+      ]
+    ]
+  },
+  "nkhTSO": {
+    "translation": "Expanda além do quadro com o estendedor de imagem de IA: Expanda suas fotos online usando inteligência artificial gerativa avançada, garantindo visuais de alta qualidade em todos os formatos de imagem.",
+    "message": "Explore Beyond the Frame with AI Image Extender: Seamlessly expand your photos online using advanced generative AI, ensuring high-quality visuals are maintained across all image ratios.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/hero.tsx",
+        38
+      ]
+    ]
+  },
+  "UTesON": {
+    "translation": "Expanda além do quadro com o estendedor de foto de IA: Expanda suas fotos online usando inteligência artificial gerativa avançada, garantindo visuais de alta qualidade em todos os formatos de imagem.",
+    "message": "Explore Beyond the Frame with AI Photo Extender: Seamlessly expand your photos online using advanced generative AI, ensuring high-quality visuals are maintained across all image ratios.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/hero.tsx",
+        38
+      ]
+    ]
+  },
+  "HO2QAu": {
+    "translation": "Expanda além do quadro com o preenchimento gerativo de IA: Expanda suas fotos online usando inteligência artificial gerativa avançada, garantindo visuais de alta qualidade em todos os formatos de imagem.",
+    "message": "Explore Beyond the Frame with Generative Fill AI: Seamlessly expand your photos online using advanced generative AI, ensuring high-quality visuals are maintained across all image ratios.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/hero.tsx",
+        38
+      ]
+    ]
+  },
+  "JqzZ/3": {
+    "translation": "চলুন ক্যারেক্টার কাস্টমাইজ করি এবং আপনার সরঞ্জাম আপগ্রেড করি সেই অবিস্মরণীয় কর্মিক গল্ফ অভিজ্ঞতার জন্য। Android, iOS এবং ওয়েব ব্রাউজারে উপলব্ধ।",
+    "message": "Explore the whimsical world of Golf Orbit, where traditional golf meets intergalactic adventure. Launch golf balls to incredible heights, customize unique characters, and upgrade your gear for an unforgettable cosmic golfing experience. Available on Android, iOS, and web browsers.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        17
+      ]
+    ]
+  },
+  "ke8MAp": {
+    "translation": "আবার প্রসারণ করুন",
+    "message": "Extend Again",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/features.tsx",
+        32
+      ],
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/features.tsx",
+        32
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/features.tsx",
+        32
+      ]
+    ]
+  },
+  "p5l4iX": {
+    "translation": "প্রসারিত ফলাফল পুনরায় প্রসারিত হতে পারে, যাতে ধারণকে অবিরত উন্নতি যায়",
+    "message": "Extended results can be expanded repeatedly,allowing for continuous enhancements",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/features.tsx",
+        34
+      ],
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/features.tsx",
+        34
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/features.tsx",
+        34
+      ]
+    ]
+  },
+  "lIFSzb": {
+    "translation": "ফাইল আপলোড করা যায়নি: {0}",
+    "message": "Failed to upload file: {0}",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/useS34R2.ts",
+        23
+      ]
+    ]
+  },
+  "cDhYY/": {
+    "translation": "দ্রুত উৎপন্ন",
+    "message": "Fast generation",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        28
+      ]
+    ]
+  },
+  "TVSR9M": {
+    "translation": "ফাইলের আকার 10 এমবি ছাড়িয়ে গেছে। দয়া করে একটি ছোট ফাইল নির্বাচন করুন।",
+    "message": "File size exceeds 10MB. Please select a smaller file.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        193
+      ],
+      [
+        "components/wegic/painting-uploader.tsx",
+        40
+      ]
+    ]
+  },
+  "uXDmWz": {
+    "translation": "সময়ের উপর নজর রাখুন",
+    "message": "Focus on Timing",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        90
+      ]
+    ]
+  },
+  "st6ZC4": {
+    "translation": "এই সেবা ব্যবহার করার সময় আপনাকে বেশ কিছু ব্যক্তিগত শনাক্তযোগ্য তথ্য প্রদান করতে হতে পারে। আমি যে তথ্য চাইব তা আপনার ডিভাইসে সংরক্ষিত থাকবে এবং আমি কোনভাবেই তা সংগ্রহ করব না। এই অ্যাপটি তৃতীয় পক্ষের পরিষেবা ব্যবহার করে যা আপনাকে শনাক্ত করতে ব্যবহৃত তথ্য সংগ্রহ করে।",
+    "message": "For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. The app does use third-party services that may collect information used to identify you.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        17
+      ]
+    ]
+  },
+  "ofu/39": {
+    "translation": "Estendedor de imagem de IA gratuito",
+    "message": "Free AI Image Extender",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/features.tsx",
+        12
+      ]
+    ]
+  },
+  "0BCXgy": {
+    "translation": "Estendedor de foto de IA gratuito",
+    "message": "Free AI Photo Extender",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/features.tsx",
+        12
+      ]
+    ]
+  },
+  "ViaB2F": {
+    "translation": "Preenchimento gerativo de IA gratuito",
+    "message": "Free Generative Fill AI",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/features.tsx",
+        12
+      ]
+    ]
+  },
+  "F7G/TS": {
+    "translation": "সচলভাবে জিজ্ঞাসিত প্রশ্নগুলি",
+    "message": "Frequently Asked Questions",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        67
+      ],
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        53
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        52
+      ],
+      [
+        "components/wegic/faqs.tsx",
+        34
+      ]
+    ]
+  },
+  "oJZ41z": {
+    "translation": "O preenchimento gerativo de IA usa algoritmos de ponta para analisar as imagens carregadas e gerar conteúdo adicional. O modelo de aprendizado profundo por trás do nosso preenchimento gerativo de IA garante que as áreas expandidas se integrem perfeitamente à imagem original, mantendo a coerência no estilo e na qualidade em todo o processo.",
+    "message": "Generative Fill AI employs state-of-the-art algorithms to analyze uploaded images and generate additional content. The deep learning model behind our generative fill AI ensures that the expanded areas blend seamlessly with the original image, maintaining consistency in style and quality throughout the process.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        30
+      ]
+    ]
+  },
+  "+XZy/0": {
+    "translation": "Galeria de Preenchimento Gerativo de IA",
+    "message": "Generative Fill AI Gallery",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/gallery.tsx",
+        40
+      ]
+    ]
+  },
+  "9Q0Mk1": {
+    "translation": "O preenchimento gerativo de IA é uma ferramenta online inovadora que usa inteligência artificial avançada para expandir e aprimorar imagens. Esta tecnologia inovadora de preenchimento gerativo de IA pode estender o conteúdo da imagem em todas as direções de maneira contínua, mantendo o estilo original. A ferramenta de preenchimento gerativo de IA também oferece aumento da resolução da imagem e pode processar até quatro imagens simultaneamente.",
+    "message": "Generative Fill AI is an innovative online tool that leverages advanced artificial intelligence to expand and enhance images. This cutting-edge generative fill AI technology can seamlessly extend image content in all directions while maintaining the original style. Our generative fill AI tool also offers image resolution enhancement and can process multiple images simultaneously.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        26
+      ]
+    ]
+  },
+  "SH0knd": {
+    "translation": "Preenchimento gerativo de IA: Expanda seus horizontes com extensões criativas de imagens",
+    "message": "Generative Fill AI: Expand Your Horizons with Creative Image Extensions",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/hero.tsx",
+        35
+      ]
+    ]
+  },
+  "c3b0B0": {
+    "translation": "শুরু করুন",
+    "message": "Get Started",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/hero.tsx",
+        49
+      ],
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/hero.tsx",
+        49
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/hero.tsx",
+        49
+      ],
+      [
+        "components/wegic/index-uploader.tsx",
+        44
+      ],
+      [
+        "components/wegic/pricing.tsx",
+        140
+      ]
+    ]
+  },
+  "sAH4M6": {
+    "translation": "পেমেন্টে যান",
+    "message": "Go to Payment",
+    "comments": [],
+    "origin": [
+      [
+        "components/payment/stripe.tsx",
+        35
+      ]
+    ]
+  },
+  "xY6h9F": {
+    "translation": "Golf Orbit",
+    "message": "Golf Orbit",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        5
+      ]
+    ]
+  },
+  "fAKcR3": {
+    "translation": "গোল্ফ অর্বিট হল একটি উত্তেজনাপূর্ণ গোল্ফ সিমুলেটর গেম যেখানে ক্ষেতে খেলোয়াড়রা গোল্ফ বল উল্লেখযোগ্য উচ্চতায় ছুড়তে সক্ষম, এমনকি মঙ্গলে পর্যন্ত। এটি একক গোল্ফ যুদ্ধ, চ্যালেঞ্জিং স্তর এবং সঠিক শট মাস্টার করার সুযোগ অন্তর্ভুক্ত করে।",
+    "message": "Golf Orbit is an exciting golf simulator game where players aim to launch golf balls to incredible heights, even reaching Mars. It features one-shot golf battles, challenging levels, and the opportunity to master the perfect shot.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        119
+      ]
+    ]
+  },
+  "F7x/HY": {
+    "translation": "গল্ফ অর্বিট: তারকানিল্য অভিযানে গল্ফ লঞ্চ করুন",
+    "message": "Golf Orbit: Launch Your Golf Adventure Beyond the Stars",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        16
+      ]
+    ]
+  },
+  "0RKAvR": {
+    "translation": "লগ ইন করেছে",
+    "message": "Has logged in",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        128
+      ]
+    ]
+  },
+  "i/folP": {
+    "translation": "কাস্টমাইজেশনের সাথে আনন্দ করুন",
+    "message": "Have Fun with Customization",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        110
+      ]
+    ]
+  },
+  "Ghlr93": {
+    "translation": "উচ্চ গুণসম্পন্ন ছবি",
+    "message": "High quality images",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        29
+      ]
+    ]
+  },
+  "i0qMbr": {
+    "translation": "হোম",
+    "message": "Home",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        12
+      ],
+      [
+        "components/wegic/header.tsx",
+        8
+      ]
+    ]
+  },
+  "pzu7v4": {
+    "translation": "অনুভূমিক",
+    "message": "Horizontal",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        613
+      ],
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        711
+      ]
+    ]
+  },
+  "k4BMq5": {
+    "translation": "অনুভাবাংতর",
+    "message": "Horizontal Expansion",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        255
+      ]
+    ]
+  },
+  "LWjutm": {
+    "translation": "গোল্ফ অর্বিটে আমার স্কোর কীভাবে উন্নত করতে পারি?",
+    "message": "How can I improve my score in Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        130
+      ]
+    ]
+  },
+  "PkzK4L": {
+    "translation": "গোল্ফ অর্বিট কীভাবে খেলতে হয়?",
+    "message": "How do I play Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        122
+      ]
+    ]
+  },
+  "/o/u7t": {
+    "translation": "Como funciona o AI Image Extender?",
+    "message": "How does AI Image Extender work?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        32
+      ]
+    ]
+  },
+  "i1x708": {
+    "translation": "Como funciona o AI Photo Extender?",
+    "message": "How does AI Photo Extender work?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        29
+      ]
+    ]
+  },
+  "VVkhXx": {
+    "translation": "Como funciona o preenchimento gerativo de IA?",
+    "message": "How does Generative Fill AI work?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        29
+      ]
+    ]
+  },
+  "EJYtRo": {
+    "translation": "Quantas imagens o AI Photo Extender pode processar de uma vez?",
+    "message": "How many images can AI Photo Extender process at once?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        41
+      ]
+    ]
+  },
+  "T2jWIX": {
+    "translation": "Quantas imagens o preenchimento gerativo de IA pode processar de uma vez?",
+    "message": "How many images can Generative Fill AI process at once?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        41
+      ]
+    ]
+  },
+  "wVrOLV": {
+    "translation": "Quantas imagens posso expandir usando o AI Image Extender?",
+    "message": "How many images can I expand at once using AI Image Extender?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        54
+      ]
+    ]
+  },
+  "VXLg1Q": {
+    "translation": "গোল্ফ অর্বিট কীভাবে খেলতে হয়?",
+    "message": "How To Play Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        26
+      ]
+    ]
+  },
+  "dQt+7J": {
+    "translation": "আমি নিম্নলিখিত কারণগুলির জন্য তৃতীয় পক্ষের কোম্পানি এবং ব্যক্তিদের নিয়োগ করতে পারি:",
+    "message": "I may employ third-party companies and individuals due to the following reasons:",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        23
+      ]
+    ]
+  },
+  "EUZXzT": {
+    "translation": "আমি আমার গোপনীয়তা নীতি সময় সময় আপডেট করতে পারি। তাই আপনাকে এই পৃষ্ঠাটি সময় সময় পর্যালোচনা করা সুপারিশ করা হচ্ছে যেন কোনও পরিবর্তন আপনার জানা থাকে। োনও পরিবর্তন এই পৃষ্ঠায় নতুন গোপনীয়তা নীতি পোস্ট করার সঙ্গে সঙ্গে কার্যকরী হবে।",
+    "message": "I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        36
+      ]
+    ]
+  },
+  "5dDG4E": {
+    "translation": "আমরা আপনার ব্যক্তিগত তথ্য সুরক্ষিত করার জন্য বাণিজ্যিকভাবে গ্রহণযোগ্য মাধ্যমগুলি ব্যবহার করতে প্রচেষ্টা চালিয়ে যাচ্ছি। তবে মনে রাখতে হবে যে ইন্টারনেট মাধ্যমে প্রেরণ বা ইলেকট্রনিক সংরক্ষণের কোনো পদ্ধতিই 100% সুরক্ষিত এবং নির্ভরযোগ্য নয় এবং আমি এর নিরাপত্তাকে সম্পূর্ণরূপে নিশ্চিত করতে পারি না।",
+    "message": "I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        32
+      ]
+    ]
+  },
+  "gFP4HL": {
+    "translation": "আমি এই সেবার ব্যবহারকারীদের জানাতে চাই যে এই তৃতীয় পক্ষগুলি আপনার ব্যক্তিগত তথ্য অ্যাক্সেস করতে পারে। কারণ হল আমাদের পক্ষে নিয়োজিত কাজগুলি সম্পাদন করার জন্য। তবুও তারা এই তথ্য কোনও অন্য উদ্দেশ্যে প্রকাশ বা ব্যবহার করার জন্য বাধ্য নয়।",
+    "message": "I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        30
+      ]
+    ]
+  },
+  "xeCjro": {
+    "translation": "আমি আপনাকে অবহিত করতে চাই যে আপনি যখনই আমার সেবা ব্যবহার করেন, অ্যাপ-এ কোনও ত্রুটির ক্ষেত্রে আমি আপনার ফোনে লগ ডেটা নামে তথ্য এবং তথ্য (তৃতীয় পক্ষের পণ্য ব্যবহার করে) সংগ্রহ করি। এই লগ ডেটায় আপনার ডিভাইস ইন্টারনেট প্রোটোকল ('IP') ঠিকানা, ডিভাইস নাম, অপারেটিং সিস্টেম ভার্সন, আমার সেবা ব্যবহারের সময় অ্যাপ কনফিগারেশন, সেবা ব্যবহারের তারিখ ও সময় এবং অন্যান্য পরিসংখ্যান অন্তর্ভুক্ত থাকতে পারে।",
+    "message": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ('IP') address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        19
+      ]
+    ]
+  },
+  "d1ALrF": {
+    "translation": "এই শর্তাবলী সম্পর্কে আপনার যদি কোনো প্রশ্ন থাকে, তাহলে দয়া করে আমাদের সাথে #0# এ যোগাযোগ করুন।",
+    "message": "If you have any questions about these Terms, please contact us at #0#.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        27
+      ]
+    ]
+  },
+  "E1UQnk": {
+    "translation": "চিত্রগুলিকে প্রসারিত করা",
+    "message": "Images Outpainting",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/hero.tsx",
+        61
+      ],
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/hero.tsx",
+        61
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/hero.tsx",
+        61
+      ]
+    ]
+  },
+  "oTSrSS": {
+    "translation": "পেপাল সেবার শুরুতে একটি ত্রুটি সনাক্ত করা গেছে।",
+    "message": "Initialization of PayPal services encountered an error.",
+    "comments": [],
+    "origin": [
+      [
+        "components/payment/paypal.tsx",
+        60
+      ]
+    ]
+  },
+  "XU5AOg": {
+    "translation": "ইনপুট",
+    "message": "Input",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        179
+      ]
+    ]
+  },
+  "jE8On7": {
+    "translation": "গোল্ফ অর্বিটে যোগ দিন এবং গোল্ফ বল অসাধারণ উচ্চতায় আঘাত করার উত্তেজনা অনুভব করুন। একক-শট যুদ্ধে অংশগ্রহণ করুন, চ্যালেঞ্জিং স্তরগুলি জয় করুন এবং সর্বোত্তম গোল্ফ রাজা হতে সঠিক শট মাস্টার করুন!",
+    "message": "Join Golf Orbit and experience the thrill of hitting golf balls to incredible heights. Compete in one-shot battles, conquer challenging levels, and master the perfect shot to become the ultimate golf king!",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        22
+      ]
+    ]
+  },
+  "mFEgHO": {
+    "translation": "চ্যালেঞ্জগুলি মাস্টার করতে এবং অন্তরায়গুলি কার্যকরভাবে কাটিয়ে উঠতে গোল্ফ অর্বিট খেলতে থাকুন। আরও অনেক খেলার সাথে সাথে আরও ভাল হবেন!",
+    "message": "Keep playing Golf Orbit to master the challenges and learn how to overcome obstacles effectively. The more you play, the better you'll become!",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        80
+      ]
+    ]
+  },
+  "nlizoj": {
+    "translation": "গেম লঞ্চ করুন",
+    "message": "Launch the Game",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        31
+      ]
+    ]
+  },
+  "hU6JDJ": {
+    "translation": "প্রতিটি স্তরের অন্তরাবৃত্তের বিন্যাস শিখুন। তাদের অবস্থান বুঝে বেশ ভাল কৌশল ব্যবহার করতে সাহায্য করতে পারে।",
+    "message": "Learn the layout of obstacles in each level. Understanding their positions can help you strategize your shots better.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        101
+      ]
+    ]
+  },
+  "UlKSMd": {
+    "translation": "Esquerda",
+    "message": "Left",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        581
+      ]
+    ]
+  },
+  "F/9EGj": {
+    "translation": "চিত্র লোড হচ্ছে...",
+    "message": "Loading image...",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        755
+      ]
+    ]
+  },
+  "Z3FXyt": {
+    "translation": "লোড হচ্ছে...",
+    "message": "Loading...",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/loading.tsx",
+        8
+      ],
+      [
+        "components/payment/paypal.tsx",
+        54
+      ]
+    ]
+  },
+  "paehRh": {
+    "translation": "লগ আউট",
+    "message": "Log Out",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        667
+      ],
+      [
+        "components/wegic/navbar.tsx",
+        180
+      ]
+    ]
+  },
+  "S1g3Ds": {
+    "translation": "Centro",
+    "message": "Middle",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        579
+      ]
+    ]
+  },
+  "4Fwtsw": {
+    "translation": "আপনার শটগুলি পর্যবেক্ষণ করুন",
+    "message": "Monitor Your Shots",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        55
+      ]
+    ]
+  },
+  "bHt2FX": {
+    "translation": "নেটওয়ার্ক ত্রুটি বা CORS সমস্যা।",
+    "message": "Network error or CORS issue.",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/useS34R2.ts",
+        27
+      ]
+    ]
+  },
+  "ko93eb": {
+    "translation": "নতুন ব্যবহারকারী যারা লগ ইন করেছেন, তাদেরকে 2 টি ক্রেডিট প্রাপ্ত হবে",
+    "message": "New users who log in will receive 2 credits",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        39
+      ]
+    ]
+  },
+  "cvwg/A": {
+    "translation": "নতুন ব্যবহারকারী যারা লগইন করবে, তারা 5 ক্রেডিট পাবে",
+    "message": "New users who log in will receive 5 credits",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        120
+      ]
+    ]
+  },
+  "uO0GB/": {
+    "translation": "কোনও বৈধ সম্পদ তথ্য খুঁজে পাওয়া যায়নি।",
+    "message": "No valid resource information was found.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        334
+      ]
+    ]
+  },
+  "+n1T9k": {
+    "translation": "অন্তরাবৃত্তগুলি নিরীক্ষণ করুন",
+    "message": "Observe Obstacles",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        100
+      ]
+    ]
+  },
+  "8HI10O": {
+    "translation": "Imagem Original",
+    "message": "Original Image",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        915
+      ]
+    ]
+  },
+  "shdsCc": {
+    "translation": "Posição da imagem original",
+    "message": "Original Image Position",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        717
+      ]
+    ]
+  },
+  "3gz7Y7": {
+    "translation": "Posição da imagem original:",
+    "message": "Original Image Position:",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        620
+      ]
+    ]
+  },
+  "56MoT/": {
+    "translation": "Nossa ferramenta de preenchimento gerativo de IA é capaz de processar até quatro imagens simultaneamente. Esta funcionalidade de múltiplas imagens permite que os usuários aprimorem efetivamente várias imagens em uma única sessão, mostrando a versatilidade e eficiência da tecnologia de preenchimento gerativo de IA.",
+    "message": "Our generative fill AI tool is capable of processing up to four images simultaneously. This multi-image feature enables users to efficiently enhance multiple images in a single session, showcasing the versatility and efficiency of generative fill AI technology.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        42
+      ]
+    ]
+  },
+  "gh06VD": {
+    "translation": "আউটপুট",
+    "message": "Output",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        217
+      ]
+    ]
+  },
+  "3F1hbx": {
+    "translation": "ব্যবহারকারী দ্বারা মেঘ",
+    "message": "Own By User",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        315
+      ]
+    ]
+  },
+  "3TONwo": {
+    "translation": "একক-শট যুদ্ধে অংশ নিন যাতে আপনি নিজেকে চ্যালেঞ্জ করতে এবং একটি প্রতিযোগিতামূলক পরিবেশে আপনার দক্ষতা উন্নত করতে পারেন।",
+    "message": "Participate in one-shot battles to challenge yourself and improve your skills in a competitive environment.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        106
+      ]
+    ]
+  },
+  "YztchP": {
+    "translation": "বল আঘাত করার সময় সঠিক সময় পাওয়ার ব্যাপারে নিপুণ হোন। সঠিক সময়ের ব্যবহার আপনার শট দূরত্ব অস্বাভাবিক উন্নত করতে পারে।",
+    "message": "Perfect your timing when clicking to hit the ball. The right timing can significantly increase your shot distance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        91
+      ]
+    ]
+  },
+  "2bVshK": {
+    "translation": "স্থায়ীভাবে বৈধ",
+    "message": "Permanently valid",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        27
+      ]
+    ]
+  },
+  "W3mmGV": {
+    "translation": "ছবি আপলোড করতে ছবিতে ক্লিক বা সোঁচান।",
+    "message": "Please click or drag the image to upload it.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        774
+      ],
+      [
+        "components/wegic/painting-uploader.tsx",
+        105
+      ]
+    ]
+  },
+  "+Y65s1": {
+    "translation": "চালিয়ে যাওয়ার জন্য দয়া করে সাইন ইন করুন",
+    "message": "Please Sign In To Continue",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        391
+      ],
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        38
+      ]
+    ]
+  },
+  "PZCqeW": {
+    "translation": "পরে আবার চেষ্টা করুন।",
+    "message": "Please try again later.",
+    "comments": [],
+    "origin": [
+      [
+        "components/payment/paypal.tsx",
+        58
+      ]
+    ]
+  },
+  "jAzLA+": {
+    "translation": "অনুশীলন এবং প্রয়োগ করুন",
+    "message": "Practice and Experiment",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        79
+      ]
+    ]
+  },
+  "aHCEmh": {
+    "translation": "মূল্য নির্ধারণ",
+    "message": "Pricing",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(pricing)/pricing/page.tsx",
+        17
+      ],
+      [
+        "components/wegic/footer.tsx",
+        13
+      ]
+    ]
+  },
+  "tdGO5K": {
+    "translation": "{0} এর মূল্য নির্ধারণ |",
+    "message": "Pricing | {0}",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(details)/details/[...slug]/page.tsx",
+        10
+      ]
+    ]
+  },
+  "rQBXl9": {
+    "translation": "মূল্য পরিকল্পনা",
+    "message": "Pricing Plans",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        66
+      ]
+    ]
+  },
+  "ScJ9fj": {
+    "translation": "গোপনীয়তা নীতি",
+    "message": "Privacy policy",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        21
+      ],
+      [
+        "components/wegic/footer.tsx",
+        87
+      ]
+    ]
+  },
+  "woRfhL": {
+    "translation": "#0# এর গোপনীয়তা নীতি",
+    "message": "Privacy Policy for #0#",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        14
+      ]
+    ]
+  },
+  "k1ifdL": {
+    "translation": "ব্যবস্থাপনা চলছে",
+    "message": "Processing...",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        592
+      ]
+    ]
+  },
+  "x50rMS": {
+    "translation": "প্রকাশ তারিখ:",
+    "message": "Publish Date:",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/blogs.tsx",
+        33
+      ]
+    ]
+  },
+  "zZk9Yz": {
+    "translation": "ক্রয়",
+    "message": "Purchase",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        697
+      ]
+    ]
+  },
+  "A20mxR": {
+    "translation": "সদ্যপূর্ণ প্রয়োজনে ক্রয় করুন, কোনও প্রদান ফি নেই, অবিচ্ছিন্ন বৈধতা",
+    "message": "Purchase on demand, no subscription fee, lifetime validity",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        70
+      ]
+    ]
+  },
+  "WEYdDv": {
+    "translation": "অনুশীলিত",
+    "message": "Recommended",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        82
+      ]
+    ]
+  },
+  "6exX+8": {
+    "translation": "পুনরুত্থান করা",
+    "message": "Regenerate",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        807
+      ],
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        208
+      ]
+    ]
+  },
+  "xSxPvs": {
+    "translation": "অনুরোধোকৃত সময় উত্তোর নেওয়া হয়েছে। পরে আবার চেষ্টা করুন।",
+    "message": "Request timed out. Please try again later.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        431
+      ]
+    ]
+  },
+  "6gRgw8": {
+    "translation": "পুনরায় চেষ্টা করুন",
+    "message": "Retry",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        281
+      ]
+    ]
+  },
+  "nOPbWJ": {
+    "translation": "ঠিক",
+    "message": "Right",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        583
+      ]
+    ]
+  },
+  "n1ekoW": {
+    "translation": "সাইন ইন করুন",
+    "message": "Sign In",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        646
+      ],
+      [
+        "components/wegic/navbar.tsx",
+        162
+      ]
+    ]
+  },
+  "ZqvdDl": {
+    "translation": "গুগল দিয়ে সাইন ইন করুন",
+    "message": "Sign In With Google",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        638
+      ],
+      [
+        "components/wegic/navbar.tsx",
+        154
+      ],
+      [
+        "components/wegic/pricing.tsx",
+        128
+      ],
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        50
+      ]
+    ]
+  },
+  "1DA6ap": {
+    "translation": "চতুর্দিক",
+    "message": "Square",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        615
+      ],
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        713
+      ]
+    ]
+  },
+  "DnT2Fb": {
+    "translation": "গোল্ফ অর্বিটে প্রবেশ করে শুরু করুন, যেখানে আপনি একটি উত্তেজনাপূর্ণ গোল্ফ সফরে অভিযাত্রা শুরু করবেন। গেম ইন্টারফেস এবং নিয়ন্ত্রণগুলির সাথে পরিচিত হোন।",
+    "message": "Start by entering Golf Orbit, where you will embark on an exciting golfing adventure. Familiarize yourself with the game interface and controls.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        32
+      ]
+    ]
+  },
+  "FKsmFn": {
+    "translation": "আয়োজন শুরু করুন",
+    "message": "Start Expanding",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        823
+      ]
+    ]
+  },
+  "SowH7o": {
+    "translation": "এআই এক্সটেণ্ডার দিয়ে বিনামুল্যে শুরু করুন। প্রথম 3টি ইমেজকে খুব চার্জ করা হবে না।",
+    "message": "Start for free with the AI extender. Expand your first 3 images at no charge.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/features.tsx",
+        14
+      ],
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/features.tsx",
+        14
+      ]
+    ]
+  },
+  "fYBlNd": {
+    "translation": "স্বাধীনভাবে উদ্ভাবনশীল পূরণ AI এর সাথে শুরু করুন। আপনার প্রথম ৩টি ছবি ফ্রি করে বড়াও।",
+    "message": "Start for free with the generative fill ai. Expand your first 3 images at no charge.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/features.tsx",
+        14
+      ]
+    ]
+  },
+  "y2IKvf": {
+    "translation": "হরিত এলাকার কাছাকাছি নাভিগেশন বার থামিয়ে দিন যাতে আপনার সর্বোচ্চ দূরত্বের জন্য সর্বোত্তম আঘাত দিক নিশ্চিত করা যায়।",
+    "message": "Stop the navigation bar in the range closest to the green area to ensure the best hitting direction for maximum distance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        50
+      ]
+    ]
+  },
+  "1gi2aF": {
+    "translation": "সিস্টেম ত্রুটি, অনুগ্রহ করে পুনঃ চেষ্টা করুন বা ওয়েবসাইট প্রশাসকের সাথে যোগাযোগ করুন",
+    "message": "System Error, Please retry or contact website admin",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        421
+      ],
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        448
+      ]
+    ]
+  },
+  "ywdZxq": {
+    "translation": "সিস্টেম ত্রুটি, দয়া করে পুনঃচেষ্টা করুন বা ওয়েবসাইটের অ্যাডমিনকে যোগাযোগ করুন",
+    "message": "System Error,Please retry or contract website admin",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/painting-uploader.tsx",
+        78
+      ]
+    ]
+  },
+  "UCLeG0": {
+    "translation": "পরিষেবার শর্তাবলী",
+    "message": "Terms of service",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        88
+      ]
+    ]
+  },
+  "X+aiz8": {
+    "translation": "#0# এর সেবা শর্তাবলী",
+    "message": "Terms of Service for #0#",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        14
+      ]
+    ]
+  },
+  "I3FBWw": {
+    "translation": "আপনার ইমেজের পাশ অ্যানালাইজ করে এআই এটা স্থিতিগতভাবে প্রসারিত করে যাতে স্বাভাবিক ফলাফল পাওয়া যায়।",
+    "message": "The AI analyzes your image's context and extends it for consistently realistic outcomes.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/features.tsx",
+        25
+      ],
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/features.tsx",
+        25
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/features.tsx",
+        25
+      ]
+    ]
+  },
+  "DVLi/m": {
+    "translation": "মূল উদ্দেশ্যগুলির মধ্যে আছে বল যতদূর সম্ভব দূরে ছুড়না, পতাকা সহ ছিদ্রে বল ল্যান্ড করে পয়েন্ট করা এবং কার্যকরতা বাড়াতে শক্তি-আপ ব্যবহার করা।",
+    "message": "The main objectives include hitting the ball as far as you can, scoring by landing the ball in holes with flags, and strategically using power-ups to enhance your performance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        127
+      ]
+    ]
+  },
+  "YHuztc": {
+    "translation": "ওয়েবসাইটে টেক্সট থেকে তৈরি ছবিগুলির মালিকানা ছবি তৈরিকারী ব্যক্তির। #0# ব্যবহারকারীদ্বারা তৈরি ছবিগুলির উপর কোনো মালিকানা দাবি করে না।",
+    "message": "The ownership of images generated from text on the Website belongs to the person who created the image. #0# claims no ownership over images created by users.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        19
+      ]
+    ]
+  },
+  "fWtzVj": {
+    "translation": "চিত্র প্রসেস করা যায়নি। পরে আবার চেষ্টা করুন।",
+    "message": "There was an error processing the image. Please try again later.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        273
+      ]
+    ]
+  },
+  "GYzcuY": {
+    "translation": "এই শর্তাবলী যুক্তরাষ্ট্র অমেরিকার আইনের দ্বারা শাসিত ও গঠিত হবে, যার দ্বারা তার আইন সংঘর্ষের ধারাবাহিকতা অবহেলিত হবে।",
+    "message": "These Terms shall be governed and construed in accordance with the laws of the United States of America, without regard to its conflict of law provisions.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        23
+      ]
+    ]
+  },
+  "Xwg1Sn": {
+    "translation": "এই পৃষ্ঠাটি আমার সার্ভিস ব্যবহার করার সিদ্ধান্ত নেওয়ার ক্ষেত্রে ব্যক্তিগত তথ্য সংগ্রহ, ব্যবহার এবং প্রকাশ সম্পর্কে আমার নীতি সম্পর্কে পরিদর্শকদের অবহিত করার জন্য ব্যবহৃত হয়। আপনি যদি আমার সার্ভিস ব্যবহার করার সিদ্ধান্ত নেন, তাহলে আপনি এই নীতির সাথে তথ্য সংগ্রহ ও ব্যবহারের জন্য সম্মতি দেন। আমি যে ব্যক্তিগত তথ্য সংগ্রহ করি তা সার্ভিস প্রদান ও উন্নত করার জন্য ব্যবহৃত হবে। আমি এই গোপনীয়তা নীতিতে বর্ণিত ছাড়া অন্য কারও সাথে আপনার তথ্য ব্যবহার বা শেয়ার করব না।",
+    "message": "This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        15
+      ]
+    ]
+  },
+  "S1ia36": {
+    "translation": "এই সার্ভিস অন্য কিছু সাইটে লিংক থাকতে পারে। যদি আপনি কোনো তৃতীয় পক্ষের লিংকে ক্লিক করেন, তাহলে আপনাকে সেই সাইটে পাঠানো হবে। মনে রাখবেন যে, এই বাহিরের সাইটগুলি আমার দ্বারা পরিচালিত নয়। তাই আমি আপনাকে এই ওয়েবসাইটগুলির গোপনীয়তা নীতি পর্যালোচনা করতে দৃঢ়ভাবে পরামর্শ দিই। আমার কোনো নিয়ন্ত্রণ বা দায়িত্ব নেই তৃতীয় পক্ষের এই সাইটের বিষয়বস্তু, গোপনীয়তা নীতি বা অনুশীলনের উপর।",
+    "message": "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        34
+      ]
+    ]
+  },
+  "4fyLMn": {
+    "translation": "গলফ অর্বিট খেলার টিপস",
+    "message": "Tips Of Playing Golf Orbit",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        86
+      ]
+    ]
+  },
+  "+yrJEm": {
+    "translation": "আমাদের সার্ভিস কীভাবে ব্যবহৃত হয় তা বিশ্লেষণ করতে সহায়তা করার জন্য;",
+    "message": "To assist us in analyzing how our Service is used;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        28
+      ]
+    ]
+  },
+  "gN00PD": {
+    "translation": "আমাদের সার্ভিস সুষ্ঠুভাবে পরিচালনা করার জন্য;",
+    "message": "To facilitate our Service;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        25
+      ]
+    ]
+  },
+  "TIkU8p": {
+    "translation": "সার্ভিস সম্পর্কিত পরিষেবা প্রদানের জন্য;",
+    "message": "To perform Service-related services;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        27
+      ]
+    ]
+  },
+  "eQzifh": {
+    "translation": "গলফ অর্বিট খেলতে, আপনাকে বালি খালি, বাধা বিঘ্নে ভরা পাহাড়ি মাঠগুলির মধ্য দিয়ে বল চালানো যত দূর সম্ভব চেষ্টা করতে হবে। বলের দিক বুঝতে এবং উন্নয়ন সঠিকভাবে ব্যবহার করতে পারলে উচ্চতর স্কোর অর্জন করতে পারবেন।",
+    "message": "To play Golf Orbit, you need to hit the ball as far as possible while navigating through hilly fields filled with obstacles. Understanding ball direction and utilizing upgrades effectively are key to achieving high scores.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        123
+      ]
+    ]
+  },
+  "jiYr9i": {
+    "translation": "আমাদের পক্ষে সার্ভিস প্রদানের জন্য;",
+    "message": "To provide the Service on our behalf;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        26
+      ]
+    ]
+  },
+  "WWy8TN": {
+    "translation": "শীর্ষ",
+    "message": "Top",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        585
+      ]
+    ]
+  },
+  "kCd+q+": {
+    "translation": "মোট মুল্য",
+    "message": "Total Payment",
+    "comments": [],
+    "origin": [
+      [
+        "components/payment/payment-modal.tsx",
+        90
+      ]
+    ]
+  },
+  "rnNvFZ": {
+    "translation": "বিভিন্ন উন্নয়ন পরীক্ষা করে দেখুন কোন সমন্বয় আপনার খেলার শৈলীর জন্য সবচেয়ে ভাল ফল দেয়।",
+    "message": "Try different upgrades to see which combinations yield the best results for your play style.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        96
+      ]
+    ]
+  },
+  "Rd1BcW": {
+    "translation": "বিনামূল্যে চেষ্টা করুন",
+    "message": "Try It Free",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/index-uploader.tsx",
+        29
+      ]
+    ]
+  },
+  "MxB2DA": {
+    "translation": "এটা পরীক্ষা করুন",
+    "message": "Try it out",
+    "comments": [],
+    "origin": [
+      [
+        "components/payment/paypal.tsx",
+        63
+      ]
+    ]
+  },
+  "9Re0wu": {
+    "translation": "উদ্দেশ্য বুঝুন",
+    "message": "Understand the Objective",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        37
+      ]
+    ]
+  },
+  "ONWvwQ": {
+    "translation": "আপলোড করুন",
+    "message": "Upload",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/button.tsx",
+        44
+      ]
+    ]
+  },
+  "Pdq4/9": {
+    "translation": "নতুন ছবি আপলোড করুন",
+    "message": "Upload New Image",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        158
+      ],
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        170
+      ]
+    ]
+  },
+  "+/4Lnu": {
+    "translation": "সফলভাবে আপলোড হয়েছে",
+    "message": "Upload successfully",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/painting-uploader.tsx",
+        49
+      ]
+    ]
+  },
+  "h3BBNG": {
+    "translation": "আপনার ছবি আপলোড করুন",
+    "message": "Upload your photo",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/pricing.tsx",
+        26
+      ]
+    ]
+  },
+  "/eguJc": {
+    "translation": "আপলোড হচ্ছে",
+    "message": "Uploading",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/picture.tsx",
+        59
+      ]
+    ]
+  },
+  "GxkJXS": {
+    "translation": "আপলোড করা হচ্ছে...",
+    "message": "Uploading...",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        755
+      ],
+      [
+        "components/wegic/painting-uploader.tsx",
+        88
+      ]
+    ]
+  },
+  "FfVwIt": {
+    "translation": "আপনার শটের শক্তি সেট করতে একটি সহজ ক্লিক-এবং-হোল্ড তন্ত্র ব্যবহার করুন। বলটি লঞ্চ করতে বাঁ মাউস বোতাম টিপে ধরে রাখুন এবং তারপর ছেড়ে দিন।",
+    "message": "Use a simple click-and-hold mechanism to set your shot's power. Tap and hold the left mouse button to adjust the strength, then release to launch the ball.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        44
+      ]
+    ]
+  },
+  "HQiM02": {
+    "translation": "আপনার জমা থাকা পয়েন্ট ব্যবহার করে আপনার শটের শক্তি, গতি এবং বাউন্স বাড়ান। উন্নততম কার্যকারিতার জন্য বিভিন্ন সমন্বয় পরীক্ষা করুন।",
+    "message": "Use your accumulated points to boost your shot's strength, speed, and bounce. Experiment with different combinations for optimal performance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        68
+      ]
+    ]
+  },
+  "Sxm8rQ": {
+    "translation": "ব্যবহারকারী",
+    "message": "Users",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/hero.tsx",
+        56
+      ],
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/hero.tsx",
+        56
+      ],
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/hero.tsx",
+        56
+      ]
+    ]
+  },
+  "9DvIxX": {
+    "translation": "কৌশলগতভাবে উন্নয়ন ব্যবহার করুন",
+    "message": "Utilize Upgrades Strategically",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        67
+      ]
+    ]
+  },
+  "mX/isJ": {
+    "translation": "উল্লম্ব",
+    "message": "Vertical",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        614
+      ],
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        712
+      ]
+    ]
+  },
+  "M1f5yq": {
+    "translation": "উলম্ব বিস্তার",
+    "message": "Vertical Expansion",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/playgroundv1/[[...slug]]/views.tsx",
+        246
+      ]
+    ]
+  },
+  "5I58IA": {
+    "translation": "গলফ অর্বিট ক্লাবহাউসে যান",
+    "message": "Visit the Golf Orbit Clubhouse",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        73
+      ]
+    ]
+  },
+  "DFOg6P": {
+    "translation": "আমরা ব্যক্তিগত তথ্য (নাম, ইমেল এবং পেমেন্ট তথ্য) এবং গैর-ব্যক্তিগত তথ্য (ওয়েব কুকি) সংগ্রহ করি যাতে আমাদের পরিষেবা উন্নত করা যায়। এই তথ্যের ব্যবহার আমাদের গোপনীয়তা নীতির দ্বারা শাসিত, যা",
+    "message": "We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        21
+      ]
+    ]
+  },
+  "X+XmuC": {
+    "translation": "#0#-এ স্বাগতম! আমাদের ওয়েবসাইট, যা #1# (ওয়েবসাইট) এ অবস্থিত, কাস্টম ছবি তৈরির ক্ষমতা প্রদান করে। আমাদের ওয়েবসাইট অ্যাক্সেস বা ব্যবহার করার মাধ্যমে, আপনি এই সেবা শর্তাবলীতে বাধ্য হবেন। যদি আপনি শর্তগুলির কোনওটির সাথে সহমত না হন, তবে আপনার ওয়েবসাইট ব্যবহার করা নিষিদ্ধ হবে।",
+    "message": "Welcome to #0#! Our website, located at #1# (Website), is dedicated to providing you with the ability to create custom images. By accessing or using our Website, you agree to be bound by these Terms of Service (Terms). If you do not agree with any part of the terms, then you are prohibited from using the Website.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        15
+      ]
+    ]
+  },
+  "BZb0Et": {
+    "translation": "গল্ফ অর্বিটে আপনাকে স্বাগতম: আপনার তারকানিল্য গল্ফ অভিযান",
+    "message": "Welcome to Golf Orbit: Your Intergalactic Golf Adventure",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        21
+      ]
+    ]
+  },
+  "2aQVIc": {
+    "translation": "গলফ অর্বিটের মূল উদ্দেশ্য কী?",
+    "message": "What are the main objectives in Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        126
+      ]
+    ]
+  },
+  "ernaiK": {
+    "translation": "আইএয়ার ইমেজ এক্সটেন্ডার কি?",
+    "message": "What is AI Image Extender?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        26
+      ]
+    ]
+  },
+  "e40dkT": {
+    "translation": "আই ফটো এক্সটেন্ডার কি?",
+    "message": "What is AI Photo Extender?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        25
+      ]
+    ]
+  },
+  "tNQRV8": {
+    "translation": "উদ্ভাবনশীল পূরণ AI কি?",
+    "message": "What is Generative Fill AI?",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        25
+      ]
+    ]
+  },
+  "JVkaLa": {
+    "translation": "গলফ অর্বিট কী?",
+    "message": "What is Golf Orbit?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        118
+      ]
+    ]
+  },
+  "xVURvs": {
+    "translation": "হ্যাঁ, AI Image Extender  এর উদ্দেশ্য ছবির বিস্তারিতে সদৃশতা রাখার। AI অ্যালগরিদমগুলি শিক্ষিত হয় ছবির বৈশিষ্ট্যগুলি বুঝতে এবং প্রতিনিধি করতে, যার ফলে, বিস্তারিত ছবি স不退色ভাবে সদৃশ থাকে।",
+    "message": "Yes, AI Image Extender is designed to preserve the style of the original image throughout the expansion process. The AI algorithms are trained to understand and replicate the unique characteristics of the image, ensuring that the expanded content remains visually consistent with the original.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-image-extender/views/faqs.tsx",
+        41
+      ]
+    ]
+  },
+  "HiX60c": {
+    "translation": "হ্যাঁ, AI Photo Extender  ছবি কন텐্টের বিস্তারের উপর নির্ভর করার বাইরে পিক্সেল আওতাযudit বৃদ্ধিও প্রদান করে। আমাদের AI PHOTO EXTENDER এর এই বৈশিষ্ট্য ব্যবহারकर ব্যবহারকারীদের ছবির আওতা এবং গুণসম্পন্নতা উন্নত করতে সুযোগ দেয় এবং その結果、高解像度の出力が得られます。",
+    "message": "Yes, AI Photo Extender not only expands image content but also offers the option to increase pixel dimensions. This feature of our AI photo extender allows users to enhance both the size and quality of their images, resulting in higher resolution outputs.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/ai-photo-extender/views/faqs.tsx",
+        38
+      ]
+    ]
+  },
+  "/0yMu9": {
+    "translation": "হ্যাঁ, গলফ অর্বিট অনির্ধারণ পরিস্থিতি এবং বাধা উপস্থাপন করে যা কৌশল ও দৃঢ়তার প্রয়োজন করে। খেলোয়াড়দের এই চ্যালেঞ্জগুলি অতিক্রম করার জন্য তাদের কৌশল সাময়িকভাবে বদলাতে হবে।",
+    "message": "Yes, Golf Orbit presents unpredictable situations and obstacles that require technique and perseverance. Players must adapt their strategies to overcome these challenges.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        135
+      ]
+    ]
+  },
+  "FrTOHj": {
+    "translation": "হ্যাঁ, আমাদের γενেরেটিভ ফিল আই এর মাধ্যমে, ছবি কনটেন্টের বিস্তারের উপর নির্ভর করার বাইরে ছবি আওতা বৃদ্ধিও প্রদান করে। এই বৈশিষ্ট্যgend  ব্যবহারকারীদের ছবি আওতা এবং গুণসম্পন্নতা উন্নত করতে সুযোগ দেয় এবং その結果、高解像度の出力が得られます。",
+    "message": "Yes, our generative fill AI not only expands image content but also offers the option to increase pixel dimensions. This feature allows users to enhance both the size and quality of their images, resulting in higher resolution outputs through the power of generative fill AI technology.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generative-fill-ai/views/faqs.tsx",
+        38
+      ]
+    ]
+  },
+  "oTbbJ/": {
+    "translation": "আপনাকে ওয়েবসাইট এবং এর পরিষেবাগুলি ব্যক্তিগত, অবাণিজ্যিক উদ্দেশ্যে ব্যবহারের জন্য একটি সীমিত, অবিলুপ্ত, অস্থায়ী লাইসেন্স দেওয়া হয়েছে। এই লাইসেন্সে ওয়েবসাইটের বিষয়বস্তু কপি, সংশোধন বা বিতরণ করার অধিকার অন্তর্ভুক্ত নয় এবং আপনাকে আমাদের পূর্ব লিখিত অনুমতি ছাড়া এটি বাণিজ্যিক উদ্দেশ্যে ব্যবহার করা যাবে না।",
+    "message": "You are granted a limited, non-exclusive, non-transferable license to use the Website and its services for personal, non-commercial purposes. This license does not include any rights to copy, modify, or distribute the Website's content or use it for commercial purposes without our prior written consent.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        17
+      ]
+    ]
+  },
+  "t/I9i5": {
+    "translation": "আপনার স্কোর বাড়াতে আপনি নিয়মিত অনুশীলন করে, প্রতিটি শট থেকে শিক্ষা নিয়ে এবং একত্রিত স্কোর ব্যবহার করে শক্তি-বর্ধক কিনতে পারেন যা আপনার ছোড়ার ক্ষমতা উন্নত করবে।",
+    "message": "You can improve your score by practicing consistently, learning from each shot, and using accumulated scores to purchase power-ups that enhance your throws.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        131
+      ]
+    ]
+  },
+  "WCkkI4": {
+    "translation": "আপনার ক্রেডিট পয়েন্ট কম, প্রথমে রিচার্জ করুন।",
+    "message": "Your credit points are insufficient, please recharge first.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(editor)/editor/view.tsx",
+        394
+      ]
+    ]
+  },
+  "2mR+O1": {
+    "translation": "গলফ অর্বিটে আপনার মূল লক্ষ্য হল যতটা সম্ভব দূরে গলফ বল ছুঁড়ে মারা, যখনই আপনি বালি খালি, পাথর এবং অন্যান্য বাধার মধ্য দিয়ে যেতে হবে।",
+    "message": "Your main goal in Golf Orbit is to hit the golf ball as far as possible while navigating through various obstacles like rocks and sand pits.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        38
+      ]
+    ]
+  },
+  "lX4VC4": {
+    "translation": "ব্লগ তালিকা",
+    "message": "博客列表",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/layout..tsx",
+        7
+      ]
+    ]
+  },
+  "uk086D": {
+    "translation": "মানুষ বিভাজন অনুসন্ধান",
+    "message": "探索人声分离",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(explore)/explore/views.tsx",
+        40
+      ]
+    ]
+  },
+  "Xqre6v": {
+    "translation": "প্রায়ইক্ষেপ্ট ওয়ে আমাদের এআই মানুষের ভক্তি উদ্ধার কৌশল, যাতে আপনি জীবন ও কর্মে কর্মপাঠে সাহায্য করতে পারেন।",
+    "message": "轻松掌握我们的AI人声分离技术，助您在生活和工作中提高效率。",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(explore)/explore/views.tsx",
+        43
+      ]
+    ]
+  }
+}
