@@ -25,9 +25,6 @@ export default function useNavigation(pathname: string): [string, (href: string)
       return true
     }
     console.log('isActive ', {pathWithOutLocale, href})
-    if (!href.endsWith('/')) {
-      href += '/';
-    }
     return pathWithOutLocale == href && href !== '/'
   }
 

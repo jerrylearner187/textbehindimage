@@ -12,7 +12,7 @@ const nextConfig = {
       ]
     ]
   },
-  trailingSlash: true,
+  trailingSlash: false,
   webpack: (config, { webpack }) => {
     config.module.rules.push({
       test: /\/translations\/.*\/.*\.json$/,

@@ -9,7 +9,17 @@ import Link from 'next/link'
 import { FaImage, FaFont, FaPalette, FaDownload, FaLayerGroup, FaMagic } from 'react-icons/fa'
 import Editor from '@/components/editor'
 
-export const runtime = 'edge';
+// export const runtime = 'edge';
+export const dynamic = "force-static";
+export const dynamicParams = false;
+export async function generateStaticParams() {
+  // 构建时生成静态页面
+  const allLang = []
+  for (const langDir of Object.values(AVAILABLE_LOCALES)) {
+    allLang.push({ lang: langDir })
+  }
+  return allLang
+}
 
 export async function generateMetadata({
   params
