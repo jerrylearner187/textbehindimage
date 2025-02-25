@@ -358,8 +358,8 @@ export function useFabric() {
       originY: "center",
       selectable: true,
       evented: true,
-      strokeWidth: 0,
-      stroke: '',
+      // strokeWidth: 0,
+      // stroke: '',
 
       lockMovementX: false,
       lockMovementY: false,
@@ -369,6 +369,7 @@ export function useFabric() {
       splitByGrapheme: false,
       lockUniScaling: true, // Maintain aspect ratio when scaling
       centeredScaling: true,
+      visible: true
 
     })
 
@@ -863,7 +864,8 @@ export function useFabric() {
 
 
     try {
-
+      console.log('Setup Image canvas:', canvas);
+      console.log('Setup Image current:', canvasRef.current);
       if (!canvas && canvasRef.current) {
         const fabricCanvas = new Canvas(canvasRef.current);
         setCanvas(fabricCanvas);
@@ -913,10 +915,11 @@ export function useFabric() {
       }
 
       // Remove background and add as layer
-      // const imageBlob = await removeBackground(imageUrl);
-      // const removedBgUrl = URL.createObjectURL(imageBlob)
-      // const removedBgImage = await FabricImage.fromURL(removedBgUrl)
-      const removedBgImage = img;
+      console.log('[imgUrl]', imageUrl)
+      const imageBlob = await removeBackground(imageUrl, {debug: true});
+      const removedBgUrl = URL.createObjectURL(imageBlob)
+      const removedBgImage = await FabricImage.fromURL(removedBgUrl)
+      // const removedBgImage = img;
       setUploadProgress(100);
 
       // Use same scale as original
@@ -1058,6 +1061,15 @@ export function useFabric() {
     document.body.removeChild(link)
   }
 
+  function exitCanvas() {
+    console.log('exitCanvas canvas:', canvas);
+    if (!canvas) return
+    console.log("Exit")
+    canvas.destroy();
+    setCanvas(null);
+    setIsLoading(false);
+    setCanvasReady(false);
+  }
 
 
   return {
@@ -1075,6 +1087,7 @@ export function useFabric() {
     removeStroke,
     deleteSelectedObject,
     downloadCanvas,
+    exitCanvas,
     selectedTextProperties,
     toggleFilter,
     isImageSelected,

@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useRef, useCallback } from "react";
+import React, { useRef, useCallback, useState } from "react";
 import { Avatar, AvatarImage } from "@/components/ui/avatar";
 import { Separator } from "@/components/ui/separator";
 import { Button } from "@/components/ui/button";
@@ -10,6 +10,7 @@ import { BadgePlus, Files, FileText, Images, Link } from "lucide-react";
 import { useFabric } from "@/hooks/use-fabric";
 import { Toolbar } from "@/components/toolbar";
 import ImageRender from "@/components/image-render";
+import { ConfirmDialog } from "@/components/confirm-dialog"
 
 import "@/app/fonts.css";
 import AnimatedProgress from "@/components/animated-progrss";
@@ -33,6 +34,7 @@ const Editor: React.FC = () => {
     flipImage,
     deleteSelectedObject,
     downloadCanvas,
+    exitCanvas,
     selectedTextProperties,
     toggleFilter,
     isImageSelected,
@@ -49,6 +51,7 @@ const Editor: React.FC = () => {
     removeStroke,
     showDuplicateStroke,
   } = useFabric();
+  const [showConfirm, setShowConfirm] = useState<boolean>(false);
 
   const handleUploadImage = () => {
     if (fileInputRef.current) {
@@ -65,6 +68,17 @@ const Editor: React.FC = () => {
     },
     [handleImageUpload]
   );
+
+  const handleExit = () => {
+      exitCanvas();
+      setShowConfirm(false);
+      window.location.reload();
+  }
+
+  const exitEditor = () => {
+    console.log('exitEditor');
+    setShowConfirm(true);
+  }
 
   return (
     <div className="flex flex-col">
@@ -98,6 +112,21 @@ const Editor: React.FC = () => {
           />
         </div>
 
+        {/* Confirm */}
+        <div
+          className={`${showConfirm ? "flex" : "hidden"} flex-col items-center justify-center`}
+        >
+          <ConfirmDialog
+            open={showConfirm}
+            onOpenChange={setShowConfirm}
+            title="Confirm"
+            content="Please download your artwork before you exit"
+            confirmText="Exit"
+            onConfirm={handleExit}
+            confirmVariant="destructive"
+          />
+        </div>
+
         {/* Canvas */}
         <div className={`w-full ${canvasReady ? "block" : "hidden"}`}>
           <ImageRender
@@ -122,6 +151,7 @@ const Editor: React.FC = () => {
               flipImage={flipImage}
               deleteSelectedObject={deleteSelectedObject}
               downloadCanvas={downloadCanvas}
+              exitCanvas={exitEditor}
               selectedTextProperties={selectedTextProperties}
               toggleFilter={toggleFilter}
               isImageSelected={isImageSelected}

@@ -9,8 +9,24 @@ export default function Gallery() {
     {
       name: 'Riding',
       images: [
-        'https://img.text-behind-image.net/riding-before.jpg',
-        'https://img.text-behind-image.net/riding-after.png'
+        'https://img.text-behind-image.net/riding1-before.jpg',
+        'https://img.text-behind-image.net/riding1-after.jpg'
+      ],
+      height: 200
+    },
+    {
+      name: 'Skate',
+      images: [
+        'https://img.text-behind-image.net/skate1-before.jpg',
+        'https://img.text-behind-image.net/skate1-after.jpg'
+      ],
+      height: 200
+    },
+    {
+      name: 'Surfing',
+      images: [
+        'https://img.text-behind-image.net/surfing1-before.jpg',
+        'https://img.text-behind-image.net/surfing1-after.jpg'
       ],
       height: 200
     },

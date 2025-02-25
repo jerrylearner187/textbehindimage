@@ -2,9 +2,9 @@
 import { setupDevPlatform } from "@cloudflare/next-on-pages/next-dev";
 import { withContentlayer } from 'next-contentlayer';
 const nextConfig = {
-  reactStrictMode: true,
-  compress: true,
-  optimizeFonts: true,
+  // reactStrictMode: true,
+  // compress: true,
+  // optimizeFonts: true,
   experimental: {
     swcPlugins: [
       [
@@ -22,12 +22,12 @@ const nextConfig = {
     })
 
     // 添加新的插件配置
-    config.plugins.push(
-      new webpack.IgnorePlugin({
-        resourceRegExp: /canvas|jsdom/,
-        contextRegExp: /konva/
-      })
-    )
+    // config.plugins.push(
+    //   new webpack.IgnorePlugin({
+    //     resourceRegExp: /canvas|jsdom/,
+    //     contextRegExp: /konva/
+    //   })
+    // )
     return config
   },
   redirects() {

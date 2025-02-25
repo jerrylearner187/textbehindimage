@@ -66,6 +66,7 @@ interface ToolbarProps {
   flipImage: (direction: "horizontal" | "vertical") => void;
   deleteSelectedObject: () => void;
   downloadCanvas: () => void;
+  exitCanvas: () => void;
   selectedTextProperties: {
     fontColor: Color;
     fontFamily: string;
@@ -106,6 +107,7 @@ export function Toolbar({
   flipImage,
   deleteSelectedObject,
   downloadCanvas,
+  exitCanvas,
   selectedTextProperties,
   toggleFilter,
   showDuplicateStroke,
@@ -492,6 +494,20 @@ export function Toolbar({
           >
             <span className="tooltiptext">Download</span>
             <Icons.download className="size-4 text-gray-500" />
+          </Button>
+          {isMobile && (
+            <div className="h-5 invisible">
+              <div className="h-full w-px bg-[#e5e5e5]"></div>
+            </div>
+          )}
+          <Button
+            onClick={exitCanvas}
+            variant="outline"
+            size={"icon"}
+            className="rounded-full hover:animate-jelly tooltip shrink-0 relative"
+          >
+            <span className="tooltiptext">Exit Editor</span>
+            <Icons.exit className="size-4 text-gray-500" />
           </Button>
           {isMobile && (
             <div className="h-5 invisible">
