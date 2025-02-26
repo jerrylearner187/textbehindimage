@@ -36,7 +36,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        27
+        60
       ]
     ]
   },
@@ -47,7 +47,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        18
+        51
       ]
     ]
   },
@@ -58,7 +58,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        18
+        51
       ]
     ]
   },
@@ -69,7 +69,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        20
+        53
       ]
     ]
   },
@@ -80,7 +80,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        20
+        53
       ]
     ]
   },
@@ -91,7 +91,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        22
+        55
       ]
     ]
   },
@@ -102,7 +102,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        22
+        55
       ]
     ]
   },
@@ -113,7 +113,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        24
+        57
       ]
     ]
   },
@@ -124,7 +124,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        24
+        57
       ]
     ]
   },
@@ -135,7 +135,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        26
+        59
       ]
     ]
   },
@@ -146,7 +146,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        33
+        66
       ]
     ]
   },
@@ -157,7 +157,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        28
+        61
       ]
     ]
   },
@@ -168,7 +168,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        35
+        68
       ]
     ]
   },
@@ -179,7 +179,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        37
+        70
       ]
     ]
   },
@@ -234,7 +234,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        43
+        53
       ]
     ]
   },
@@ -278,7 +278,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        47
+        57
       ]
     ]
   },
@@ -322,7 +322,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        48
+        58
       ]
     ]
   },
@@ -355,7 +355,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(blogs)/blogs/page.tsx",
-        23
+        32
       ],
       [
         "components/wegic/blogs.tsx",
@@ -374,7 +374,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(blogs)/blogs/[slug]/page.tsx",
-        62
+        63
       ]
     ]
   },
@@ -385,7 +385,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        30
+        63
       ]
     ]
   },
@@ -407,7 +407,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        64
+        74
       ]
     ]
   },
@@ -473,7 +473,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        23
+        56
       ]
     ]
   },
@@ -495,7 +495,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        22
+        32
       ]
     ]
   },
@@ -506,7 +506,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        91
+        101
       ]
     ]
   },
@@ -539,7 +539,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        38
+        48
       ]
     ]
   },
@@ -605,7 +605,7 @@
     "origin": [
       [
         "components/wegic/gallery.tsx",
-        47
+        63
       ]
     ]
   },
@@ -649,7 +649,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        52
+        62
       ],
       [
         "components/wegic/features.tsx",
@@ -774,7 +774,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        53
+        63
       ]
     ]
   },
@@ -862,7 +862,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        19
+        52
       ]
     ]
   },
@@ -873,7 +873,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        131
+        141
       ],
       [
         "components/wegic/faqs.tsx",
@@ -1039,7 +1039,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        68
+        78
       ]
     ]
   },
@@ -1072,7 +1072,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        25
+        58
       ]
     ]
   },
@@ -1083,7 +1083,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        38
+        71
       ]
     ]
   },
@@ -1094,7 +1094,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        34
+        67
       ]
     ]
   },
@@ -1105,7 +1105,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        32
+        65
       ]
     ]
   },
@@ -1116,7 +1116,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        21
+        54
       ]
     ]
   },
@@ -1127,7 +1127,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        29
+        62
       ]
     ]
   },
@@ -1204,7 +1204,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        42
+        52
       ]
     ]
   },
@@ -1318,7 +1318,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        61
+        71
       ]
     ]
   },
@@ -1417,7 +1417,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        107
+        117
       ]
     ]
   },
@@ -1461,11 +1461,22 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        23
+        56
       ],
       [
         "components/wegic/footer.tsx",
         70
+      ]
+    ]
+  },
+  "LcET2C": {
+    "translation": "隱私政策",
+    "message": "Privacy Policy",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        27
       ]
     ]
   },
@@ -1476,7 +1487,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        16
+        49
       ]
     ]
   },
@@ -1487,7 +1498,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        88
+        98
       ]
     ]
   },
@@ -1509,7 +1520,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        154
+        164
       ]
     ]
   },
@@ -1542,7 +1553,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        37
+        47
       ]
     ]
   },
@@ -1579,7 +1590,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        157
+        167
       ]
     ]
   },
@@ -1638,6 +1649,17 @@
       ]
     ]
   },
+  "xowcRf": {
+    "translation": "服務條款",
+    "message": "Terms of Service",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        27
+      ]
+    ]
+  },
   "X+aiz8": {
     "translation": "#0#服務條款",
     "message": "Terms of Service for #0#",
@@ -1645,7 +1667,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        16
+        49
       ]
     ]
   },
@@ -1678,7 +1700,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        21
+        31
       ]
     ]
   },
@@ -1689,7 +1711,7 @@
     "origin": [
       [
         "components/wegic/gallery.tsx",
-        43
+        59
       ]
     ]
   },
@@ -1722,7 +1744,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        21
+        54
       ]
     ]
   },
@@ -1733,7 +1755,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        25
+        58
       ]
     ]
   },
@@ -1744,7 +1766,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        17
+        50
       ]
     ]
   },
@@ -1755,7 +1777,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        36
+        69
       ]
     ]
   },
@@ -1777,7 +1799,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        30
+        63
       ]
     ]
   },
@@ -1788,7 +1810,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        27
+        60
       ]
     ]
   },
@@ -1799,7 +1821,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        29
+        62
       ]
     ]
   },
@@ -1821,7 +1843,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        28
+        61
       ]
     ]
   },
@@ -1891,7 +1913,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        166
+        176
       ]
     ]
   },
@@ -2056,7 +2078,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        23
+        56
       ]
     ]
   },
@@ -2067,7 +2089,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        17
+        50
       ]
     ]
   },
@@ -2122,7 +2144,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        60
+        70
       ]
     ]
   },
@@ -2155,7 +2177,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        65
+        75
       ]
     ]
   },
@@ -2166,7 +2188,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        19
+        52
       ]
     ]
   },
@@ -2177,7 +2199,7 @@
     "origin": [
       [
         "app/[lang]/(public)/editor/page.tsx",
-        69
+        79
       ]
     ]
   },
