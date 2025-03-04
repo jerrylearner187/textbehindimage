@@ -79,6 +79,15 @@ const Footer = ({ params }: { params?: { lang: AVAILABLE_LOCALES } }) => (
             {/*    <Link href={`/${params?.lang}${item.href}`}>{item.name}</Link>*/}
             {/*  </li>*/}
             {/*))}*/}
+            <li>
+              <a
+                href="https://changehaircolor.net"
+                className="font-medium text-gray-500 hover:text-primary-200 duration-150"
+                title="Change Hair Color"
+              >
+                Change Hair Color
+              </a>
+            </li>
           </ul>
           <p className="mt-6 sm:mt-0">
               © {new Date().getFullYear()} {i18n._(siteConfig.name)} All rights reserved.
