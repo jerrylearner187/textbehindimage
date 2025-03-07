@@ -36,7 +36,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        60
+        64
       ]
     ]
   },
@@ -47,7 +47,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        51
+        55
       ]
     ]
   },
@@ -58,7 +58,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        51
+        55
       ]
     ]
   },
@@ -69,7 +69,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        53
+        57
       ]
     ]
   },
@@ -80,7 +80,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        53
+        57
       ]
     ]
   },
@@ -91,7 +91,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        55
+        59
       ]
     ]
   },
@@ -102,7 +102,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        55
+        59
       ]
     ]
   },
@@ -113,7 +113,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        57
+        61
       ]
     ]
   },
@@ -124,7 +124,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        57
+        61
       ]
     ]
   },
@@ -135,7 +135,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        59
+        63
       ]
     ]
   },
@@ -146,7 +146,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        66
+        70
       ]
     ]
   },
@@ -157,7 +157,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        61
+        65
       ]
     ]
   },
@@ -168,7 +168,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        68
+        72
       ]
     ]
   },
@@ -179,7 +179,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        70
+        74
       ]
     ]
   },
@@ -385,7 +385,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        63
+        67
       ]
     ]
   },
@@ -473,7 +473,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        56
+        60
       ]
     ]
   },
@@ -862,7 +862,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        52
+        56
       ]
     ]
   },
@@ -1072,7 +1072,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        58
+        62
       ]
     ]
   },
@@ -1083,7 +1083,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        71
+        75
       ]
     ]
   },
@@ -1094,7 +1094,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        67
+        71
       ]
     ]
   },
@@ -1105,7 +1105,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        65
+        69
       ]
     ]
   },
@@ -1116,7 +1116,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        54
+        58
       ]
     ]
   },
@@ -1127,7 +1127,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        62
+        66
       ]
     ]
   },
@@ -1410,6 +1410,17 @@
       ]
     ]
   },
+  "rBiIJR": {
+    "translation": "Pollo AI - Бесплатный генератор AI-видео, комплексное решение для AI-видео",
+    "message": "Pollo AI - Free AI Video Generator, All-in-One AI Video Solution",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/navbar.tsx",
+        172
+      ]
+    ]
+  },
   "s6f7Bn": {
     "translation": "Мощные возможности",
     "message": "Powerful Features",
@@ -1461,7 +1472,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        56
+        60
       ],
       [
         "components/wegic/footer.tsx",
@@ -1487,7 +1498,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        49
+        53
       ]
     ]
   },
@@ -1667,7 +1678,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        49
+        53
       ]
     ]
   },
@@ -1744,7 +1755,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        54
+        58
       ]
     ]
   },
@@ -1755,7 +1766,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        58
+        62
       ]
     ]
   },
@@ -1766,7 +1777,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        50
+        54
       ]
     ]
   },
@@ -1777,7 +1788,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        69
+        73
       ]
     ]
   },
@@ -1799,7 +1810,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        63
+        67
       ]
     ]
   },
@@ -1810,7 +1821,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        60
+        64
       ]
     ]
   },
@@ -1821,7 +1832,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        62
+        66
       ]
     ]
   },
@@ -1843,7 +1854,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        61
+        65
       ]
     ]
   },
@@ -1903,6 +1914,17 @@
       [
         "components/payment/paypal.tsx",
         63
+      ]
+    ]
+  },
+  "4nGaSL": {
+    "translation": "Попробуйте сейчас",
+    "message": "Try now",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/navbar.tsx",
+        182
       ]
     ]
   },
@@ -2078,7 +2100,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        56
+        60
       ]
     ]
   },
@@ -2089,7 +2111,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        50
+        54
       ]
     ]
   },
@@ -2188,7 +2210,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        52
+        56
       ]
     ]
   },
