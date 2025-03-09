@@ -80,6 +80,15 @@ const Footer = ({ params }: { params?: { lang: AVAILABLE_LOCALES } }) => (
             {/*  </li>*/}
             {/*))}*/}
             <li>
+                <a
+                  href="https://brickrodfisch.com"
+                  className="font-medium text-gray-500 hover:text-primary-200 duration-150"
+                  title="Brick Rod Fisch"
+                >
+                  Brick Rod Fisch
+                </a>
+              </li>
+            <li>
               <a
                 href="https://changehaircolor.net"
                 className="font-medium text-gray-500 hover:text-primary-200 duration-150"
