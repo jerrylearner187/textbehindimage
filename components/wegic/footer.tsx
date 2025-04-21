@@ -79,6 +79,15 @@ const Footer = ({ params }: { params?: { lang: AVAILABLE_LOCALES } }) => (
             {/*    <Link href={`/${params?.lang}${item.href}`}>{item.name}</Link>*/}
             {/*  </li>*/}
             {/*))}*/}
+            <li>
+                <a
+                  href="https://crazycattle3dgame.net"
+                  className="font-medium text-gray-500 hover:text-primary-200 duration-150"
+                  title="Crazy Cattle 3D"
+                >
+                  Crazy Cattle 3D
+                </a>
+              </li>
                         <li>
                 <a
                   href="https://ai-doll-generator.net"
