@@ -30,6 +30,7 @@ const Footer = ({ params }: { params?: { lang: AVAILABLE_LOCALES } }) => (
             {/*  {t`Create Awesome Chromakopia Avatar`}*/}
             {/*</p>*/}
             <div className="pt-2 flex items-center gap-x-6 text-gray-400">
+            <a href="https://startupfa.me/s/text-behind-image-2?utm_source=text-behind-image.net" target="_blank"><img src="https://startupfa.me/badges/featured-badge-small.webp" alt="Featured on Startup Fame" width="224" height="36" /></a>
               {/* <a href="https://x.com/golforbit" target="_blank" aria-label="Social media">
                 <FaXTwitter />
               </a>
