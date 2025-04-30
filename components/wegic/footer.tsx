@@ -31,6 +31,7 @@ const Footer = ({ params }: { params?: { lang: AVAILABLE_LOCALES } }) => (
             {/*</p>*/}
             <div className="pt-2 flex items-center gap-x-6 text-gray-400">
             <a href="https://startupfa.me/s/text-behind-image-2?utm_source=text-behind-image.net" target="_blank"><img src="https://startupfa.me/badges/featured-badge-small.webp" alt="Featured on Startup Fame" width="224" height="36" /></a>
+            <a href="https://www.producthunt.com/posts/text-behind-image-4?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-text&#0045;behind&#0045;image&#0045;4" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=959613&theme=light&t=1746019639746" alt="Text&#0032;Behind&#0032;Image - Add&#0032;hidden&#0032;text&#0032;to&#0032;your&#0032;images&#0032;&#0124;&#0032;text&#0032;behind&#0032;image | Product Hunt" style={{ width: "250px", height: "54px" }} width="250" height="54" /></a>
               {/* <a href="https://x.com/golforbit" target="_blank" aria-label="Social media">
                 <FaXTwitter />
               </a>
